@@ -1,0 +1,128 @@
+{
+  "topics": [
+    {
+      "name": "Endometriose",
+      "keywords": ["endometriose", "endometriosis"],
+      "color": "#c2185b",
+      "icon": "🔴"
+    },
+    {
+      "name": "Menopausa",
+      "keywords": ["menopausa", "menopause", "menopausal", "post-menopause", "postmenopause", "pós-menopausa"],
+      "color": "#8e24aa",
+      "icon": "🟣"
+    },
+    {
+      "name": "Terapia Hormonal",
+      "keywords": ["terapia de reposição hormonal", "TRH", "hormone replacement therapy", "HRT", "terapia hormonal", "hormonal therapy", "reposição hormonal"],
+      "color": "#5e35b1",
+      "icon": "💜"
+    },
+    {
+      "name": "Gestrinona",
+      "keywords": ["gestrinone", "gestrinona"],
+      "color": "#1e88e5",
+      "icon": "🔵"
+    },
+    {
+      "name": "Lipedema",
+      "keywords": ["lipedema", "lipoedema", "lipœdema"],
+      "color": "#00897b",
+      "icon": "🩵"
+    },
+    {
+      "name": "Estradiol",
+      "keywords": ["estradiol", "estrogen", "estrogênio", "estriol", "estrone", "estradiol therapy"],
+      "color": "#d81b60",
+      "icon": "🌸"
+    },
+    {
+      "name": "Testosterona",
+      "keywords": ["testosterone women", "testosterona mulheres", "androgens women", "androgen", "andrógenos", "testosterone female", "low testosterone women"],
+      "color": "#f4511e",
+      "icon": "🟠"
+    },
+    {
+      "name": "Adenomiose",
+      "keywords": ["adenomyosis", "adenomiose"],
+      "color": "#6d4c41",
+      "icon": "🟤"
+    },
+    {
+      "name": "Tirzepatida",
+      "keywords": ["tirzepatide", "tirzepatida", "Mounjaro", "Zepbound", "GLP-1 GIP", "dual agonist GLP"],
+      "color": "#43a047",
+      "icon": "🟢"
+    },
+    {
+      "name": "Perimenopausa",
+      "keywords": ["perimenopause", "perimenopausa", "perimenopáusica", "menopausal transition", "transição menopausal"],
+      "color": "#e91e63",
+      "icon": "🌺"
+    },
+    {
+      "name": "Progesterona",
+      "keywords": ["progesterone", "progesterona", "progestin", "progestogen", "micronized progesterone"],
+      "color": "#7b1fa2",
+      "icon": "🫧"
+    },
+    {
+      "name": "Brain Fog",
+      "keywords": ["brain fog", "névoa mental", "cognitive decline women", "memory women", "cognition menopause", "mental clarity women", "brain fog menopause"],
+      "color": "#455a64",
+      "icon": "🧠"
+    },
+    {
+      "name": "Cérebro Feminino",
+      "keywords": ["female brain", "women brain", "cérebro feminino", "neuroscience women", "sex differences brain", "women neurology", "gender brain"],
+      "color": "#0288d1",
+      "icon": "💡"
+    },
+    {
+      "name": "Sono em Mulheres",
+      "keywords": ["sleep women", "sono mulheres", "insomnia women", "insônia mulheres", "sleep disorders women", "sleep menopause", "sono menopausa", "women sleep quality"],
+      "color": "#3949ab",
+      "icon": "🌙"
+    }
+  ],
+  "rss_feeds": [
+    "// === PubMed — Buscas científicas por tema (NCBI, gratuito) ===",
+    "https://pubmed.ncbi.nlm.nih.gov/rss/search/?term=endometriosis&format=rss&limit=20",
+    "https://pubmed.ncbi.nlm.nih.gov/rss/search/?term=menopause+hormone+therapy&format=rss&limit=20",
+    "https://pubmed.ncbi.nlm.nih.gov/rss/search/?term=lipedema&format=rss&limit=20",
+    "https://pubmed.ncbi.nlm.nih.gov/rss/search/?term=tirzepatide+women&format=rss&limit=20",
+    "https://pubmed.ncbi.nlm.nih.gov/rss/search/?term=adenomyosis&format=rss&limit=20",
+    "https://pubmed.ncbi.nlm.nih.gov/rss/search/?term=female+brain+cognition+menopause&format=rss&limit=20",
+    "https://pubmed.ncbi.nlm.nih.gov/rss/search/?term=sleep+women+insomnia&format=rss&limit=20",
+    "https://pubmed.ncbi.nlm.nih.gov/rss/search/?term=estradiol+women+therapy&format=rss&limit=20",
+    "https://pubmed.ncbi.nlm.nih.gov/rss/search/?term=progesterone+women&format=rss&limit=20",
+    "https://pubmed.ncbi.nlm.nih.gov/rss/search/?term=testosterone+women+health&format=rss&limit=20",
+    "https://pubmed.ncbi.nlm.nih.gov/rss/search/?term=perimenopause&format=rss&limit=20",
+    "https://pubmed.ncbi.nlm.nih.gov/rss/search/?term=gestrinone+endometriosis&format=rss&limit=20",
+    "https://pubmed.ncbi.nlm.nih.gov/rss/search/?term=brain+fog+women+hormones&format=rss&limit=20",
+    "https://pubmed.ncbi.nlm.nih.gov/rss/search/?term=progesterone+sleep+women&format=rss&limit=20",
+
+    "// === Revistas científicas de alto impacto ===",
+    "https://www.thelancet.com/rssfeed/lancet_online.xml",
+    "https://www.nejm.org/action/showFeed?jc=nejmoa&type=etoc&feed=rss",
+    "https://www.bmj.com/rss/thebmj.xml",
+    "https://journals.lww.com/menopausejournal/rss/latest.xml",
+    "https://www.tandfonline.com/action/showFeed?ui=0&mi=9vb7j0&ai=s5&jc=iclm&type=etoc&feed=rss",
+    "https://academic.oup.com/rss/site_6311/advanceAccess.xml",
+    "https://www.fertstert.org/rss/S0015028200.xml",
+    "https://www.nature.com/subjects/womens-health.rss",
+    "https://jamanetwork.com/rss/site_3/67.xml",
+
+    "// === Sociedade Britânica de Menopausa (BMS) ===",
+    "https://thebms.org.uk/feed/",
+
+    "// === Portais científicos confiáveis ===",
+    "https://www.sciencedaily.com/rss/health_medicine/women_health.xml",
+    "https://www.sciencedaily.com/rss/health_medicine/gynecology.xml",
+    "https://www.medicalnewstoday.com/rss/all",
+    "https://www.health.harvard.edu/blog/feed",
+    "https://theconversation.com/health/articles.atom"
+  ],
+  "max_articles": 300,
+  "days_back": 30
+}
