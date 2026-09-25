@@ -1,0 +1,113 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Meu Feed de Saúde</title>
+  <link rel="stylesheet" href="style.css" />
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet" />
+</head>
+<body>
+
+  <!-- ── HEADER ─────────────────────────────────────────────────── -->
+  <header class="header">
+    <div class="header-inner">
+      <div class="logo">
+        <span class="logo-icon">🌸</span>
+        <div class="logo-text">
+          <h1>Meu Feed de Saúde</h1>
+          <span class="logo-sub">Artigos personalizados · Atualização diária</span>
+        </div>
+      </div>
+
+      <div class="header-controls">
+        <div class="search-wrap">
+          <span class="search-icon">🔍</span>
+          <input
+            id="search-input"
+            type="search"
+            placeholder="Buscar artigos…"
+            autocomplete="off"
+          />
+        </div>
+        <button id="theme-toggle" class="icon-btn" title="Alternar tema claro/escuro">🌙</button>
+      </div>
+    </div>
+  </header>
+
+  <!-- ── LAYOUT ─────────────────────────────────────────────────── -->
+  <div class="layout">
+
+    <!-- Sidebar -->
+    <aside class="sidebar">
+      <h2 class="sidebar-title">Meus Temas</h2>
+      <div id="topic-filters" class="topic-filters">
+        <button class="topic-btn active" data-topic="all">
+          <span>✨</span> Todos
+        </button>
+        <!-- Gerado dinamicamente pelo app.js -->
+      </div>
+
+      <div class="sidebar-stats">
+        <div class="stat-item">
+          <span class="stat-icon">📄</span>
+          <span id="stat-total">— artigos</span>
+        </div>
+        <div class="stat-item">
+          <span class="stat-icon">🕒</span>
+          <span id="stat-updated">Não atualizado ainda</span>
+        </div>
+        <div class="stat-item new-count">
+          <span class="stat-icon">🆕</span>
+          <span id="stat-new">— novos hoje</span>
+        </div>
+      </div>
+    </aside>
+
+    <!-- Main content -->
+    <main class="main">
+
+      <!-- Estado: carregando -->
+      <div id="state-loading" class="state-box">
+        <div class="spinner"></div>
+        <p>Carregando artigos…</p>
+      </div>
+
+      <!-- Estado: erro (sem articles.json) -->
+      <div id="state-error" class="state-box" hidden>
+        <div class="state-emoji">⚙️</div>
+        <h3>Ainda não há artigos</h3>
+        <p>Execute o script Python para buscar os primeiros artigos:</p>
+        <div class="code-block">
+          <code>python3 fetch_articles.py</code>
+          <button class="copy-btn" onclick="copyCmd(this)">Copiar</button>
+        </div>
+        <p class="hint">Depois, recarregue esta página.</p>
+      </div>
+
+      <!-- Estado: sem resultados para a busca -->
+      <div id="state-empty" class="state-box" hidden>
+        <div class="state-emoji">🔎</div>
+        <h3>Nenhum artigo encontrado</h3>
+        <p>Tente outro tema ou remova o filtro de busca.</p>
+      </div>
+
+      <!-- Grid de artigos -->
+      <div id="articles-grid" class="articles-grid" hidden></div>
+
+    </main>
+  </div>
+
+  <!-- ── MODAL de artigo expandido ──────────────────────────────── -->
+  <div id="article-modal" class="modal-overlay" hidden>
+    <div class="modal-box">
+      <button class="modal-close" id="modal-close">✕</button>
+      <div id="modal-content"></div>
+    </div>
+  </div>
+
+  <script src="app.js"></script>
+</body>
+</html>
