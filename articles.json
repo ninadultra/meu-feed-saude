@@ -1,5 +1,19 @@
 {
-  "updated_at": null,
-  "total": 0,
-  "articles": []
+  "updated_at": "2026-09-26T10:12:42.528009+00:00",
+  "total": 1,
+  "articles": [
+    {
+      "id": "98ebf2ef3644f10d24b9524e3911e80b",
+      "title": "Review of Prepregnancy Care and Counseling",
+      "url": "https://jamanetwork.com/journals/jama/fullarticle/2853067",
+      "source": "JAMA Current Issue",
+      "summary": "To the Editor In reading the otherwise comprehensive article by Dr Cooper and colleagues on prepregnancy care and counseling, we were surprised by the lack of discussion about testing for iron deficiency. Iron deficiency, the world’s most common micronutrient deficiency, is epidemic in young women. Studies of healthy reproductive-aged female patients report that iron deficiency is present in appro",
+      "image": null,
+      "published": "2026-09-22T00:00:00+00:00",
+      "topics": [
+        "Brain Fog"
+      ],
+      "fetched_at": "2026-09-26T10:12:29.584946+00:00"
+    }
+  ]
 }
