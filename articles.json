@@ -1,7 +1,20 @@
 {
-  "updated_at": "2026-09-26T10:12:42.528009+00:00",
-  "total": 1,
+  "updated_at": "2026-09-27T10:12:17.016838+00:00",
+  "total": 4,
   "articles": [
+    {
+      "id": "58cb20c8e073b47dde75a5f7e8e36a70",
+      "title": "Nationwide Danish study reaffirms benefits and risks of menopausal hormone therapy by route of administration",
+      "url": "https://thebms.org.uk/2026/09/nationwide-danish-study-reaffirms-benefits-and-risks-of-menopausal-hormone-therapy-by-route-of-administration/",
+      "source": "British Menopause Society",
+      "summary": "A large nationwide case-control study from Denmark, published this month, examines associations between current use of menopausal hormone therapy (MHT) and risk of venous thromboembolism (VTE), ischaemic stroke, and myocardial infarction (MI).MHT remains an effective and well-established treatment for menopausal symptoms, with recognised benefits for quality of life and bone health. As with all tr",
+      "image": null,
+      "published": "2026-09-24T14:46:14+00:00",
+      "topics": [
+        "Menopausa"
+      ],
+      "fetched_at": "2026-09-27T10:12:07.153095+00:00"
+    },
     {
       "id": "98ebf2ef3644f10d24b9524e3911e80b",
       "title": "Review of Prepregnancy Care and Counseling",
@@ -13,7 +26,33 @@
       "topics": [
         "Brain Fog"
       ],
-      "fetched_at": "2026-09-26T10:12:29.584946+00:00"
+      "fetched_at": "2026-09-27T10:12:05.500838+00:00"
+    },
+    {
+      "id": "f5f9c47dc0f086d8dcc317c030823d36",
+      "title": "Key messages from the Menopause Society of Ireland Conference 2026: “Debunking Menopause Myths – Let’s Talk Evidence”",
+      "url": "https://thebms.org.uk/2026/09/key-messages-from-the-menopause-society-of-ireland-conference-2026-debunking-menopause-myths-lets-talk-evidence/",
+      "source": "British Menopause Society",
+      "summary": "Dr Heather Currie and Kathy Abernethy, BMS Trustees, and Emily Josif, BMS Communications Manager, were invited to attend the Menopause Society of Ireland (MSI) Conference on 12 September 2026. The event was dedicated this year to a single, clear theme: debunking menopause myths that continue to affect menopause care and post reproductive health. Misinformation [...] The post Key messages from the ",
+      "image": null,
+      "published": "2026-09-15T10:37:30+00:00",
+      "topics": [
+        "Menopausa"
+      ],
+      "fetched_at": "2026-09-27T10:12:07.153215+00:00"
+    },
+    {
+      "id": "5ddcbbf13e82a254a01229e12f157a36",
+      "title": "Women’s Health Concern launches new Instagram page",
+      "url": "https://thebms.org.uk/2026/09/womens-health-concern-launches-new-instagram-page/",
+      "source": "British Menopause Society",
+      "summary": "The British Menopause Society (BMS) is pleased to announce the launch of a new Instagram page for Women’s Health Concern (WHC), the patient voice of the BMS.There is a growing concern about the volume of unregulated and, in some cases, inaccurate menopause-related information circulating on social media and other online platforms. This Instagram page has [...] The post Women&#8217;s Health Concern",
+      "image": null,
+      "published": "2026-09-10T09:14:11+00:00",
+      "topics": [
+        "Menopausa"
+      ],
+      "fetched_at": "2026-09-27T10:12:07.153313+00:00"
     }
   ]
 }
