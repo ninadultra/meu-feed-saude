@@ -1,3 +1,6 @@
+/* Garante que elementos com o atributo "hidden" fiquem realmente ocultos */
+[hidden] { display: none !important; }
+
 /* ── Variáveis de tema ───────────────────────────────────────────────── */
 :root {
   --bg:          #f5f0ff;
