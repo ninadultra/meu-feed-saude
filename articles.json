@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-23T14:44:16.323850+00:00",
+  "updated_at": "2026-10-24T13:53:58.768747+00:00",
   "total": 1000,
   "articles": [
     {
@@ -9,12 +9,12 @@
       "source": "Maturitas",
       "summary": "",
       "image": null,
-      "published": "2026-10-23T14:43:43.294397+00:00",
+      "published": "2026-10-24T13:53:22.008034+00:00",
       "topics": [
         "Menopausa",
         "Perimenopausa"
       ],
-      "fetched_at": "2026-10-23T14:43:43.294397+00:00"
+      "fetched_at": "2026-10-24T13:53:22.008034+00:00"
     },
     {
       "id": "cf34af92e5530a04bb2ca0308432f14b",
@@ -23,11 +23,11 @@
       "source": "Maturitas",
       "summary": "",
       "image": null,
-      "published": "2026-10-23T14:43:43.294397+00:00",
+      "published": "2026-10-24T13:53:22.008034+00:00",
       "topics": [
         "Menopausa"
       ],
-      "fetched_at": "2026-10-23T14:43:43.294397+00:00"
+      "fetched_at": "2026-10-24T13:53:22.008034+00:00"
     },
     {
       "id": "5c11bb954d0cf1a886c71d19930043f8",
@@ -36,25 +36,40 @@
       "source": "PubMed",
       "summary": "Obstetrics and gynecology · Piasta J, Zewail A",
       "image": null,
-      "published": "2026-10-23T14:43:32.935243+00:00",
+      "published": "2026-10-24T13:53:11.400634+00:00",
       "topics": [
         "Menopausa",
         "Perimenopausa"
       ],
-      "fetched_at": "2026-10-23T14:43:32.935302+00:00"
+      "fetched_at": "2026-10-24T13:53:11.400663+00:00"
     },
     {
-      "id": "0ab1b5b2765464182fc5537575fde781",
-      "title": "Cardiovascular Health in Women: Navigating Menopause and Beyond",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42907050/",
+      "id": "8916c928d37b3c94ff86569d78d84d8b",
+      "title": "When a Psychiatric Diagnosis Is Actually Perimenopause",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42814536/",
       "source": "PubMed",
-      "summary": "Endocrinology and metabolism clinics of North America · Obaed N, Mihaj I, Nudy M",
+      "summary": "The American journal of nursing · Ramey ES",
       "image": null,
-      "published": "2026-10-23T14:43:06.233039+00:00",
+      "published": "2026-10-24T13:53:11.400053+00:00",
       "topics": [
-        "Menopausa"
+        "Menopausa",
+        "Perimenopausa"
       ],
-      "fetched_at": "2026-10-23T14:43:06.233104+00:00"
+      "fetched_at": "2026-10-24T13:53:11.400084+00:00"
+    },
+    {
+      "id": "5f2abd136aada8e742bdea077b64cb58",
+      "title": "Recognizing and Managing Perimenopause",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42911196/",
+      "source": "PubMed",
+      "summary": "The American journal of nursing · Collins AM",
+      "image": null,
+      "published": "2026-10-24T13:52:37.328150+00:00",
+      "topics": [
+        "Menopausa",
+        "Perimenopausa"
+      ],
+      "fetched_at": "2026-10-24T13:52:37.328188+00:00"
     },
     {
       "id": "3db47c312a4aa12daf13576e58f8c6fb",
@@ -69,7 +84,80 @@
         "Estradiol",
         "Progesterona"
       ],
-      "fetched_at": "2026-10-23T14:43:44.169145+00:00"
+      "fetched_at": "2026-10-24T13:53:23.249680+00:00"
+    },
+    {
+      "id": "208fd11d43019d17a05b1ef6e8da0f1a",
+      "title": "Diagnostic overlap between necrotic leiomyoma, adenomyoma and uterine sarcoma: an ultrasound challenge",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42909529/",
+      "source": "PubMed",
+      "summary": "Atypical myometrial lesions may represent a significant diagnostic challenge even for experienced sonographers, particularly when ultrasound and MRI findings overlap among benign, borderline, and malignant entities. Reporting these cases may contribute to improving pattern recognition and refining the diagnostic work-up in clinical practice. We report the case of a 47-year-old woman presenting wit",
+      "image": null,
+      "published": "2026-10-23T00:00:00+00:00",
+      "topics": [
+        "Endometriose"
+      ],
+      "fetched_at": "2026-10-24T13:53:07.778066+00:00"
+    },
+    {
+      "id": "2dade59bd771a4e50f2fa05c72877cc7",
+      "title": "Menopause and Neurology: Clinical Essentials",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42913453/",
+      "source": "PubMed",
+      "summary": "Menopause is a neurobiological transition with important implications for neurologic care. This review summarizes the physiology and hormonal changes of spontaneous menopause and its treatment as applied to cognition, epilepsy, migraine, multiple sclerosis (MS), and stroke. It aims to serve as a resource for neurologists when managing patients in this transitional life stage. Hormonal shifts assoc",
+      "image": null,
+      "published": "2026-10-23T00:00:00+00:00",
+      "topics": [
+        "Menopausa",
+        "Terapia Hormonal",
+        "Estradiol",
+        "Perimenopausa",
+        "Progesterona",
+        "Brain Fog",
+        "Cérebro Feminino",
+        "Sono em Mulheres"
+      ],
+      "fetched_at": "2026-10-24T13:53:12.811005+00:00"
+    },
+    {
+      "id": "4c2a6e8e465ca2dc623674f3d4ad4d57",
+      "title": "Change in alcohol consumption and all-cause mortality among postmenopausal women diagnosed with breast cancer",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42909681/",
+      "source": "PubMed",
+      "summary": "Breast cancer research and treatment · Rees S, Bodelon C, Chakraborty S et al.",
+      "image": null,
+      "published": "2026-10-23T00:00:00+00:00",
+      "topics": [
+        "Menopausa"
+      ],
+      "fetched_at": "2026-10-24T13:52:37.328276+00:00"
+    },
+    {
+      "id": "d5073a92151c1ffa4106d8711419df41",
+      "title": "Association between the frequency of achieving recommended daily step counts and a decline in quantitative ultrasound measurements in premenopausal and postmenopausal women: a 4-year prospective study of the Tohoku Medical Megabank Community-Based Cohort study",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42909484/",
+      "source": "PubMed",
+      "summary": "Osteoporosis international : a journal established as result of cooperation between the European Foundation for Osteoporosis and the National Osteoporosis Foundation of the USA · Sato K, Chiba I, Nakaya N et al.",
+      "image": null,
+      "published": "2026-10-23T00:00:00+00:00",
+      "topics": [
+        "Menopausa"
+      ],
+      "fetched_at": "2026-10-24T13:52:37.328345+00:00"
+    },
+    {
+      "id": "848c474067052592a4be64bafc92583b",
+      "title": "Hormone Replacement Therapy and Disability Progression in Women with Multiple Sclerosis",
+      "url": "https://www.medrxiv.org/content/10.64898/2026.10.21.26366096v1?rss=1",
+      "source": "medRxiv (preprint)",
+      "summary": "Background: Evidence on menopausal hormone replacement therapy (HRT) and disability progression in women with multiple sclerosis (MS) is limited, particularly in the era of high-efficacy disease-modifying therapy. We estimated the association between systemic HRT and sustained disability progression and recurring relapses in a contemporary national cohort. Methods: In a nationwide Swedish registry",
+      "image": null,
+      "published": "2026-10-23T00:00:00+00:00",
+      "topics": [
+        "Menopausa",
+        "Terapia Hormonal"
+      ],
+      "fetched_at": "2026-10-24T13:53:42.303388+00:00"
     },
     {
       "id": "37188b3647c8daccb01226444713b946",
@@ -82,7 +170,7 @@
       "topics": [
         "Endometriose"
       ],
-      "fetched_at": "2026-10-23T14:43:45.044358+00:00"
+      "fetched_at": "2026-10-24T13:53:24.371853+00:00"
     },
     {
       "id": "2013e922e64454f82bd1766bd0ef85ed",
@@ -95,7 +183,7 @@
       "topics": [
         "Endometriose"
       ],
-      "fetched_at": "2026-10-23T14:43:29.743574+00:00"
+      "fetched_at": "2026-10-24T13:53:07.778174+00:00"
     },
     {
       "id": "1b0fec1266325c0ee62549df1432d9ed",
@@ -108,20 +196,20 @@
       "topics": [
         "Menopausa"
       ],
-      "fetched_at": "2026-10-23T14:43:09.700339+00:00"
+      "fetched_at": "2026-10-24T13:52:45.253939+00:00"
     },
     {
       "id": "b686c45037447d203a0966088dc96a65",
       "title": "Factors Associated with the Evolution in Quality of Life and Volume During the Maintenance Phase After a Multidisciplinary Intensive Treatment Program in Patients with Lower Limb Lymphedema",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42908315/",
       "source": "PubMed",
-      "summary": "To evaluate which factors are associated with change in lymphedema-specific quality of life (QoL) and relative volume difference in the maintenance phase after a multidisciplinary intensive treatment program in patients with lower limb lymphedema(LLL). In this retrospective study, patients received a multidisciplinary intensive treatment followed by a maintenance phase. In this maintenance phase, ",
+      "summary": "RationaleTo evaluate which factors are associated with change in lymphedema-specific quality of life (QoL) and relative volume difference in the maintenance phase after a multidisciplinary intensive treatment program in patients with lower limb lymphedema(LLL).Methods and resultsIn this retrospective study, patients received a multidisciplinary intensive treatment followed by a maintenance phase. ",
       "image": null,
       "published": "2026-10-22T00:00:00+00:00",
       "topics": [
         "Lipedema"
       ],
-      "fetched_at": "2026-10-23T14:42:30.466924+00:00"
+      "fetched_at": "2026-10-24T13:52:04.423587+00:00"
     },
     {
       "id": "d2bb8c53c2f19c952bdfdfe851eda10d",
@@ -136,7 +224,7 @@
         "Perimenopausa",
         "Sono em Mulheres"
       ],
-      "fetched_at": "2026-10-23T14:43:55.021012+00:00"
+      "fetched_at": "2026-10-24T13:53:35.826619+00:00"
     },
     {
       "id": "5a991620d7e3aad3a4e38efd82ad503c",
@@ -149,7 +237,74 @@
       "topics": [
         "Cérebro Feminino"
       ],
-      "fetched_at": "2026-10-23T14:44:00.927477+00:00"
+      "fetched_at": "2026-10-24T13:53:42.304255+00:00"
+    },
+    {
+      "id": "6a7043bae8bfc81745eab42f943b9ca4",
+      "title": "Decision-relevant patient information in YouTube videos on robotic surgery for endometriosis: a cross-sectional content analysis",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42911433/",
+      "source": "PubMed",
+      "summary": "To evaluate decision-relevant content completeness, patient-oriented communication, and source transparency of YouTube videos on robotic surgery for endometriosis. Cross-sectional content analysis. Publicly accessible YouTube content identified through six English- and Turkish-language search strings in September 2026; the retained records document search dates for only a subset. Seventy-six fully",
+      "image": null,
+      "published": "2026-10-22T00:00:00+00:00",
+      "topics": [
+        "Endometriose"
+      ],
+      "fetched_at": "2026-10-24T13:51:58.275954+00:00"
+    },
+    {
+      "id": "9fdce86bf5da7707493511af84f56ed1",
+      "title": "A cross-sectional survey exploring experiences in accessing hormone replacement therapy following risk-reducing surgery for individuals with hereditary ovarian cancer risk",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42913277/",
+      "source": "PubMed",
+      "summary": "Gynecologic oncology · Thornton S, O'Loughlin M, Nuk J et al.",
+      "image": null,
+      "published": "2026-10-22T00:00:00+00:00",
+      "topics": [
+        "Terapia Hormonal"
+      ],
+      "fetched_at": "2026-10-24T13:52:39.991513+00:00"
+    },
+    {
+      "id": "9e4836a77a0bd0b7be1f298194d52e87",
+      "title": "Breath Volatile Organic Compounds Across the Menstrual Cycle: A Pilot Study Using PTR-TOF-MS",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42911374/",
+      "source": "PubMed",
+      "summary": "Accurate identification of ovulation remains challenging due to pronounced inter- and intra-individual variability of reproductive hormones. Volatile organic compounds (VOCs) in exhaled breath may vary across the menstrual cycle and offer a non-invasive complementary approach to menstrual cycle assessment. In this pilot study, exhaled breath VOCs were measured using proton transfer reaction time-o",
+      "image": null,
+      "published": "2026-10-22T00:00:00+00:00",
+      "topics": [
+        "Estradiol",
+        "Progesterona"
+      ],
+      "fetched_at": "2026-10-24T13:52:23.095420+00:00"
+    },
+    {
+      "id": "271b18252f45cc1472d9387247ee9591",
+      "title": "A Global Survey of Skin Concerns and Treatment Interests in Perimenopausal and Menopausal Patients",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42910886/",
+      "source": "PubMed",
+      "summary": "Dermatologic surgery : official publication for American Society for Dermatologic Surgery [et al.] · Fabi SG, Nikolis A, Haddad A et al.",
+      "image": null,
+      "published": "2026-10-22T00:00:00+00:00",
+      "topics": [
+        "Menopausa",
+        "Perimenopausa"
+      ],
+      "fetched_at": "2026-10-24T13:52:37.328231+00:00"
+    },
+    {
+      "id": "c9ca109d266b948e025ebdc8237cebd4",
+      "title": "Publisher Correction: RUNX2 inhibitor CADD522 improves bone microarchitecture and lipid metabolism in post-menopausal bone loss",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42918819/",
+      "source": "PubMed",
+      "summary": "npj drug discovery · Ersek A, Kim MS, Suelzu C et al.",
+      "image": null,
+      "published": "2026-10-22T00:00:00+00:00",
+      "topics": [
+        "Menopausa"
+      ],
+      "fetched_at": "2026-10-24T13:52:37.327960+00:00"
     },
     {
       "id": "bf8e577f68df808a5fb51a6f759a0e8a",
@@ -162,7 +317,7 @@
       "topics": [
         "Adenomiose"
       ],
-      "fetched_at": "2026-10-23T14:42:35.892038+00:00"
+      "fetched_at": "2026-10-24T13:52:10.201185+00:00"
     },
     {
       "id": "625dc6399db785d2b71438d8cd7ef15c",
@@ -175,20 +330,20 @@
       "topics": [
         "Menopausa"
       ],
-      "fetched_at": "2026-10-23T14:43:45.044358+00:00"
+      "fetched_at": "2026-10-24T13:53:24.371853+00:00"
     },
     {
       "id": "aa573044c26a91779178203335a7b7a9",
       "title": "Pathophysiological Mechanisms and Clinical Implications of Lower Urinary Tract Symptoms in Patients with Deep Endometriosis: A Narrative Review",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42905159/",
       "source": "PubMed",
-      "summary": "Endometriosis is a chronic inflammatory condition characterized by endometrium-like tissue outside the uterus. Deep endometriosis (DE) frequently involves the posterior pelvic compartment and can affect the urinary tract directly or indirectly, leading to a wide spectrum of lower urinary tract symptoms (LUTS). This narrative review aimed to synthesize current evidence on the mechanisms underlying ",
+      "summary": "Introduction and hypothesisEndometriosis is a chronic inflammatory condition characterized by endometrium-like tissue outside the uterus. Deep endometriosis (DE) frequently involves the posterior pelvic compartment and can affect the urinary tract directly or indirectly, leading to a wide spectrum of lower urinary tract symptoms (LUTS). This narrative review aimed to synthesize current evidence on",
       "image": null,
       "published": "2026-10-21T00:00:00+00:00",
       "topics": [
         "Endometriose"
       ],
-      "fetched_at": "2026-10-23T14:42:25.150328+00:00"
+      "fetched_at": "2026-10-24T13:51:58.276768+00:00"
     },
     {
       "id": "bfceb3d0cfe96ae7386b680b4576d6f3",
@@ -203,20 +358,20 @@
         "Perimenopausa",
         "Sono em Mulheres"
       ],
-      "fetched_at": "2026-10-23T14:43:08.290429+00:00"
+      "fetched_at": "2026-10-24T13:52:44.019991+00:00"
     },
     {
       "id": "64cefa85e2298fbd4928a885b7d24a27",
       "title": "Adenomyosis and association between ultrasonographic features and pregnancy outcomes in women with infertility or pregnancy loss: a systematic review and meta-analysis",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42906371/",
       "source": "PubMed",
-      "summary": "Adenomyosis has been shown to reduce live birth rates and increase the risk of pregnancy loss. The diagnosis is often established by ultrasonographic assessment using the revised Morphological Uterus Sonographic Assessment (MUSA) criteria. However, the reproductive impact of specific sonographic features remains unclear. A systematic review and meta-analysis was conducted to investigate whether in",
+      "summary": "BackgroundAdenomyosis has been shown to reduce live birth rates and increase the risk of pregnancy loss. The diagnosis is often established by ultrasonographic assessment using the revised Morphological Uterus Sonographic Assessment (MUSA) criteria. However, the reproductive impact of specific sonographic features remains unclear. A systematic review and meta-analysis was conducted to investigate ",
       "image": null,
       "published": "2026-10-21T00:00:00+00:00",
       "topics": [
         "Adenomiose"
       ],
-      "fetched_at": "2026-10-23T14:42:35.891817+00:00"
+      "fetched_at": "2026-10-24T13:52:10.200993+00:00"
     },
     {
       "id": "e9affbbb945a0d3180cb0d23279dbd13",
@@ -229,20 +384,48 @@
       "topics": [
         "Menopausa"
       ],
-      "fetched_at": "2026-10-23T14:43:01.064557+00:00"
+      "fetched_at": "2026-10-24T13:52:37.328918+00:00"
     },
     {
       "id": "e6ff753ab222202ade9da8bede5cdef2",
       "title": "Diagnosis and management of polycystic ovary syndrome/polyendocrine metabolic ovarian syndrome: unmet needs and areas of clinical confidence among European endocrinologists",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42905305/",
       "source": "PubMed",
-      "summary": "Polycystic ovary syndrome (PCOS) or polyendocrine metabolic ovarian syndrome (PMOS) is a common, heterogeneous endocrine disorder whose diagnosis and management remain variable across clinical settings. Despite contemporary international guidance, several diagnostic definitions and therapeutic decisions are not consistently applied. To identify persistent unmet needs and areas of clinical confiden",
+      "summary": "BackgroundPolycystic ovary syndrome (PCOS) or polyendocrine metabolic ovarian syndrome (PMOS) is a common, heterogeneous endocrine disorder whose diagnosis and management remain variable across clinical settings. Despite contemporary international guidance, several diagnostic definitions and therapeutic decisions are not consistently applied.ObjectiveTo identify persistent unmet needs and areas of",
       "image": null,
       "published": "2026-10-21T00:00:00+00:00",
       "topics": [
         "Testosterona"
       ],
-      "fetched_at": "2026-10-23T14:43:15.958070+00:00"
+      "fetched_at": "2026-10-24T13:52:51.951575+00:00"
+    },
+    {
+      "id": "20ea22f3f59c67053cdd985e11409c90",
+      "title": "Acceptability of a communication tool to facilitate sexual wellbeing discussions between patients and practitioners in endometriosis care",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42914766/",
+      "source": "PubMed",
+      "summary": "Patient education and counseling · Mills J, Davenport RA, Lores T et al.",
+      "image": null,
+      "published": "2026-10-21T00:00:00+00:00",
+      "topics": [
+        "Endometriose"
+      ],
+      "fetched_at": "2026-10-24T13:51:55.802108+00:00"
+    },
+    {
+      "id": "611ac45420e4c2d3c43639f08a8d42ca",
+      "title": "Domestic abuse survivors accessing support during perimenopause: a qualitative study with women",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41184066/",
+      "source": "PubMed",
+      "summary": "BackgroundMenopause awareness in the UK has increased demand for GP appointments and menopausal hormone therapy. However, inequalities persist in accessing menopause care, particularly among ethnic minorities, individuals with disabilities, and those experiencing domestic abuse (DA). DA can exacerbate menopause symptoms and create additional barriers to care.AimTo explore the experiences and healt",
+      "image": null,
+      "published": "2026-10-21T00:00:00+00:00",
+      "topics": [
+        "Menopausa",
+        "Terapia Hormonal",
+        "Perimenopausa"
+      ],
+      "fetched_at": "2026-10-24T13:52:28.772044+00:00"
     },
     {
       "id": "9ac823322dac945f6920c9b603468296",
@@ -256,7 +439,7 @@
         "Menopausa",
         "Sono em Mulheres"
       ],
-      "fetched_at": "2026-10-23T14:44:09.507275+00:00"
+      "fetched_at": "2026-10-24T13:53:51.668287+00:00"
     },
     {
       "id": "2fd33b16fcc3a984fcbee3dc7c31e47f",
@@ -269,7 +452,7 @@
       "topics": [
         "Menopausa"
       ],
-      "fetched_at": "2026-10-23T14:44:09.507342+00:00"
+      "fetched_at": "2026-10-24T13:53:51.668350+00:00"
     },
     {
       "id": "10a371c4c87e8f5b12ebeace0a2010af",
@@ -283,7 +466,7 @@
         "Menopausa",
         "Perimenopausa"
       ],
-      "fetched_at": "2026-10-23T14:44:09.507403+00:00"
+      "fetched_at": "2026-10-24T13:53:51.668406+00:00"
     },
     {
       "id": "2f023237e39a144cfa3be3f8813a1fa8",
@@ -297,7 +480,7 @@
         "Menopausa",
         "Perimenopausa"
       ],
-      "fetched_at": "2026-10-23T14:44:09.507464+00:00"
+      "fetched_at": "2026-10-24T13:53:51.668463+00:00"
     },
     {
       "id": "5ab64ce85be2eb197bab717fb647e210",
@@ -311,7 +494,7 @@
         "Menopausa",
         "Estradiol"
       ],
-      "fetched_at": "2026-10-23T14:44:09.507515+00:00"
+      "fetched_at": "2026-10-24T13:53:51.668512+00:00"
     },
     {
       "id": "93ee044b17a71a77614bafda02bf0fd4",
@@ -324,7 +507,7 @@
       "topics": [
         "Menopausa"
       ],
-      "fetched_at": "2026-10-23T14:44:09.507569+00:00"
+      "fetched_at": "2026-10-24T13:53:51.668562+00:00"
     },
     {
       "id": "9d75131242cd22b1764667d4c2ebd3f7",
@@ -338,7 +521,7 @@
         "Menopausa",
         "Perimenopausa"
       ],
-      "fetched_at": "2026-10-23T14:44:09.507631+00:00"
+      "fetched_at": "2026-10-24T13:53:51.668619+00:00"
     },
     {
       "id": "d1aecabc5dd840c44f23439af3d1f0ce",
@@ -365,7 +548,7 @@
       "topics": [
         "Menopausa"
       ],
-      "fetched_at": "2026-10-23T14:43:01.065183+00:00"
+      "fetched_at": "2026-10-24T13:52:37.329455+00:00"
     },
     {
       "id": "af20d8e541d064485a8cab236e867de1",
@@ -378,7 +561,7 @@
       "topics": [
         "Estradiol"
       ],
-      "fetched_at": "2026-10-23T14:43:09.700925+00:00"
+      "fetched_at": "2026-10-24T13:52:45.254426+00:00"
     },
     {
       "id": "d2145eb819c24a0459a7f2036b2d19e2",
@@ -391,7 +574,7 @@
       "topics": [
         "Endometriose"
       ],
-      "fetched_at": "2026-10-23T14:43:29.744043+00:00"
+      "fetched_at": "2026-10-24T13:53:07.778616+00:00"
     },
     {
       "id": "df311a50de865de3c5669958d20cfcb5",
@@ -404,7 +587,7 @@
       "topics": [
         "Endometriose"
       ],
-      "fetched_at": "2026-10-23T14:42:25.150810+00:00"
+      "fetched_at": "2026-10-24T13:51:58.277212+00:00"
     },
     {
       "id": "b08c0f1943f68a0306ad74093c65bbdd",
@@ -417,7 +600,7 @@
       "topics": [
         "Endometriose"
       ],
-      "fetched_at": "2026-10-23T14:43:29.744175+00:00"
+      "fetched_at": "2026-10-24T13:53:07.778741+00:00"
     },
     {
       "id": "cdc483d37bc93ea2eb99b9e5a29a6b29",
@@ -432,7 +615,7 @@
         "Terapia Hormonal",
         "Testosterona"
       ],
-      "fetched_at": "2026-10-23T14:43:03.524706+00:00"
+      "fetched_at": "2026-10-24T13:52:39.991648+00:00"
     },
     {
       "id": "5e62820063b134be7356dd4391449e50",
@@ -446,7 +629,7 @@
         "Menopausa",
         "Perimenopausa"
       ],
-      "fetched_at": "2026-10-23T14:42:53.036541+00:00"
+      "fetched_at": "2026-10-24T13:52:28.768869+00:00"
     },
     {
       "id": "c7b586e2e81925411b907f976f141bc9",
@@ -459,7 +642,7 @@
       "topics": [
         "Menopausa"
       ],
-      "fetched_at": "2026-10-23T14:43:41.683323+00:00"
+      "fetched_at": "2026-10-24T13:53:18.657858+00:00"
     },
     {
       "id": "0aaf3382f64a9c0d603d921bc5a7ed8b",
@@ -472,7 +655,7 @@
       "topics": [
         "Menopausa"
       ],
-      "fetched_at": "2026-10-23T14:43:08.290683+00:00"
+      "fetched_at": "2026-10-24T13:52:44.020226+00:00"
     },
     {
       "id": "90020ebd67ca641687c7cd9d480baa82",
@@ -485,7 +668,7 @@
       "topics": [
         "Menopausa"
       ],
-      "fetched_at": "2026-10-23T14:43:41.683323+00:00"
+      "fetched_at": "2026-10-24T13:53:18.657858+00:00"
     },
     {
       "id": "f083bcce69604e652f93664b44c2945b",
@@ -500,7 +683,7 @@
         "Perimenopausa",
         "Sono em Mulheres"
       ],
-      "fetched_at": "2026-10-23T14:43:41.683323+00:00"
+      "fetched_at": "2026-10-24T13:53:18.657858+00:00"
     },
     {
       "id": "d4348ca86b8d7fc3be3c28b674051871",
@@ -513,7 +696,7 @@
       "topics": [
         "Endometriose"
       ],
-      "fetched_at": "2026-10-23T14:42:25.150948+00:00"
+      "fetched_at": "2026-10-24T13:51:58.277340+00:00"
     },
     {
       "id": "92a4a3fa5afb0a6a649ed401d679f268",
@@ -539,7 +722,7 @@
       "topics": [
         "Testosterona"
       ],
-      "fetched_at": "2026-10-23T14:42:50.489359+00:00"
+      "fetched_at": "2026-10-24T13:52:26.042683+00:00"
     },
     {
       "id": "a36abced6711a4f329806e9bab0cd5ae",
@@ -553,7 +736,7 @@
         "Menopausa",
         "Perimenopausa"
       ],
-      "fetched_at": "2026-10-23T14:42:51.521963+00:00"
+      "fetched_at": "2026-10-24T13:52:27.215053+00:00"
     },
     {
       "id": "07b57c98c274b20b4561fe6e36b0bc46",
@@ -579,7 +762,7 @@
       "topics": [
         "Endometriose"
       ],
-      "fetched_at": "2026-10-23T14:43:29.744594+00:00"
+      "fetched_at": "2026-10-24T13:53:07.779136+00:00"
     },
     {
       "id": "bd4b64d115b9873dcf6d6164602aef4d",
@@ -592,7 +775,7 @@
       "topics": [
         "Lipedema"
       ],
-      "fetched_at": "2026-10-23T14:43:30.782449+00:00"
+      "fetched_at": "2026-10-24T13:53:09.001173+00:00"
     },
     {
       "id": "a8d9f69903ff557663c5d82df578c432",
@@ -605,7 +788,7 @@
       "topics": [
         "Sono em Mulheres"
       ],
-      "fetched_at": "2026-10-23T14:42:41.924217+00:00"
+      "fetched_at": "2026-10-24T13:52:16.324639+00:00"
     },
     {
       "id": "eccbffe8dbf71ee710ec5991fd5faf24",
@@ -619,7 +802,7 @@
         "Menopausa",
         "Estradiol"
       ],
-      "fetched_at": "2026-10-23T14:43:01.065235+00:00"
+      "fetched_at": "2026-10-24T13:52:37.329500+00:00"
     },
     {
       "id": "9daf6444108e744a056e54ced594a869",
@@ -632,7 +815,7 @@
       "topics": [
         "Menopausa"
       ],
-      "fetched_at": "2026-10-23T14:43:01.065286+00:00"
+      "fetched_at": "2026-10-24T13:52:37.329543+00:00"
     },
     {
       "id": "3f4ef5b6120e2a0102fad8f2d6f517db",
@@ -658,7 +841,7 @@
       "topics": [
         "Endometriose"
       ],
-      "fetched_at": "2026-10-23T14:42:23.213632+00:00"
+      "fetched_at": "2026-10-24T13:51:55.802941+00:00"
     },
     {
       "id": "80b4578eb8e5aee9367b8497aa4b8b0f",
@@ -671,7 +854,7 @@
       "topics": [
         "Endometriose"
       ],
-      "fetched_at": "2026-10-23T14:43:29.744411+00:00"
+      "fetched_at": "2026-10-24T13:53:07.778965+00:00"
     },
     {
       "id": "9da6d98320c6567b7364f1af187b0bd1",
@@ -711,7 +894,7 @@
         "Endometriose",
         "Adenomiose"
       ],
-      "fetched_at": "2026-10-23T14:42:35.892233+00:00"
+      "fetched_at": "2026-10-24T13:52:10.201336+00:00"
     },
     {
       "id": "7e6b95f61fb08af4c0a9102425bda920",
@@ -726,7 +909,7 @@
         "Estradiol",
         "Progesterona"
       ],
-      "fetched_at": "2026-10-23T14:43:29.741867+00:00"
+      "fetched_at": "2026-10-24T13:53:07.776492+00:00"
     },
     {
       "id": "e9fac80b5dc30f85b90b8e942e0c60b5",
@@ -740,7 +923,7 @@
         "Estradiol",
         "Testosterona"
       ],
-      "fetched_at": "2026-10-23T14:42:44.902210+00:00"
+      "fetched_at": "2026-10-24T13:52:20.015012+00:00"
     },
     {
       "id": "e26a61b8d7c77a9f120eb795a23b466d",
@@ -753,7 +936,7 @@
       "topics": [
         "Endometriose"
       ],
-      "fetched_at": "2026-10-23T14:43:29.744751+00:00"
+      "fetched_at": "2026-10-24T13:53:07.779291+00:00"
     },
     {
       "id": "48266712703d448f7232287856a098d1",
@@ -766,7 +949,7 @@
       "topics": [
         "Lipedema"
       ],
-      "fetched_at": "2026-10-23T14:43:30.782514+00:00"
+      "fetched_at": "2026-10-24T13:53:09.001221+00:00"
     },
     {
       "id": "61d87ff2c0894613ffb716ea25a50c56",
@@ -779,7 +962,7 @@
       "topics": [
         "Menopausa"
       ],
-      "fetched_at": "2026-10-23T14:43:27.102519+00:00"
+      "fetched_at": "2026-10-24T13:53:05.114741+00:00"
     },
     {
       "id": "1c3b606f8fa84057de1c55482beedb9f",
@@ -792,7 +975,7 @@
       "topics": [
         "Testosterona"
       ],
-      "fetched_at": "2026-10-23T14:43:15.953897+00:00"
+      "fetched_at": "2026-10-24T13:52:51.947793+00:00"
     },
     {
       "id": "b5995c464afa7e873ea025c0a4646adb",
@@ -805,7 +988,7 @@
       "topics": [
         "Endometriose"
       ],
-      "fetched_at": "2026-10-23T14:42:23.214196+00:00"
+      "fetched_at": "2026-10-24T13:51:55.803417+00:00"
     },
     {
       "id": "b9f377fd6f986a0b720d274dc8a3f3f2",
@@ -818,7 +1001,7 @@
       "topics": [
         "Endometriose"
       ],
-      "fetched_at": "2026-10-23T14:42:23.214365+00:00"
+      "fetched_at": "2026-10-24T13:51:55.803566+00:00"
     },
     {
       "id": "b850876cc908d23e065f4bda26d403d3",
@@ -831,7 +1014,7 @@
       "topics": [
         "Sono em Mulheres"
       ],
-      "fetched_at": "2026-10-23T14:42:41.924409+00:00"
+      "fetched_at": "2026-10-24T13:52:16.324803+00:00"
     },
     {
       "id": "63debec18321c86d0a7d33b2d477ef12",
@@ -844,7 +1027,20 @@
       "topics": [
         "Testosterona"
       ],
-      "fetched_at": "2026-10-23T14:43:15.958935+00:00"
+      "fetched_at": "2026-10-24T13:52:51.952399+00:00"
+    },
+    {
+      "id": "6848c3643c51e9bc50ddb9b3205dcada",
+      "title": "Association Between 3D Transvaginal Ultrasound-Based XI VOCAL Counting Severity and Tissue MMP-9 Levels in Patients with Adenomyosis",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42910251/",
+      "source": "PubMed",
+      "summary": "International journal of women's health · Christina NLL, Bayuaji H, Ritonga MA et al.",
+      "image": null,
+      "published": "2026-10-17T00:00:00+00:00",
+      "topics": [
+        "Adenomiose"
+      ],
+      "fetched_at": "2026-10-24T13:52:08.548653+00:00"
     },
     {
       "id": "d0625be19cc31ef92575d2d5addb95df",
@@ -857,7 +1053,7 @@
       "topics": [
         "Menopausa"
       ],
-      "fetched_at": "2026-10-23T14:43:52.606646+00:00"
+      "fetched_at": "2026-10-24T13:53:33.449444+00:00"
     },
     {
       "id": "17b3d9ac7f2e861efa6b1b2265f262fc",
@@ -870,7 +1066,7 @@
       "topics": [
         "Menopausa"
       ],
-      "fetched_at": "2026-10-23T14:43:52.606755+00:00"
+      "fetched_at": "2026-10-24T13:53:33.449541+00:00"
     },
     {
       "id": "1a6466f59a1a6c29690a958749784b38",
@@ -883,7 +1079,7 @@
       "topics": [
         "Endometriose"
       ],
-      "fetched_at": "2026-10-23T14:43:09.701149+00:00"
+      "fetched_at": "2026-10-24T13:52:45.254613+00:00"
     },
     {
       "id": "057c6eacf97f9c87157b0104c8c50241",
@@ -896,7 +1092,7 @@
       "topics": [
         "Endometriose"
       ],
-      "fetched_at": "2026-10-23T14:42:23.214826+00:00"
+      "fetched_at": "2026-10-24T13:51:55.803965+00:00"
     },
     {
       "id": "9e983ce4d254841c35e1241e9a0ce58c",
@@ -909,7 +1105,7 @@
       "topics": [
         "Lipedema"
       ],
-      "fetched_at": "2026-10-23T14:43:30.782720+00:00"
+      "fetched_at": "2026-10-24T13:53:09.001397+00:00"
     },
     {
       "id": "3831f378765419962fa35514af685ca1",
@@ -922,7 +1118,7 @@
       "topics": [
         "Lipedema"
       ],
-      "fetched_at": "2026-10-23T14:43:30.782784+00:00"
+      "fetched_at": "2026-10-24T13:53:09.001444+00:00"
     },
     {
       "id": "a2a4c84a581f0eadf900b5531cdf0cf4",
@@ -936,7 +1132,7 @@
         "Menopausa",
         "Testosterona"
       ],
-      "fetched_at": "2026-10-23T14:43:14.616753+00:00"
+      "fetched_at": "2026-10-24T13:52:50.491959+00:00"
     },
     {
       "id": "a95a264a23095d08968ff0ed348198f8",
@@ -949,7 +1145,7 @@
       "topics": [
         "Menopausa"
       ],
-      "fetched_at": "2026-10-23T14:43:08.291106+00:00"
+      "fetched_at": "2026-10-24T13:52:44.020603+00:00"
     },
     {
       "id": "c06b7b744f758fccb19f89fd6c334b0c",
@@ -975,7 +1171,7 @@
       "topics": [
         "Testosterona"
       ],
-      "fetched_at": "2026-10-23T14:43:14.616620+00:00"
+      "fetched_at": "2026-10-24T13:52:50.491916+00:00"
     },
     {
       "id": "c18440cccc2ccdf576135e536ac9b104",
@@ -989,7 +1185,7 @@
         "Endometriose",
         "Adenomiose"
       ],
-      "fetched_at": "2026-10-23T14:43:29.744976+00:00"
+      "fetched_at": "2026-10-24T13:53:07.779487+00:00"
     },
     {
       "id": "1aa5353132941479bf37545f7e30280e",
@@ -1002,7 +1198,7 @@
       "topics": [
         "Endometriose"
       ],
-      "fetched_at": "2026-10-23T14:42:23.214416+00:00"
+      "fetched_at": "2026-10-24T13:51:55.803609+00:00"
     },
     {
       "id": "3050b46df81a2c017ae247d1f9cc7e07",
@@ -1016,7 +1212,7 @@
         "Endometriose",
         "Estradiol"
       ],
-      "fetched_at": "2026-10-23T14:43:29.745390+00:00"
+      "fetched_at": "2026-10-24T13:53:07.779882+00:00"
     },
     {
       "id": "97094dfa4ca60ac3fb1ae5bf55a8e1f5",
@@ -1029,7 +1225,7 @@
       "topics": [
         "Tirzepatida"
       ],
-      "fetched_at": "2026-10-23T14:43:18.432999+00:00"
+      "fetched_at": "2026-10-24T13:52:55.291208+00:00"
     },
     {
       "id": "1e8565c69618c245f1e4382a670c82e7",
@@ -1042,7 +1238,20 @@
       "topics": [
         "Adenomiose"
       ],
-      "fetched_at": "2026-10-23T14:42:35.892389+00:00"
+      "fetched_at": "2026-10-24T13:52:10.201453+00:00"
+    },
+    {
+      "id": "ab2956618c68d7322758be5e1c1f43a1",
+      "title": "Lipedema research (2000-2025): a global bibliometric analysis with evidence of an emerging immunological paradigm",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42912067/",
+      "source": "PubMed",
+      "summary": "The aim of this study was to characterize global scientific output on lipedema from 2000 to 2025 and identify emerging thematic trends, with emphasis on the emergence of immunological research. Publications indexed in Google Scholar, PubMed, Crossref, OpenAlex, and Scopus were retrieved using the terms \"lipedema\" OR \"lipoedema.\" Records were deduplicated by normalized title matching and DOI cross-",
+      "image": null,
+      "published": "2026-10-16T00:00:00+00:00",
+      "topics": [
+        "Lipedema"
+      ],
+      "fetched_at": "2026-10-24T13:53:10.156508+00:00"
     },
     {
       "id": "9d8f72713c4cb66aca3c9d0780da0229",
@@ -1055,7 +1264,7 @@
       "topics": [
         "Menopausa"
       ],
-      "fetched_at": "2026-10-23T14:43:52.606862+00:00"
+      "fetched_at": "2026-10-24T13:53:33.449633+00:00"
     },
     {
       "id": "4b3c81fe9b6883fd9fb304ba21307366",
@@ -1068,7 +1277,7 @@
       "topics": [
         "Menopausa"
       ],
-      "fetched_at": "2026-10-23T14:43:52.606946+00:00"
+      "fetched_at": "2026-10-24T13:53:33.449718+00:00"
     },
     {
       "id": "46195a02da729019e87bc810b887c84e",
@@ -1094,7 +1303,7 @@
       "topics": [
         "Terapia Hormonal"
       ],
-      "fetched_at": "2026-10-23T14:43:03.525352+00:00"
+      "fetched_at": "2026-10-24T13:52:39.992215+00:00"
     },
     {
       "id": "2e9aa5e07fb9f480662e2453da702825",
@@ -1108,7 +1317,7 @@
         "Menopausa",
         "Progesterona"
       ],
-      "fetched_at": "2026-10-23T14:42:45.973557+00:00"
+      "fetched_at": "2026-10-24T13:52:21.217415+00:00"
     },
     {
       "id": "c43324f3b7eec8a5c38049a188486753",
@@ -1121,7 +1330,7 @@
       "topics": [
         "Endometriose"
       ],
-      "fetched_at": "2026-10-23T14:43:29.746218+00:00"
+      "fetched_at": "2026-10-24T13:53:07.780668+00:00"
     },
     {
       "id": "b96dafd9e43a93e21ca8b6bf0324d52d",
@@ -1138,7 +1347,7 @@
         "Testosterona",
         "Progesterona"
       ],
-      "fetched_at": "2026-10-23T14:43:29.746353+00:00"
+      "fetched_at": "2026-10-24T13:53:07.780796+00:00"
     },
     {
       "id": "6fbd2de260dd8785e125722c0ab4603c",
@@ -1164,7 +1373,7 @@
       "topics": [
         "Lipedema"
       ],
-      "fetched_at": "2026-10-23T14:43:30.782937+00:00"
+      "fetched_at": "2026-10-24T13:53:09.001576+00:00"
     },
     {
       "id": "1f1c5197d5c8bc076a0c8c0cc0d5b8ba",
@@ -1177,7 +1386,7 @@
       "topics": [
         "Lipedema"
       ],
-      "fetched_at": "2026-10-23T14:43:30.782989+00:00"
+      "fetched_at": "2026-10-24T13:53:09.001620+00:00"
     },
     {
       "id": "9a5d6d907bd50d21b485af4a29c82143",
@@ -1190,7 +1399,7 @@
       "topics": [
         "Adenomiose"
       ],
-      "fetched_at": "2026-10-23T14:42:35.893683+00:00"
+      "fetched_at": "2026-10-24T13:52:10.202549+00:00"
     },
     {
       "id": "126222b79761fd3077b0c15141c2703a",
@@ -1242,7 +1451,7 @@
       "topics": [
         "Menopausa"
       ],
-      "fetched_at": "2026-10-23T14:43:57.000957+00:00"
+      "fetched_at": "2026-10-24T13:53:37.919996+00:00"
     },
     {
       "id": "47d40304385fc051b3b88fa88ebb2a52",
@@ -1256,7 +1465,7 @@
         "Menopausa",
         "Terapia Hormonal"
       ],
-      "fetched_at": "2026-10-23T14:43:58.942499+00:00"
+      "fetched_at": "2026-10-24T13:53:40.194891+00:00"
     },
     {
       "id": "ac67969f0d6ce9fcec14d9238f748d52",
@@ -1270,7 +1479,7 @@
         "Endometriose",
         "Sono em Mulheres"
       ],
-      "fetched_at": "2026-10-23T14:43:29.745162+00:00"
+      "fetched_at": "2026-10-24T13:53:07.779665+00:00"
     },
     {
       "id": "7c1ba3229751774979143970d35b6064",
@@ -1284,7 +1493,7 @@
         "Menopausa",
         "Estradiol"
       ],
-      "fetched_at": "2026-10-23T14:42:44.903453+00:00"
+      "fetched_at": "2026-10-24T13:52:20.016083+00:00"
     },
     {
       "id": "6d35f7d234046f26ccb88a9c6aa82fa9",
@@ -1297,7 +1506,7 @@
       "topics": [
         "Testosterona"
       ],
-      "fetched_at": "2026-10-23T14:42:50.491501+00:00"
+      "fetched_at": "2026-10-24T13:52:26.044544+00:00"
     },
     {
       "id": "e30bb46c95cd093c2271cbc8ed5d6650",
@@ -1310,7 +1519,7 @@
       "topics": [
         "Endometriose"
       ],
-      "fetched_at": "2026-10-23T14:43:28.274586+00:00"
+      "fetched_at": "2026-10-24T13:53:06.346276+00:00"
     },
     {
       "id": "b559c8649b33e47014b6fb33e681f6ed",
@@ -1324,7 +1533,7 @@
         "Menopausa",
         "Perimenopausa"
       ],
-      "fetched_at": "2026-10-23T14:43:52.607027+00:00"
+      "fetched_at": "2026-10-24T13:53:33.449796+00:00"
     },
     {
       "id": "b095a23d8262045cc24a62c1e2a01ae4",
@@ -1338,7 +1547,7 @@
         "Menopausa",
         "Estradiol"
       ],
-      "fetched_at": "2026-10-23T14:43:52.607106+00:00"
+      "fetched_at": "2026-10-24T13:53:33.449874+00:00"
     },
     {
       "id": "60efbb4b2b9e9cb2c5af96113fbd0514",
@@ -1377,7 +1586,7 @@
       "topics": [
         "Menopausa"
       ],
-      "fetched_at": "2026-10-23T14:43:32.933986+00:00"
+      "fetched_at": "2026-10-24T13:53:11.399513+00:00"
     },
     {
       "id": "f2adfebcdfbfe0e10526ee8ccc0e352d",
@@ -1416,7 +1625,7 @@
       "topics": [
         "Menopausa"
       ],
-      "fetched_at": "2026-10-23T14:43:32.933922+00:00"
+      "fetched_at": "2026-10-24T13:53:11.399466+00:00"
     },
     {
       "id": "12dcfa91fb3315debaf2a9944d4b8ba0",
@@ -1429,7 +1638,7 @@
       "topics": [
         "Testosterona"
       ],
-      "fetched_at": "2026-10-23T14:43:44.169145+00:00"
+      "fetched_at": "2026-10-24T13:53:23.249680+00:00"
     },
     {
       "id": "55e38a7e5b789038467432dcc8487f39",
@@ -1442,7 +1651,7 @@
       "topics": [
         "Endometriose"
       ],
-      "fetched_at": "2026-10-23T14:43:55.021751+00:00"
+      "fetched_at": "2026-10-24T13:53:35.827519+00:00"
     },
     {
       "id": "1c9c278b6f0847ea1878d0c0de1051c3",
@@ -1482,7 +1691,7 @@
         "Endometriose",
         "Adenomiose"
       ],
-      "fetched_at": "2026-10-23T14:43:29.746733+00:00"
+      "fetched_at": "2026-10-24T13:53:07.781160+00:00"
     },
     {
       "id": "23649c6ccbbf71634034fc6f9197b46c",
@@ -1495,7 +1704,7 @@
       "topics": [
         "Menopausa"
       ],
-      "fetched_at": "2026-10-23T14:42:27.919697+00:00"
+      "fetched_at": "2026-10-24T13:52:01.386745+00:00"
     },
     {
       "id": "f78f942bb160b39afa26364df1ce253d",
@@ -1508,7 +1717,7 @@
       "topics": [
         "Tirzepatida"
       ],
-      "fetched_at": "2026-10-23T14:43:18.433440+00:00"
+      "fetched_at": "2026-10-24T13:52:55.291602+00:00"
     },
     {
       "id": "470e9cbd2e59cc9aac9ac97667c47f9b",
@@ -1525,7 +1734,7 @@
         "Brain Fog",
         "Cérebro Feminino"
       ],
-      "fetched_at": "2026-10-23T14:42:50.491852+00:00"
+      "fetched_at": "2026-10-24T13:52:26.044827+00:00"
     },
     {
       "id": "a334db67060b90910904aa1679a48c68",
@@ -1552,7 +1761,7 @@
       "topics": [
         "Menopausa"
       ],
-      "fetched_at": "2026-10-23T14:43:08.291720+00:00"
+      "fetched_at": "2026-10-24T13:52:44.021161+00:00"
     },
     {
       "id": "8b32945cf6c176ab53a5fa1a6cb17808",
@@ -1578,7 +1787,7 @@
       "topics": [
         "Menopausa"
       ],
-      "fetched_at": "2026-10-23T14:43:52.607190+00:00"
+      "fetched_at": "2026-10-24T13:53:33.449955+00:00"
     },
     {
       "id": "675c4833d64390b9e986ea0a27aa4aab",
@@ -1592,7 +1801,7 @@
         "Menopausa",
         "Perimenopausa"
       ],
-      "fetched_at": "2026-10-23T14:43:52.607270+00:00"
+      "fetched_at": "2026-10-24T13:53:33.450033+00:00"
     },
     {
       "id": "898c2b9431a85adf959251a878afaad9",
@@ -1618,7 +1827,7 @@
       "topics": [
         "Endometriose"
       ],
-      "fetched_at": "2026-10-23T14:43:29.747116+00:00"
+      "fetched_at": "2026-10-24T13:53:07.781520+00:00"
     },
     {
       "id": "2d3d47790fc4eabfeda3e98307b209dc",
@@ -1632,7 +1841,7 @@
         "Endometriose",
         "Adenomiose"
       ],
-      "fetched_at": "2026-10-23T14:42:35.894340+00:00"
+      "fetched_at": "2026-10-24T13:52:10.203121+00:00"
     },
     {
       "id": "633ba6a71fb75898a7778a65b00845f6",
@@ -1645,7 +1854,7 @@
       "topics": [
         "Menopausa"
       ],
-      "fetched_at": "2026-10-23T14:43:41.683323+00:00"
+      "fetched_at": "2026-10-24T13:53:18.657858+00:00"
     },
     {
       "id": "fa77c62b4b45edcea0c58af0a74d5aeb",
@@ -1660,7 +1869,7 @@
         "Estradiol",
         "Progesterona"
       ],
-      "fetched_at": "2026-10-23T14:43:41.683323+00:00"
+      "fetched_at": "2026-10-24T13:53:18.657858+00:00"
     },
     {
       "id": "6d387ea5e218e6cae5e742268e2497f2",
@@ -1673,7 +1882,7 @@
       "topics": [
         "Menopausa"
       ],
-      "fetched_at": "2026-10-23T14:43:41.683323+00:00"
+      "fetched_at": "2026-10-24T13:53:18.657858+00:00"
     },
     {
       "id": "9599b0e43fb927916811019c832e8e93",
@@ -1687,7 +1896,7 @@
         "Menopausa",
         "Estradiol"
       ],
-      "fetched_at": "2026-10-23T14:43:41.683323+00:00"
+      "fetched_at": "2026-10-24T13:53:18.657858+00:00"
     },
     {
       "id": "aa3dce37a2c38251158fdae47e59ff8a",
@@ -1702,7 +1911,7 @@
         "Perimenopausa",
         "Brain Fog"
       ],
-      "fetched_at": "2026-10-23T14:43:41.683323+00:00"
+      "fetched_at": "2026-10-24T13:53:18.657858+00:00"
     },
     {
       "id": "e0a5beeb1c45e3c53d92f5b36322a97a",
@@ -1716,7 +1925,7 @@
         "Menopausa",
         "Estradiol"
       ],
-      "fetched_at": "2026-10-23T14:43:41.683323+00:00"
+      "fetched_at": "2026-10-24T13:53:18.657858+00:00"
     },
     {
       "id": "06c6549313b47f2fb730d66761cbcdef",
@@ -1729,7 +1938,7 @@
       "topics": [
         "Menopausa"
       ],
-      "fetched_at": "2026-10-23T14:43:41.683323+00:00"
+      "fetched_at": "2026-10-24T13:53:18.657858+00:00"
     },
     {
       "id": "c194fa82912e5256f60bb873f6954348",
@@ -1742,7 +1951,7 @@
       "topics": [
         "Cérebro Feminino"
       ],
-      "fetched_at": "2026-10-23T14:43:55.022055+00:00"
+      "fetched_at": "2026-10-24T13:53:35.827789+00:00"
     },
     {
       "id": "d1f29b916f48bd35341a75f7d8a9e3c6",
@@ -1808,7 +2017,7 @@
       "topics": [
         "Terapia Hormonal"
       ],
-      "fetched_at": "2026-10-23T14:43:05.179419+00:00"
+      "fetched_at": "2026-10-24T13:52:41.437682+00:00"
     },
     {
       "id": "8b1aeb2e23dbcc3c46c0db305b7de00e",
@@ -1821,7 +2030,7 @@
       "topics": [
         "Terapia Hormonal"
       ],
-      "fetched_at": "2026-10-23T14:43:05.179608+00:00"
+      "fetched_at": "2026-10-24T13:52:41.437865+00:00"
     },
     {
       "id": "86715b477dcd5ddfec88a9064be0b3c2",
@@ -1836,7 +2045,7 @@
         "Brain Fog",
         "Cérebro Feminino"
       ],
-      "fetched_at": "2026-10-23T14:43:35.409902+00:00"
+      "fetched_at": "2026-10-24T13:53:12.811915+00:00"
     },
     {
       "id": "3251267e4c257964e431c51a1c14e083",
@@ -1876,7 +2085,7 @@
         "Menopausa",
         "Perimenopausa"
       ],
-      "fetched_at": "2026-10-23T14:43:35.410256+00:00"
+      "fetched_at": "2026-10-24T13:53:12.812244+00:00"
     },
     {
       "id": "05299754c1292d9731351e5259d4b0af",
@@ -1890,7 +2099,7 @@
         "Menopausa",
         "Perimenopausa"
       ],
-      "fetched_at": "2026-10-23T14:43:03.525261+00:00"
+      "fetched_at": "2026-10-24T13:52:39.992127+00:00"
     },
     {
       "id": "36d0405a4e667f0914291af51c4a405d",
@@ -1903,7 +2112,7 @@
       "topics": [
         "Lipedema"
       ],
-      "fetched_at": "2026-10-23T14:43:30.783059+00:00"
+      "fetched_at": "2026-10-24T13:53:09.001676+00:00"
     },
     {
       "id": "e6a1bc15576e9c260a242240820a8f8c",
@@ -1917,7 +2126,7 @@
         "Menopausa",
         "Perimenopausa"
       ],
-      "fetched_at": "2026-10-23T14:42:53.037592+00:00"
+      "fetched_at": "2026-10-24T13:52:28.769823+00:00"
     },
     {
       "id": "899e6950c9efe9de18a3862bafe01660",
@@ -1931,7 +2140,7 @@
         "Menopausa",
         "Perimenopausa"
       ],
-      "fetched_at": "2026-10-23T14:43:32.934196+00:00"
+      "fetched_at": "2026-10-24T13:53:11.399688+00:00"
     },
     {
       "id": "1ff70e81fad0866dd7024d61425bb2c1",
@@ -1944,7 +2153,7 @@
       "topics": [
         "Menopausa"
       ],
-      "fetched_at": "2026-10-23T14:43:32.934245+00:00"
+      "fetched_at": "2026-10-24T13:53:11.399730+00:00"
     },
     {
       "id": "4fe2669bfc97a6a067592adfd497c706",
@@ -1959,7 +2168,7 @@
         "Terapia Hormonal",
         "Estradiol"
       ],
-      "fetched_at": "2026-10-23T14:43:29.747250+00:00"
+      "fetched_at": "2026-10-24T13:53:07.781642+00:00"
     },
     {
       "id": "2c1df8e1b458603d2b16bac9e509c2f3",
@@ -1972,7 +2181,7 @@
       "topics": [
         "Menopausa"
       ],
-      "fetched_at": "2026-10-23T14:43:09.701019+00:00"
+      "fetched_at": "2026-10-24T13:52:45.254510+00:00"
     },
     {
       "id": "857ea60db82234638c6fb6710ba02b64",
@@ -1985,7 +2194,7 @@
       "topics": [
         "Tirzepatida"
       ],
-      "fetched_at": "2026-10-23T14:42:32.835184+00:00"
+      "fetched_at": "2026-10-24T13:52:07.366033+00:00"
     },
     {
       "id": "adc0a67511487f1bc7d418aef4cc22c4",
@@ -2000,7 +2209,7 @@
         "Progesterona",
         "Cérebro Feminino"
       ],
-      "fetched_at": "2026-10-23T14:42:44.904154+00:00"
+      "fetched_at": "2026-10-24T13:52:20.016695+00:00"
     },
     {
       "id": "2af3050ba4ddc3d7fc2e689dedaf8e43",
@@ -2041,7 +2250,7 @@
       "topics": [
         "Endometriose"
       ],
-      "fetched_at": "2026-10-23T14:43:28.275767+00:00"
+      "fetched_at": "2026-10-24T13:53:06.347351+00:00"
     },
     {
       "id": "2355ffec9c98f4c00623dc9ba7322b73",
@@ -2054,21 +2263,21 @@
       "topics": [
         "Sono em Mulheres"
       ],
-      "fetched_at": "2026-10-23T14:42:41.925441+00:00"
+      "fetched_at": "2026-10-24T13:52:16.325718+00:00"
     },
     {
       "id": "36be53be09febae9230fe6ef9ee78bff",
       "title": "Patient-Centered menopause health management and menopausal hormone therapy uptake: A real-world study from a tertiary Hospital in China",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42903646/",
       "source": "PubMed",
-      "summary": "To evaluate whether a patient-centered integrated menopause clinic model was associated with menopausal hormone therapy initiation, self-reported medication habits, and menopause-related knowledge among women with indications for treatment. We retrospectively analyzed 405 women aged 40-60 years with MHT indications who attended Peking University First Hospital in 2023. Outcomes were compared betwe",
+      "summary": "ObjectiveTo evaluate whether a patient-centered integrated menopause clinic model was associated with menopausal hormone therapy initiation, self-reported medication habits, and menopause-related knowledge among women with indications for treatment.MethodsWe retrospectively analyzed 405 women aged 40-60 years with MHT indications who attended Peking University First Hospital in 2023. Outcomes were",
       "image": null,
       "published": "2026-10-11T00:00:00+00:00",
       "topics": [
         "Menopausa",
         "Sono em Mulheres"
       ],
-      "fetched_at": "2026-10-23T14:43:27.101966+00:00"
+      "fetched_at": "2026-10-24T13:53:05.114078+00:00"
     },
     {
       "id": "fad3ff18cef9548618a0c0df7f89c1f6",
@@ -2081,7 +2290,7 @@
       "topics": [
         "Adenomiose"
       ],
-      "fetched_at": "2026-10-23T14:43:45.044358+00:00"
+      "fetched_at": "2026-10-24T13:53:24.371853+00:00"
     },
     {
       "id": "7bb59c35a8c8e60369c09bee8ec685ae",
@@ -2121,7 +2330,7 @@
       "topics": [
         "Tirzepatida"
       ],
-      "fetched_at": "2026-10-23T14:43:44.169145+00:00"
+      "fetched_at": "2026-10-24T13:53:23.249680+00:00"
     },
     {
       "id": "0ea067d991d3a32e4376a2e68af3beb7",
@@ -2147,7 +2356,7 @@
       "topics": [
         "Endometriose"
       ],
-      "fetched_at": "2026-10-23T14:43:28.275321+00:00"
+      "fetched_at": "2026-10-24T13:53:06.346926+00:00"
     },
     {
       "id": "44c6774488b37e6eb998c6680fa82f12",
@@ -2161,7 +2370,7 @@
         "Endometriose",
         "Menopausa"
       ],
-      "fetched_at": "2026-10-23T14:42:23.214706+00:00"
+      "fetched_at": "2026-10-24T13:51:55.803866+00:00"
     },
     {
       "id": "d2c827fcd9dd77d314a6fefade72c12f",
@@ -2174,7 +2383,7 @@
       "topics": [
         "Endometriose"
       ],
-      "fetched_at": "2026-10-23T14:42:23.214658+00:00"
+      "fetched_at": "2026-10-24T13:51:55.803826+00:00"
     },
     {
       "id": "e4ec8b9e0129d327281cd176f591128d",
@@ -2201,7 +2410,7 @@
       "topics": [
         "Estradiol"
       ],
-      "fetched_at": "2026-10-23T14:42:44.899477+00:00"
+      "fetched_at": "2026-10-24T13:52:20.012556+00:00"
     },
     {
       "id": "9b197dc312a8cad456471ead7a249458",
@@ -2214,7 +2423,7 @@
       "topics": [
         "Menopausa"
       ],
-      "fetched_at": "2026-10-23T14:43:02.456682+00:00"
+      "fetched_at": "2026-10-24T13:52:38.725936+00:00"
     },
     {
       "id": "da05e901377ba88c12dde2af61ab33af",
@@ -2227,7 +2436,7 @@
       "topics": [
         "Estradiol"
       ],
-      "fetched_at": "2026-10-23T14:43:11.390942+00:00"
+      "fetched_at": "2026-10-24T13:52:46.772143+00:00"
     },
     {
       "id": "d71d956dbe859ead2cc968c66721ad43",
@@ -2241,7 +2450,7 @@
         "Menopausa",
         "Estradiol"
       ],
-      "fetched_at": "2026-10-23T14:43:52.607359+00:00"
+      "fetched_at": "2026-10-24T13:53:33.450118+00:00"
     },
     {
       "id": "e8555813e3c8975ef80d363cd747d0ea",
@@ -2254,7 +2463,7 @@
       "topics": [
         "Menopausa"
       ],
-      "fetched_at": "2026-10-23T14:43:52.607443+00:00"
+      "fetched_at": "2026-10-24T13:53:33.450201+00:00"
     },
     {
       "id": "169ca69ff5367a811e8fa9f737b9c9ea",
@@ -2268,7 +2477,7 @@
         "Endometriose",
         "Adenomiose"
       ],
-      "fetched_at": "2026-10-23T14:43:28.275829+00:00"
+      "fetched_at": "2026-10-24T13:53:06.347403+00:00"
     },
     {
       "id": "90671bd2e3abbffd9e8c4bedcb69b481",
@@ -2311,7 +2520,7 @@
         "Perimenopausa",
         "Progesterona"
       ],
-      "fetched_at": "2026-10-23T14:43:15.960371+00:00"
+      "fetched_at": "2026-10-24T13:52:51.953761+00:00"
     },
     {
       "id": "51fe2d6a3fae2cdc3884461503b03819",
@@ -2325,7 +2534,7 @@
         "Menopausa",
         "Perimenopausa"
       ],
-      "fetched_at": "2026-10-23T14:42:53.037916+00:00"
+      "fetched_at": "2026-10-24T13:52:28.770092+00:00"
     },
     {
       "id": "b68389d402df7cf9837a558eb63a5aa7",
@@ -2338,7 +2547,7 @@
       "topics": [
         "Menopausa"
       ],
-      "fetched_at": "2026-10-23T14:42:51.522706+00:00"
+      "fetched_at": "2026-10-24T13:52:27.215629+00:00"
     },
     {
       "id": "e636d17698407c07562b1fa077acfc48",
@@ -2352,7 +2561,7 @@
         "Menopausa",
         "Perimenopausa"
       ],
-      "fetched_at": "2026-10-23T14:42:51.522761+00:00"
+      "fetched_at": "2026-10-24T13:52:27.215672+00:00"
     },
     {
       "id": "450489e202475dee8ee2dd6ccf5055fd",
@@ -2378,7 +2587,7 @@
       "topics": [
         "Menopausa"
       ],
-      "fetched_at": "2026-10-23T14:43:08.292218+00:00"
+      "fetched_at": "2026-10-24T13:52:44.021607+00:00"
     },
     {
       "id": "37e79fb32a296bbe11f814b40baef7bd",
@@ -2391,7 +2600,7 @@
       "topics": [
         "Menopausa"
       ],
-      "fetched_at": "2026-10-23T14:43:45.044358+00:00"
+      "fetched_at": "2026-10-24T13:53:24.371853+00:00"
     },
     {
       "id": "2c04b1829810f572442ca96f0aa65a99",
@@ -2446,7 +2655,7 @@
       "topics": [
         "Tirzepatida"
       ],
-      "fetched_at": "2026-10-23T14:42:32.835647+00:00"
+      "fetched_at": "2026-10-24T13:52:07.366458+00:00"
     },
     {
       "id": "e78013ffa9c9a0c7a606657756e198f7",
@@ -2461,7 +2670,7 @@
         "Estradiol",
         "Brain Fog"
       ],
-      "fetched_at": "2026-10-23T14:43:35.410704+00:00"
+      "fetched_at": "2026-10-24T13:53:12.812649+00:00"
     },
     {
       "id": "90b2f00440c3bd34c2c4d8ffc1c0af13",
@@ -2515,7 +2724,7 @@
       "topics": [
         "Testosterona"
       ],
-      "fetched_at": "2026-10-23T14:43:15.960274+00:00"
+      "fetched_at": "2026-10-24T13:52:51.953673+00:00"
     },
     {
       "id": "e57f0ad6fbcd3c873d90a72b034b1353",
@@ -2528,7 +2737,7 @@
       "topics": [
         "Testosterona"
       ],
-      "fetched_at": "2026-10-23T14:43:15.960559+00:00"
+      "fetched_at": "2026-10-24T13:52:51.953942+00:00"
     },
     {
       "id": "32df3a1ba4b10ce3b021028b806efafb",
@@ -2541,7 +2750,7 @@
       "topics": [
         "Lipedema"
       ],
-      "fetched_at": "2026-10-23T14:43:30.782566+00:00"
+      "fetched_at": "2026-10-24T13:53:09.001264+00:00"
     },
     {
       "id": "20bc06975a26a0c30a008eaf1eee4983",
@@ -2554,7 +2763,7 @@
       "topics": [
         "Estradiol"
       ],
-      "fetched_at": "2026-10-23T14:42:50.492583+00:00"
+      "fetched_at": "2026-10-24T13:52:26.045447+00:00"
     },
     {
       "id": "8c8010a4dc70f21455d83674426a3932",
@@ -2610,7 +2819,7 @@
         "Perimenopausa",
         "Brain Fog"
       ],
-      "fetched_at": "2026-10-23T14:43:35.411106+00:00"
+      "fetched_at": "2026-10-24T13:53:12.813014+00:00"
     },
     {
       "id": "205b08dca38f771eedceee7ec005ff67",
@@ -2623,7 +2832,7 @@
       "topics": [
         "Lipedema"
       ],
-      "fetched_at": "2026-10-23T14:43:30.783158+00:00"
+      "fetched_at": "2026-10-24T13:53:09.001764+00:00"
     },
     {
       "id": "d0c56dc56d9c1186f32b2be8d454ab3d",
@@ -2638,7 +2847,7 @@
         "Progesterona",
         "Sono em Mulheres"
       ],
-      "fetched_at": "2026-10-23T14:42:59.880601+00:00"
+      "fetched_at": "2026-10-24T13:52:35.889673+00:00"
     },
     {
       "id": "ee729d45c748a56467f8f3dc398e21b2",
@@ -2652,7 +2861,7 @@
         "Menopausa",
         "Perimenopausa"
       ],
-      "fetched_at": "2026-10-23T14:42:53.038288+00:00"
+      "fetched_at": "2026-10-24T13:52:28.770414+00:00"
     },
     {
       "id": "553d4c92a41b47cb26b5d7b668b752aa",
@@ -2730,7 +2939,7 @@
       "topics": [
         "Menopausa"
       ],
-      "fetched_at": "2026-10-23T14:43:32.934306+00:00"
+      "fetched_at": "2026-10-24T13:53:11.399784+00:00"
     },
     {
       "id": "c33103b596b52c39533e54d19ba409cd",
@@ -2769,7 +2978,7 @@
       "topics": [
         "Terapia Hormonal"
       ],
-      "fetched_at": "2026-10-23T14:43:03.525082+00:00"
+      "fetched_at": "2026-10-24T13:52:39.991967+00:00"
     },
     {
       "id": "a3c547ac39669b7c7680176ba670937e",
@@ -2783,7 +2992,7 @@
         "Endometriose",
         "Menopausa"
       ],
-      "fetched_at": "2026-10-23T14:43:29.745789+00:00"
+      "fetched_at": "2026-10-24T13:53:07.780262+00:00"
     },
     {
       "id": "71dabdb363b413f39c26d25e63614efb",
@@ -2822,7 +3031,7 @@
       "topics": [
         "Estradiol"
       ],
-      "fetched_at": "2026-10-23T14:42:44.904811+00:00"
+      "fetched_at": "2026-10-24T13:52:20.017326+00:00"
     },
     {
       "id": "65be935c96a3b5be8484889a8426add4",
@@ -2850,7 +3059,7 @@
       "topics": [
         "Testosterona"
       ],
-      "fetched_at": "2026-10-23T14:43:15.960718+00:00"
+      "fetched_at": "2026-10-24T13:52:51.954094+00:00"
     },
     {
       "id": "f841b29df8daf6e91fb3ac5bc8709ca5",
@@ -2880,7 +3089,7 @@
       "topics": [
         "Tirzepatida"
       ],
-      "fetched_at": "2026-10-23T14:42:32.834761+00:00"
+      "fetched_at": "2026-10-24T13:52:07.365671+00:00"
     },
     {
       "id": "4eb3b9c2713bbf579a3a6d49705d7eec",
@@ -2910,7 +3119,7 @@
         "Estradiol",
         "Testosterona"
       ],
-      "fetched_at": "2026-10-23T14:43:15.960025+00:00"
+      "fetched_at": "2026-10-24T13:52:51.953436+00:00"
     },
     {
       "id": "df9e28446ea4a3c0e35b96b74f23c4c4",
@@ -2923,7 +3132,7 @@
       "topics": [
         "Menopausa"
       ],
-      "fetched_at": "2026-10-23T14:43:15.955683+00:00"
+      "fetched_at": "2026-10-24T13:52:51.949496+00:00"
     },
     {
       "id": "f6b063ae2b5a77d20876657c2d172613",
@@ -2964,7 +3173,7 @@
         "Lipedema",
         "Tirzepatida"
       ],
-      "fetched_at": "2026-10-23T14:43:30.783210+00:00"
+      "fetched_at": "2026-10-24T13:53:09.001809+00:00"
     },
     {
       "id": "384cfe3727669538580cef237d7b7040",
@@ -2978,7 +3187,7 @@
         "Estradiol",
         "Testosterona"
       ],
-      "fetched_at": "2026-10-23T14:43:44.169145+00:00"
+      "fetched_at": "2026-10-24T13:53:23.249680+00:00"
     },
     {
       "id": "477652cfea4aa42ca75127f15f7d338c",
@@ -3031,7 +3240,7 @@
         "Terapia Hormonal",
         "Estradiol"
       ],
-      "fetched_at": "2026-10-23T14:43:03.525450+00:00"
+      "fetched_at": "2026-10-24T13:52:39.992295+00:00"
     },
     {
       "id": "3841f5abb6c0d76831384d75ae492184",
@@ -3057,7 +3266,7 @@
       "topics": [
         "Menopausa"
       ],
-      "fetched_at": "2026-10-23T14:43:58.942917+00:00"
+      "fetched_at": "2026-10-24T13:53:40.195266+00:00"
     },
     {
       "id": "ba9078376e342d3c652a58f4a3a5aa67",
@@ -3071,7 +3280,7 @@
         "Menopausa",
         "Perimenopausa"
       ],
-      "fetched_at": "2026-10-23T14:43:58.943167+00:00"
+      "fetched_at": "2026-10-24T13:53:40.195486+00:00"
     },
     {
       "id": "2c55dbf5c2a0d3b2ccfb1fe8f789ef2d",
@@ -3084,7 +3293,7 @@
       "topics": [
         "Menopausa"
       ],
-      "fetched_at": "2026-10-23T14:42:26.239321+00:00"
+      "fetched_at": "2026-10-24T13:51:59.568474+00:00"
     },
     {
       "id": "c6643fce63570ab055a0eb9a7729879b",
@@ -3097,7 +3306,7 @@
       "topics": [
         "Lipedema"
       ],
-      "fetched_at": "2026-10-23T14:43:30.782833+00:00"
+      "fetched_at": "2026-10-24T13:53:09.001485+00:00"
     },
     {
       "id": "bb0d9418add502f99500c2b3d40347dc",
@@ -3124,7 +3333,7 @@
       "topics": [
         "Tirzepatida"
       ],
-      "fetched_at": "2026-10-23T14:42:32.835925+00:00"
+      "fetched_at": "2026-10-24T13:52:07.366702+00:00"
     },
     {
       "id": "0dc8b68976e6342da3e1feec478836a6",
@@ -3178,7 +3387,7 @@
       "topics": [
         "Testosterona"
       ],
-      "fetched_at": "2026-10-23T14:43:15.960919+00:00"
+      "fetched_at": "2026-10-24T13:52:51.954294+00:00"
     },
     {
       "id": "603cb59960f661fb67da4179600ef58d",
@@ -3191,7 +3400,7 @@
       "topics": [
         "Tirzepatida"
       ],
-      "fetched_at": "2026-10-23T14:43:18.433866+00:00"
+      "fetched_at": "2026-10-24T13:52:55.291995+00:00"
     },
     {
       "id": "d9ec182c456560841e54a092d2287d9b",
@@ -3218,20 +3427,20 @@
         "Menopausa",
         "Progesterona"
       ],
-      "fetched_at": "2026-10-23T14:42:59.879848+00:00"
+      "fetched_at": "2026-10-24T13:52:35.889032+00:00"
     },
     {
       "id": "24c604b62d04e4802da337c8ba6dff2b",
       "title": "Malignant transformation of endometriosis into endometrioid ovarian carcinoma with a contralateral borderline seromucinous tumour: A rare case report",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42903660/",
       "source": "PubMed",
-      "summary": "Endometriosis-associated ovarian cancer is uncommon and is most often represented by endometrioid and clear cell carcinomas. Synchronous contralateral borderline ovarian tumours are uncommon and may be missed when gross intraoperative assessment is reassuring. A 43-year-old woman with a confirmed diagnosis of endometriosis for approximately 5 years presented with worsening pelvic pain and menstrua",
+      "summary": "BackgroundEndometriosis-associated ovarian cancer is uncommon and is most often represented by endometrioid and clear cell carcinomas. Synchronous contralateral borderline ovarian tumours are uncommon and may be missed when gross intraoperative assessment is reassuring.CaseA 43-year-old woman with a confirmed diagnosis of endometriosis for approximately 5 years presented with worsening pelvic pain",
       "image": null,
       "published": "2026-10-07T00:00:00+00:00",
       "topics": [
         "Endometriose"
       ],
-      "fetched_at": "2026-10-23T14:43:29.739040+00:00"
+      "fetched_at": "2026-10-24T13:53:07.773806+00:00"
     },
     {
       "id": "84b14b9dcb8c481dcae00dc408dc8480",
@@ -3244,7 +3453,34 @@
       "topics": [
         "Adenomiose"
       ],
-      "fetched_at": "2026-10-23T14:43:01.064029+00:00"
+      "fetched_at": "2026-10-24T13:52:37.328484+00:00"
+    },
+    {
+      "id": "b0a225890576912d67256d5e95bc1188",
+      "title": "Manual lymphatic drainage reduces tissue sodium and self-reported pain in women with lipedema: a quantitative MRI study",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42909292/",
+      "source": "PubMed",
+      "summary": "Frontiers in cell and developmental biology · Nöll E, Henkel A, Cornely ME et al.",
+      "image": null,
+      "published": "2026-10-07T00:00:00+00:00",
+      "topics": [
+        "Lipedema"
+      ],
+      "fetched_at": "2026-10-24T13:53:09.001099+00:00"
+    },
+    {
+      "id": "09974119fe7dba02a3b8dd537a7e2e56",
+      "title": "Physical activity and structured exercise patterns in perimenopausal women: a cross-sectional study",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42909038/",
+      "source": "PubMed",
+      "summary": "Frontiers in global women's health · Duaso-Iriarte A, Piedrafita E, Sarría A et al.",
+      "image": null,
+      "published": "2026-10-07T00:00:00+00:00",
+      "topics": [
+        "Menopausa",
+        "Perimenopausa"
+      ],
+      "fetched_at": "2026-10-24T13:52:27.214917+00:00"
     },
     {
       "id": "700a5aa69f28e49c05d0f44ac1ae9cc3",
@@ -3315,7 +3551,7 @@
         "Perimenopausa",
         "Progesterona"
       ],
-      "fetched_at": "2026-10-23T14:43:08.292991+00:00"
+      "fetched_at": "2026-10-24T13:52:44.022301+00:00"
     },
     {
       "id": "b9c4a57387361ef1ee8fb99aca64e323",
@@ -3328,7 +3564,7 @@
       "topics": [
         "Menopausa"
       ],
-      "fetched_at": "2026-10-23T14:43:08.292492+00:00"
+      "fetched_at": "2026-10-24T13:52:44.021850+00:00"
     },
     {
       "id": "6433c327fba3a113182815271a2be26d",
@@ -3341,7 +3577,7 @@
       "topics": [
         "Menopausa"
       ],
-      "fetched_at": "2026-10-23T14:43:08.292781+00:00"
+      "fetched_at": "2026-10-24T13:52:44.022105+00:00"
     },
     {
       "id": "2372078eca91106fcc79e28a9715da3e",
@@ -3354,7 +3590,7 @@
       "topics": [
         "Menopausa"
       ],
-      "fetched_at": "2026-10-23T14:43:08.292538+00:00"
+      "fetched_at": "2026-10-24T13:52:44.021891+00:00"
     },
     {
       "id": "21cd58f1d3545fca8d0a3423ce92d4f9",
@@ -3369,7 +3605,7 @@
         "Estradiol",
         "Progesterona"
       ],
-      "fetched_at": "2026-10-23T14:43:08.292725+00:00"
+      "fetched_at": "2026-10-24T13:52:44.022060+00:00"
     },
     {
       "id": "6c67e0d0b053e85a6f3fc217bf9c13ff",
@@ -3395,7 +3631,7 @@
       "topics": [
         "Menopausa"
       ],
-      "fetched_at": "2026-10-23T14:42:51.523041+00:00"
+      "fetched_at": "2026-10-24T13:52:27.215852+00:00"
     },
     {
       "id": "01b37ecc7d8d6f8a3a6e011d0baab8db",
@@ -3408,7 +3644,7 @@
       "topics": [
         "Menopausa"
       ],
-      "fetched_at": "2026-10-23T14:43:41.683323+00:00"
+      "fetched_at": "2026-10-24T13:53:18.657858+00:00"
     },
     {
       "id": "ea7bf65828e9499e7dca877a5c896a60",
@@ -3421,7 +3657,7 @@
       "topics": [
         "Menopausa"
       ],
-      "fetched_at": "2026-10-23T14:43:41.683323+00:00"
+      "fetched_at": "2026-10-24T13:53:18.657858+00:00"
     },
     {
       "id": "94254669a4dfcecfbd66e2b812f58f77",
@@ -3434,7 +3670,7 @@
       "topics": [
         "Menopausa"
       ],
-      "fetched_at": "2026-10-23T14:43:41.683323+00:00"
+      "fetched_at": "2026-10-24T13:53:18.657858+00:00"
     },
     {
       "id": "fecce5a54b66767074feca2804f93ca1",
@@ -3449,7 +3685,7 @@
         "Perimenopausa",
         "Sono em Mulheres"
       ],
-      "fetched_at": "2026-10-23T14:43:41.683323+00:00"
+      "fetched_at": "2026-10-24T13:53:18.657858+00:00"
     },
     {
       "id": "a4d0a3309663404349a7936551ec340c",
@@ -3488,7 +3724,7 @@
       "topics": [
         "Menopausa"
       ],
-      "fetched_at": "2026-10-23T14:43:41.683323+00:00"
+      "fetched_at": "2026-10-24T13:53:18.657858+00:00"
     },
     {
       "id": "c782001ea33e95cd27866753d252021c",
@@ -3501,7 +3737,7 @@
       "topics": [
         "Menopausa"
       ],
-      "fetched_at": "2026-10-23T14:43:41.683323+00:00"
+      "fetched_at": "2026-10-24T13:53:18.657858+00:00"
     },
     {
       "id": "2fa984c06e137dfabd369704433afa8e",
@@ -3514,7 +3750,7 @@
       "topics": [
         "Menopausa"
       ],
-      "fetched_at": "2026-10-23T14:43:41.683323+00:00"
+      "fetched_at": "2026-10-24T13:53:18.657858+00:00"
     },
     {
       "id": "e4d03d259269ec470d0fd5d4d53c9815",
@@ -3528,7 +3764,7 @@
         "Menopausa",
         "Brain Fog"
       ],
-      "fetched_at": "2026-10-23T14:43:41.683323+00:00"
+      "fetched_at": "2026-10-24T13:53:18.657858+00:00"
     },
     {
       "id": "c4805e55355813a3802fbc0f7eab498c",
@@ -3556,7 +3792,7 @@
         "Estradiol",
         "Sono em Mulheres"
       ],
-      "fetched_at": "2026-10-23T14:43:57.002035+00:00"
+      "fetched_at": "2026-10-24T13:53:37.920990+00:00"
     },
     {
       "id": "ec7634dfc978340aa16841786d657274",
@@ -3570,7 +3806,7 @@
         "Menopausa",
         "Estradiol"
       ],
-      "fetched_at": "2026-10-23T14:43:38.219548+00:00"
+      "fetched_at": "2026-10-24T13:53:15.222937+00:00"
     },
     {
       "id": "2e68ed3c6138443d952a5fc81ced99ce",
@@ -3596,7 +3832,7 @@
       "topics": [
         "Sono em Mulheres"
       ],
-      "fetched_at": "2026-10-23T14:42:41.926087+00:00"
+      "fetched_at": "2026-10-24T13:52:16.326320+00:00"
     },
     {
       "id": "714b0c177545c1f2033af0f2ad728d90",
@@ -3609,7 +3845,7 @@
       "topics": [
         "Sono em Mulheres"
       ],
-      "fetched_at": "2026-10-23T14:42:41.926316+00:00"
+      "fetched_at": "2026-10-24T13:52:16.326516+00:00"
     },
     {
       "id": "9a6b5a217cf94ce00861f8f8e4b7966b",
@@ -3636,7 +3872,7 @@
       "topics": [
         "Testosterona"
       ],
-      "fetched_at": "2026-10-23T14:43:15.961111+00:00"
+      "fetched_at": "2026-10-24T13:52:51.954474+00:00"
     },
     {
       "id": "2cfdfeb302ad01c5f83e888048053290",
@@ -3650,7 +3886,7 @@
         "Menopausa",
         "Testosterona"
       ],
-      "fetched_at": "2026-10-23T14:43:15.961304+00:00"
+      "fetched_at": "2026-10-24T13:52:51.954656+00:00"
     },
     {
       "id": "9466873bd5f42ba400190ddbe8f9df31",
@@ -3677,7 +3913,7 @@
       "topics": [
         "Menopausa"
       ],
-      "fetched_at": "2026-10-23T14:43:15.959476+00:00"
+      "fetched_at": "2026-10-24T13:52:51.952901+00:00"
     },
     {
       "id": "352ce5bb0c2f3c0a89a8dab4dce680ff",
@@ -3691,7 +3927,7 @@
         "Terapia Hormonal",
         "Adenomiose"
       ],
-      "fetched_at": "2026-10-23T14:43:29.739549+00:00"
+      "fetched_at": "2026-10-24T13:53:07.774308+00:00"
     },
     {
       "id": "356a0d1ccf97cbf82a0b2915e9412b91",
@@ -3704,7 +3940,7 @@
       "topics": [
         "Menopausa"
       ],
-      "fetched_at": "2026-10-23T14:43:44.169145+00:00"
+      "fetched_at": "2026-10-24T13:53:23.249680+00:00"
     },
     {
       "id": "982124ba2bade7057563caeadf030a8d",
@@ -3730,7 +3966,7 @@
       "topics": [
         "Menopausa"
       ],
-      "fetched_at": "2026-10-23T14:42:58.275159+00:00"
+      "fetched_at": "2026-10-24T13:52:34.428878+00:00"
     },
     {
       "id": "9bc2b56b2466104410fde30c1e71eeda",
@@ -3743,7 +3979,7 @@
       "topics": [
         "Estradiol"
       ],
-      "fetched_at": "2026-10-23T14:42:43.115531+00:00"
+      "fetched_at": "2026-10-24T13:52:17.605337+00:00"
     },
     {
       "id": "9459fd9f654114696560e262dca3f875",
@@ -3795,7 +4031,7 @@
       "topics": [
         "Estradiol"
       ],
-      "fetched_at": "2026-10-23T14:43:11.397029+00:00"
+      "fetched_at": "2026-10-24T13:52:46.776769+00:00"
     },
     {
       "id": "28efdc3723d86a5504f1333362ebec8c",
@@ -3808,7 +4044,7 @@
       "topics": [
         "Testosterona"
       ],
-      "fetched_at": "2026-10-23T14:43:14.617012+00:00"
+      "fetched_at": "2026-10-24T13:52:50.492033+00:00"
     },
     {
       "id": "d784671f7e5ce4f8508d14b9dd976024",
@@ -3834,7 +4070,7 @@
       "topics": [
         "Endometriose"
       ],
-      "fetched_at": "2026-10-23T14:43:28.274637+00:00"
+      "fetched_at": "2026-10-24T13:53:06.346320+00:00"
     },
     {
       "id": "f754368f052f5640d5c2b181f1416046",
@@ -3847,7 +4083,7 @@
       "topics": [
         "Testosterona"
       ],
-      "fetched_at": "2026-10-23T14:43:15.959697+00:00"
+      "fetched_at": "2026-10-24T13:52:51.953109+00:00"
     },
     {
       "id": "c937845e84e0160f1f020421cc05e55b",
@@ -3860,7 +4096,7 @@
       "topics": [
         "Menopausa"
       ],
-      "fetched_at": "2026-10-23T14:42:27.918965+00:00"
+      "fetched_at": "2026-10-24T13:52:01.386018+00:00"
     },
     {
       "id": "50db0b196951017714b6c0705d72b36e",
@@ -3875,7 +4111,7 @@
         "Estradiol",
         "Perimenopausa"
       ],
-      "fetched_at": "2026-10-23T14:43:27.108026+00:00"
+      "fetched_at": "2026-10-24T13:53:05.119635+00:00"
     },
     {
       "id": "84e431a11676f5fa0a70cf7a3243521f",
@@ -3888,7 +4124,7 @@
       "topics": [
         "Menopausa"
       ],
-      "fetched_at": "2026-10-23T14:43:02.450602+00:00"
+      "fetched_at": "2026-10-24T13:52:38.720469+00:00"
     },
     {
       "id": "0a2aa0f1c993591593d7f1b336921364",
@@ -3901,7 +4137,7 @@
       "topics": [
         "Endometriose"
       ],
-      "fetched_at": "2026-10-23T14:43:28.276080+00:00"
+      "fetched_at": "2026-10-24T13:53:06.347639+00:00"
     },
     {
       "id": "9b47f4a8bb7d7b188099b254631b88da",
@@ -3927,7 +4163,7 @@
       "topics": [
         "Lipedema"
       ],
-      "fetched_at": "2026-10-23T14:43:30.782884+00:00"
+      "fetched_at": "2026-10-24T13:53:09.001530+00:00"
     },
     {
       "id": "aa9536c81e24cfc4d6ed31acbd9d47d1",
@@ -3940,7 +4176,7 @@
       "topics": [
         "Menopausa"
       ],
-      "fetched_at": "2026-10-23T14:42:27.917940+00:00"
+      "fetched_at": "2026-10-24T13:52:01.385074+00:00"
     },
     {
       "id": "c3b961a2d582d7f10adf5e847e421ee4",
@@ -3954,7 +4190,7 @@
         "Terapia Hormonal",
         "Estradiol"
       ],
-      "fetched_at": "2026-10-23T14:43:44.169145+00:00"
+      "fetched_at": "2026-10-24T13:53:23.249680+00:00"
     },
     {
       "id": "46675915e1781368f29a36ea0143a572",
@@ -4008,7 +4244,7 @@
       "topics": [
         "Lipedema"
       ],
-      "fetched_at": "2026-10-23T14:43:31.867645+00:00"
+      "fetched_at": "2026-10-24T13:53:10.155349+00:00"
     },
     {
       "id": "c3ea6afa2c17078cd41ff2a8f4729b89",
@@ -4074,7 +4310,7 @@
         "Cérebro Feminino",
         "Sono em Mulheres"
       ],
-      "fetched_at": "2026-10-23T14:42:41.927121+00:00"
+      "fetched_at": "2026-10-24T13:52:16.327237+00:00"
     },
     {
       "id": "4de0ed71c6944da37e92d2ab9fd43cad",
@@ -4087,7 +4323,7 @@
       "topics": [
         "Sono em Mulheres"
       ],
-      "fetched_at": "2026-10-23T14:42:41.927363+00:00"
+      "fetched_at": "2026-10-24T13:52:16.327456+00:00"
     },
     {
       "id": "243a1fb638162b350b9b1e150c6dc1fc",
@@ -4115,7 +4351,7 @@
         "Endometriose",
         "Estradiol"
       ],
-      "fetched_at": "2026-10-23T14:43:29.745589+00:00"
+      "fetched_at": "2026-10-24T13:53:07.780071+00:00"
     },
     {
       "id": "83f3ed3529ce398326d20ec52071aa34",
@@ -4131,6 +4367,19 @@
       "fetched_at": "2026-10-23T14:43:01.065564+00:00"
     },
     {
+      "id": "26d6480f89d6d79b91ceeadcfb3ea5ee",
+      "title": "Adolescent and Early-Onset Adenomyosis: Phenotypes, Diagnostic Challenges, and Fertility-Conscious Care",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42910152/",
+      "source": "PubMed",
+      "summary": "International journal of medical sciences · Yang S, Chen Y, Ma X",
+      "image": null,
+      "published": "2026-10-02T00:00:00+00:00",
+      "topics": [
+        "Adenomiose"
+      ],
+      "fetched_at": "2026-10-24T13:53:06.345883+00:00"
+    },
+    {
       "id": "ae4b5b5f784c0bd0b9550def39bade6f",
       "title": "Real-world river water organic pollutant mixture induces ovarian hyperandrogenism via aryl hydrocarbon receptor activation",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42844579/",
@@ -4141,7 +4390,7 @@
       "topics": [
         "Testosterona"
       ],
-      "fetched_at": "2026-10-23T14:43:14.617625+00:00"
+      "fetched_at": "2026-10-24T13:52:50.492458+00:00"
     },
     {
       "id": "f37a8fdf4b33ef8ce77a775ac535b612",
@@ -4154,7 +4403,7 @@
       "topics": [
         "Adenomiose"
       ],
-      "fetched_at": "2026-10-23T14:42:35.892851+00:00"
+      "fetched_at": "2026-10-24T13:52:10.201844+00:00"
     },
     {
       "id": "d0873deffc16dc90158d6198e140a06c",
@@ -4167,7 +4416,7 @@
       "topics": [
         "Sono em Mulheres"
       ],
-      "fetched_at": "2026-10-23T14:43:35.411484+00:00"
+      "fetched_at": "2026-10-24T13:53:12.813381+00:00"
     },
     {
       "id": "6b4530d2ec9f1017821db8d88541d662",
@@ -4180,7 +4429,7 @@
       "topics": [
         "Endometriose"
       ],
-      "fetched_at": "2026-10-23T14:42:25.143763+00:00"
+      "fetched_at": "2026-10-24T13:51:58.270499+00:00"
     },
     {
       "id": "95ed58343264f6b64f4bd008afd33802",
@@ -4193,7 +4442,7 @@
       "topics": [
         "Menopausa"
       ],
-      "fetched_at": "2026-10-23T14:43:43.294397+00:00"
+      "fetched_at": "2026-10-24T13:53:22.008034+00:00"
     },
     {
       "id": "bc4609c5336e493b9a806c09bcdea20f",
@@ -4206,7 +4455,7 @@
       "topics": [
         "Menopausa"
       ],
-      "fetched_at": "2026-10-23T14:43:08.294244+00:00"
+      "fetched_at": "2026-10-24T13:52:28.771123+00:00"
     },
     {
       "id": "d5b8f273d214d1f117abc7d31cb111c3",
@@ -4219,7 +4468,7 @@
       "topics": [
         "Endometriose"
       ],
-      "fetched_at": "2026-10-23T14:42:35.895830+00:00"
+      "fetched_at": "2026-10-24T13:52:10.204402+00:00"
     },
     {
       "id": "6d52579ba14de62c3cc316e767c8768c",
@@ -4245,7 +4494,7 @@
       "topics": [
         "Adenomiose"
       ],
-      "fetched_at": "2026-10-23T14:42:35.897872+00:00"
+      "fetched_at": "2026-10-24T13:52:10.206045+00:00"
     },
     {
       "id": "367c771c3ef475a2d9ce4a55b7ea4813",
@@ -4259,7 +4508,7 @@
         "Menopausa",
         "Lipedema"
       ],
-      "fetched_at": "2026-10-23T14:43:31.867856+00:00"
+      "fetched_at": "2026-10-24T13:53:10.155526+00:00"
     },
     {
       "id": "3cb204a8bde9282815ace278f6ec93eb",
@@ -4274,7 +4523,7 @@
         "Estradiol",
         "Progesterona"
       ],
-      "fetched_at": "2026-10-23T14:43:13.516236+00:00"
+      "fetched_at": "2026-10-24T13:52:49.110602+00:00"
     },
     {
       "id": "d002184dfea10212185bfbe3da688ca3",
@@ -4289,7 +4538,7 @@
         "Estradiol",
         "Brain Fog"
       ],
-      "fetched_at": "2026-10-23T14:43:35.413161+00:00"
+      "fetched_at": "2026-10-24T13:53:12.814907+00:00"
     },
     {
       "id": "08b71becb34ba501e44f39ec8b16338d",
@@ -4318,7 +4567,7 @@
         "Menopausa",
         "Perimenopausa"
       ],
-      "fetched_at": "2026-10-23T14:42:53.039990+00:00"
+      "fetched_at": "2026-10-24T13:52:28.771889+00:00"
     },
     {
       "id": "27f2e5ba73f58693967b728e9c029525",
@@ -4331,7 +4580,7 @@
       "topics": [
         "Lipedema"
       ],
-      "fetched_at": "2026-10-23T14:43:30.784359+00:00"
+      "fetched_at": "2026-10-24T13:53:09.002765+00:00"
     },
     {
       "id": "41887685e05cc301e58da30edd09b19f",
@@ -4344,7 +4593,7 @@
       "topics": [
         "Cérebro Feminino"
       ],
-      "fetched_at": "2026-10-23T14:42:41.929334+00:00"
+      "fetched_at": "2026-10-24T13:52:16.329230+00:00"
     },
     {
       "id": "9f883f9893632576cab6ff73cc0680d2",
@@ -4424,7 +4673,7 @@
         "Testosterona",
         "Progesterona"
       ],
-      "fetched_at": "2026-10-23T14:42:50.493969+00:00"
+      "fetched_at": "2026-10-24T13:52:20.018165+00:00"
     },
     {
       "id": "3f8b76471d2901fa8d9bbd87d202a381",
@@ -4439,7 +4688,7 @@
         "Perimenopausa",
         "Sono em Mulheres"
       ],
-      "fetched_at": "2026-10-23T14:43:25.538551+00:00"
+      "fetched_at": "2026-10-24T13:53:02.660002+00:00"
     },
     {
       "id": "9c3edb59257d535c1913f761924ce49f",
@@ -4465,7 +4714,7 @@
       "topics": [
         "Endometriose"
       ],
-      "fetched_at": "2026-10-23T14:43:28.276256+00:00"
+      "fetched_at": "2026-10-24T13:53:06.347779+00:00"
     },
     {
       "id": "58af5f550db1f82aa5858b6c871a8540",
@@ -4508,7 +4757,7 @@
         "Perimenopausa",
         "Progesterona"
       ],
-      "fetched_at": "2026-10-23T14:42:53.038979+00:00"
+      "fetched_at": "2026-10-24T13:52:28.771001+00:00"
     },
     {
       "id": "4d4100219cadaccd541442c32d2f55f9",
@@ -4523,7 +4772,7 @@
         "Adenomiose",
         "Perimenopausa"
       ],
-      "fetched_at": "2026-10-23T14:42:35.895621+00:00"
+      "fetched_at": "2026-10-24T13:52:10.204231+00:00"
     },
     {
       "id": "45ec38cb59210cbec1609b1354bfb74a",
@@ -4536,7 +4785,7 @@
       "topics": [
         "Sono em Mulheres"
       ],
-      "fetched_at": "2026-10-23T14:42:41.927664+00:00"
+      "fetched_at": "2026-10-24T13:52:16.327734+00:00"
     },
     {
       "id": "4756fbd33642fdfd35adeaa429c3d1a0",
@@ -4551,7 +4800,7 @@
         "Estradiol",
         "Perimenopausa"
       ],
-      "fetched_at": "2026-10-23T14:42:53.038862+00:00"
+      "fetched_at": "2026-10-24T13:52:28.770900+00:00"
     },
     {
       "id": "65dbc68dff4d42a621386d4608bfe9f1",
@@ -4565,7 +4814,7 @@
         "Menopausa",
         "Perimenopausa"
       ],
-      "fetched_at": "2026-10-23T14:43:08.289726+00:00"
+      "fetched_at": "2026-10-24T13:52:44.019221+00:00"
     },
     {
       "id": "62c7814099b0baa33377533888b60cfb",
@@ -4686,7 +4935,7 @@
         "Terapia Hormonal",
         "Sono em Mulheres"
       ],
-      "fetched_at": "2026-10-23T14:43:35.412094+00:00"
+      "fetched_at": "2026-10-24T13:53:12.813938+00:00"
     },
     {
       "id": "8e3434eb6742cb1bad87f3b5913ef294",
@@ -4766,7 +5015,7 @@
         "Testosterona",
         "Progesterona"
       ],
-      "fetched_at": "2026-10-23T14:43:11.397580+00:00"
+      "fetched_at": "2026-10-24T13:52:46.777234+00:00"
     },
     {
       "id": "265954e5b6b5eaf726cae43f8906ca3d",
@@ -4792,7 +5041,7 @@
       "topics": [
         "Menopausa"
       ],
-      "fetched_at": "2026-10-23T14:42:35.895326+00:00"
+      "fetched_at": "2026-10-24T13:52:10.203962+00:00"
     },
     {
       "id": "b7c6e3419d0192c140eec69f3c8d3328",
@@ -4806,7 +5055,7 @@
         "Estradiol",
         "Testosterona"
       ],
-      "fetched_at": "2026-10-23T14:42:44.905441+00:00"
+      "fetched_at": "2026-10-24T13:52:20.017884+00:00"
     },
     {
       "id": "0db16be5b832bf3efa423dd4f77b70b7",
@@ -4832,7 +5081,7 @@
       "topics": [
         "Adenomiose"
       ],
-      "fetched_at": "2026-10-23T14:42:34.090427+00:00"
+      "fetched_at": "2026-10-24T13:52:08.549702+00:00"
     },
     {
       "id": "f31a4de47d7b23672a321e27ad18f716",
@@ -4845,7 +5094,7 @@
       "topics": [
         "Brain Fog"
       ],
-      "fetched_at": "2026-10-23T14:43:35.412828+00:00"
+      "fetched_at": "2026-10-24T13:53:12.814596+00:00"
     },
     {
       "id": "ebaa31cf4bc3f385c459c3887b452325",
@@ -4858,7 +5107,7 @@
       "topics": [
         "Estradiol"
       ],
-      "fetched_at": "2026-10-23T14:43:11.391972+00:00"
+      "fetched_at": "2026-10-24T13:52:46.772987+00:00"
     },
     {
       "id": "cac0ab49b37c1aaab98bf8dde95bb757",
@@ -4885,7 +5134,7 @@
       "topics": [
         "Estradiol"
       ],
-      "fetched_at": "2026-10-23T14:43:38.219751+00:00"
+      "fetched_at": "2026-10-24T13:53:15.223129+00:00"
     },
     {
       "id": "258fac405b8e541c04382073d4c77619",
@@ -4898,7 +5147,7 @@
       "topics": [
         "Endometriose"
       ],
-      "fetched_at": "2026-10-23T14:43:28.275925+00:00"
+      "fetched_at": "2026-10-24T13:53:06.347492+00:00"
     },
     {
       "id": "33d3f0bde57500c0cf1fabc2593f7599",
@@ -4911,7 +5160,7 @@
       "topics": [
         "Progesterona"
       ],
-      "fetched_at": "2026-10-23T14:43:42.493676+00:00"
+      "fetched_at": "2026-10-24T13:53:20.473717+00:00"
     },
     {
       "id": "28a6f6e713669171bfe86a9c3db538e0",
@@ -4924,7 +5173,7 @@
       "topics": [
         "Menopausa"
       ],
-      "fetched_at": "2026-10-23T14:43:32.934404+00:00"
+      "fetched_at": "2026-10-24T13:53:11.399872+00:00"
     },
     {
       "id": "d54f7b2ac7984540c26013110fbf12f7",
@@ -4964,7 +5213,7 @@
       "topics": [
         "Menopausa"
       ],
-      "fetched_at": "2026-10-23T14:42:58.275314+00:00"
+      "fetched_at": "2026-10-24T13:52:34.429011+00:00"
     },
     {
       "id": "83f55b78bc9366ebcfb973804e2e6000",
@@ -4992,7 +5241,7 @@
         "Endometriose",
         "Estradiol"
       ],
-      "fetched_at": "2026-10-23T14:43:29.747064+00:00"
+      "fetched_at": "2026-10-24T13:53:07.781474+00:00"
     },
     {
       "id": "ea546b0036d84fc90bf590d1d0a1d8cc",
@@ -5005,7 +5254,7 @@
       "topics": [
         "Menopausa"
       ],
-      "fetched_at": "2026-10-23T14:43:25.538497+00:00"
+      "fetched_at": "2026-10-24T13:53:02.659957+00:00"
     },
     {
       "id": "32c2f6dbc2e5360bdbdd5f12ca4b59ff",
@@ -5018,7 +5267,7 @@
       "topics": [
         "Endometriose"
       ],
-      "fetched_at": "2026-10-23T14:43:29.746166+00:00"
+      "fetched_at": "2026-10-24T13:53:07.780621+00:00"
     },
     {
       "id": "f9a0735c67ece3191024f1c352be77b2",
@@ -5032,7 +5281,7 @@
         "Endometriose",
         "Adenomiose"
       ],
-      "fetched_at": "2026-10-23T14:43:29.745987+00:00"
+      "fetched_at": "2026-10-24T13:53:07.780446+00:00"
     },
     {
       "id": "d4794acda0ade80d053554236d65835f",
@@ -5045,7 +5294,7 @@
       "topics": [
         "Endometriose"
       ],
-      "fetched_at": "2026-10-23T14:43:29.746537+00:00"
+      "fetched_at": "2026-10-24T13:53:07.780966+00:00"
     },
     {
       "id": "f42928a5abe25aaaf60cf17dc98c3530",
@@ -5059,7 +5308,7 @@
         "Menopausa",
         "Perimenopausa"
       ],
-      "fetched_at": "2026-10-23T14:42:51.522112+00:00"
+      "fetched_at": "2026-10-24T13:52:27.215172+00:00"
     },
     {
       "id": "44e971e4a0db0273d47b62b1b598b66b",
@@ -5072,7 +5321,7 @@
       "topics": [
         "Menopausa"
       ],
-      "fetched_at": "2026-10-23T14:43:32.934738+00:00"
+      "fetched_at": "2026-10-24T13:53:11.400179+00:00"
     },
     {
       "id": "38f0614ea17dea62cd3218a67c826806",
@@ -5140,7 +5389,7 @@
         "Estradiol",
         "Testosterona"
       ],
-      "fetched_at": "2026-10-23T14:42:50.492376+00:00"
+      "fetched_at": "2026-10-24T13:52:26.045272+00:00"
     },
     {
       "id": "a65245a6a000e1f27591b52c28fe68ee",
@@ -5167,7 +5416,7 @@
       "topics": [
         "Lipedema"
       ],
-      "fetched_at": "2026-10-23T14:43:30.782666+00:00"
+      "fetched_at": "2026-10-24T13:53:09.001350+00:00"
     },
     {
       "id": "3b22565803bb71517d0f3e89a6d820a1",
@@ -5210,7 +5459,7 @@
         "Testosterona",
         "Perimenopausa"
       ],
-      "fetched_at": "2026-10-23T14:43:27.102737+00:00"
+      "fetched_at": "2026-10-24T13:53:05.114935+00:00"
     },
     {
       "id": "3b940a5ac0391875fa3824e82509bc8b",
@@ -5224,7 +5473,7 @@
         "Estradiol",
         "Adenomiose"
       ],
-      "fetched_at": "2026-10-23T14:42:35.896068+00:00"
+      "fetched_at": "2026-10-24T13:52:10.204594+00:00"
     },
     {
       "id": "5a2414567746b1869958b9694a3b2d9d",
@@ -5237,7 +5486,7 @@
       "topics": [
         "Cérebro Feminino"
       ],
-      "fetched_at": "2026-10-23T14:43:35.410939+00:00"
+      "fetched_at": "2026-10-24T13:53:12.812858+00:00"
     },
     {
       "id": "c9327eb841559983975085a7e2747000",
@@ -5250,7 +5499,7 @@
       "topics": [
         "Cérebro Feminino"
       ],
-      "fetched_at": "2026-10-23T14:43:35.413003+00:00"
+      "fetched_at": "2026-10-24T13:53:12.814760+00:00"
     },
     {
       "id": "3f4d8230bebb5a9f65827137b36be07f",
@@ -5263,7 +5512,7 @@
       "topics": [
         "Menopausa"
       ],
-      "fetched_at": "2026-10-23T14:43:35.413361+00:00"
+      "fetched_at": "2026-10-24T13:53:12.815096+00:00"
     },
     {
       "id": "03900cb156558dedd16209eab1aee49c",
@@ -5276,7 +5525,7 @@
       "topics": [
         "Cérebro Feminino"
       ],
-      "fetched_at": "2026-10-23T14:42:41.928057+00:00"
+      "fetched_at": "2026-10-24T13:52:16.328096+00:00"
     },
     {
       "id": "a3bbaab71b4d95db367d786490320141",
@@ -5303,7 +5552,7 @@
         "Menopausa",
         "Sono em Mulheres"
       ],
-      "fetched_at": "2026-10-23T14:43:27.104057+00:00"
+      "fetched_at": "2026-10-24T13:53:05.116137+00:00"
     },
     {
       "id": "167749aaf040ccd6549204ca9030dc9c",
@@ -5332,7 +5581,7 @@
         "Menopausa",
         "Sono em Mulheres"
       ],
-      "fetched_at": "2026-10-23T14:43:27.104100+00:00"
+      "fetched_at": "2026-10-24T13:53:05.116181+00:00"
     },
     {
       "id": "10024fb2bcb7d93977a4536475d9e714",
@@ -5345,7 +5594,7 @@
       "topics": [
         "Menopausa"
       ],
-      "fetched_at": "2026-10-23T14:42:53.039494+00:00"
+      "fetched_at": "2026-10-24T13:52:28.771461+00:00"
     },
     {
       "id": "9f9b6f807da679029b197234770cb6a1",
@@ -5371,7 +5620,7 @@
       "topics": [
         "Estradiol"
       ],
-      "fetched_at": "2026-10-23T14:43:38.225598+00:00"
+      "fetched_at": "2026-10-24T13:53:15.228290+00:00"
     },
     {
       "id": "327f28c905fb74607f01b64f224155ff",
@@ -5384,7 +5633,7 @@
       "topics": [
         "Menopausa"
       ],
-      "fetched_at": "2026-10-23T14:43:43.294397+00:00"
+      "fetched_at": "2026-10-24T13:53:22.008034+00:00"
     },
     {
       "id": "012c678cb5dc0707b50df695d3036265",
@@ -5397,7 +5646,7 @@
       "topics": [
         "Menopausa"
       ],
-      "fetched_at": "2026-10-23T14:43:25.538384+00:00"
+      "fetched_at": "2026-10-24T13:53:02.659863+00:00"
     },
     {
       "id": "b5acba8731785eebe9b062c9c1876eef",
@@ -5412,7 +5661,7 @@
         "Testosterona",
         "Progesterona"
       ],
-      "fetched_at": "2026-10-23T14:43:15.958676+00:00"
+      "fetched_at": "2026-10-24T13:52:51.952158+00:00"
     },
     {
       "id": "0a3e35f03a967c3913d986ffdbb2abb8",
@@ -5425,7 +5674,7 @@
       "topics": [
         "Endometriose"
       ],
-      "fetched_at": "2026-10-23T14:43:29.743631+00:00"
+      "fetched_at": "2026-10-24T13:53:07.778225+00:00"
     },
     {
       "id": "ee8ccebadf410d5fe96d4a271f042a0a",
@@ -5438,14 +5687,14 @@
       "topics": [
         "Menopausa"
       ],
-      "fetched_at": "2026-10-23T14:42:27.917492+00:00"
+      "fetched_at": "2026-10-24T13:52:01.384653+00:00"
     },
     {
       "id": "256d9e499ff58dfdc5e2251b1454d178",
       "title": "Characteristics of Women Ages 40-60 with Menopausal Symptoms: United States, 2025",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42906296/",
       "source": "PubMed",
-      "summary": "The menopausal transition is a critical window for the health of women and may serve as an inflection point for the onset of chronic disease. During this transition, a woman's ovaries become less efficient at producing estrogen and progesterone, and women may experience symptoms such as hot flashes, night sweats, insomnia or sleep disturbances, and abnormal uterine bleeding. This report describes ",
+      "summary": "IntroductionThe menopausal transition is a critical window for the health of women and may serve as an inflection point for the onset of chronic disease. During this transition, a woman's ovaries become less efficient at producing estrogen and progesterone, and women may experience symptoms such as hot flashes, night sweats, insomnia or sleep disturbances, and abnormal uterine bleeding. This repor",
       "image": null,
       "published": "2026-10-01T00:00:00+00:00",
       "topics": [
@@ -5455,7 +5704,7 @@
         "Progesterona",
         "Sono em Mulheres"
       ],
-      "fetched_at": "2026-10-23T14:43:27.102468+00:00"
+      "fetched_at": "2026-10-24T13:53:05.114696+00:00"
     },
     {
       "id": "2f9c8f201296dc50e3e43910c8c9386a",
@@ -5468,14 +5717,14 @@
       "topics": [
         "Progesterona"
       ],
-      "fetched_at": "2026-10-23T14:42:47.691893+00:00"
+      "fetched_at": "2026-10-24T13:52:23.095684+00:00"
     },
     {
       "id": "683e62a0c0a8bf112dcb135654a8f316",
       "title": "Genital Tract and Circulating CD8+ T Cell Phenotypes Vary Across the Menstrual Cycle",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42905934/",
       "source": "PubMed",
-      "summary": "The menstrual cycle consists of two main phases: the follicular phase, characterized by rising estradiol and low progesterone, and the luteal phase, marked by elevated progesterone following ovulation. Changes in sex hormones have profound physiological effects, yet their impact on immunity remains poorly understood. The prevailing theory suggests that reduced immunity during the luteal phase faci",
+      "summary": "ProblemThe menstrual cycle consists of two main phases: the follicular phase, characterized by rising estradiol and low progesterone, and the luteal phase, marked by elevated progesterone following ovulation. Changes in sex hormones have profound physiological effects, yet their impact on immunity remains poorly understood. The prevailing theory suggests that reduced immunity during the luteal pha",
       "image": null,
       "published": "2026-10-01T00:00:00+00:00",
       "topics": [
@@ -5483,20 +5732,20 @@
         "Progesterona",
         "Brain Fog"
       ],
-      "fetched_at": "2026-10-23T14:42:47.692244+00:00"
+      "fetched_at": "2026-10-24T13:52:23.096003+00:00"
     },
     {
       "id": "912f144bb46df6bdedd6971db0b915bc",
       "title": "[Identification and interfering factors of falsely elevated androgen levels in clinical laboratory testing in women]",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42907211/",
       "source": "PubMed",
-      "summary": "Objective: To assess discrepancies in androgen measurements, investigate potential interfering factors, and propose an optimized diagnostic pathway for women with falsely elevated androgen levels.Methods: Thirty female cases with falsely elevated androgen levels at Peking University First Hospital between October 2021 and September 2025 were included to compare chemiluminescence immunoassay (CLIA)",
+      "summary": "Objective: To assess discrepancies in androgen measurements, investigate potential interfering factors, and propose an optimized diagnostic pathway for women with falsely elevated androgen levels. Methods: Thirty female cases with falsely elevated androgen levels at Peking University First Hospital between October 2021 and September 2025 were included to compare chemiluminescence immunoassay (CLIA",
       "image": null,
       "published": "2026-10-01T00:00:00+00:00",
       "topics": [
         "Testosterona"
       ],
-      "fetched_at": "2026-10-23T14:43:15.957845+00:00"
+      "fetched_at": "2026-10-24T13:52:51.951359+00:00"
     },
     {
       "id": "d80027833653f0b76b127bc2034c422d",
@@ -5511,7 +5760,33 @@
         "Estradiol",
         "Perimenopausa"
       ],
-      "fetched_at": "2026-10-23T14:43:01.064134+00:00"
+      "fetched_at": "2026-10-24T13:52:37.328565+00:00"
+    },
+    {
+      "id": "0a28a4d030b1148888deb3cb2d3b3441",
+      "title": "[Lipedema and lymphoedema in everyday clinical practice]",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42919066/",
+      "source": "PubMed",
+      "summary": "MMW Fortschritte der Medizin · Mühlberg KS",
+      "image": null,
+      "published": "2026-10-01T00:00:00+00:00",
+      "topics": [
+        "Lipedema"
+      ],
+      "fetched_at": "2026-10-24T13:53:09.000990+00:00"
+    },
+    {
+      "id": "2d6793b602bf49dd0a9449857480673e",
+      "title": "Management of menopausal hormone therapy",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42563637/",
+      "source": "PubMed",
+      "summary": "Current opinion in obstetrics & gynecology · Switzer J, Vignali L, Vignali J et al.",
+      "image": null,
+      "published": "2026-10-01T00:00:00+00:00",
+      "topics": [
+        "Menopausa"
+      ],
+      "fetched_at": "2026-10-24T13:52:47.833102+00:00"
     },
     {
       "id": "0e38bd9e2cd4211f1171bb72afb87f7d",
@@ -5566,20 +5841,6 @@
       "fetched_at": "2026-10-22T14:55:13.481964+00:00"
     },
     {
-      "id": "8916c928d37b3c94ff86569d78d84d8b",
-      "title": "When a Psychiatric Diagnosis Is Actually Perimenopause",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42814536/",
-      "source": "PubMed",
-      "summary": "The American journal of nursing · Ramey ES",
-      "image": null,
-      "published": "2026-09-30T00:00:00+00:00",
-      "topics": [
-        "Menopausa",
-        "Perimenopausa"
-      ],
-      "fetched_at": "2026-10-23T14:43:32.934640+00:00"
-    },
-    {
       "id": "be970705050dbad97c361c5749e3adae",
       "title": "Menopause-driven metabolomic shifts: unravelling cardiovascular disease risk in women",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42814759/",
@@ -5603,7 +5864,7 @@
       "topics": [
         "Endometriose"
       ],
-      "fetched_at": "2026-10-23T14:43:28.276125+00:00"
+      "fetched_at": "2026-10-24T13:53:06.347684+00:00"
     },
     {
       "id": "aad932082d9df8e5d219e89f94b1ab4f",
@@ -5629,7 +5890,7 @@
       "topics": [
         "Endometriose"
       ],
-      "fetched_at": "2026-10-23T14:43:29.739344+00:00"
+      "fetched_at": "2026-10-24T13:53:07.774098+00:00"
     },
     {
       "id": "4d0ded94f838f0bc6046f5611be13423",
@@ -5642,7 +5903,7 @@
       "topics": [
         "Endometriose"
       ],
-      "fetched_at": "2026-10-23T14:43:28.275416+00:00"
+      "fetched_at": "2026-10-24T13:53:06.347013+00:00"
     },
     {
       "id": "e1d77debbd39d7a1a8fa65c14f627450",
@@ -5671,7 +5932,7 @@
       "topics": [
         "Cérebro Feminino"
       ],
-      "fetched_at": "2026-10-23T14:43:21.065884+00:00"
+      "fetched_at": "2026-10-24T13:52:58.801842+00:00"
     },
     {
       "id": "ade195db4a202834f26717d3409c6118",
@@ -5684,7 +5945,7 @@
       "topics": [
         "Menopausa"
       ],
-      "fetched_at": "2026-10-23T14:43:32.934455+00:00"
+      "fetched_at": "2026-10-24T13:53:11.399919+00:00"
     },
     {
       "id": "28597ba52cb68d03cd4beb7b51ce6b8e",
@@ -5700,7 +5961,7 @@
         "Brain Fog",
         "Cérebro Feminino"
       ],
-      "fetched_at": "2026-10-23T14:43:35.414050+00:00"
+      "fetched_at": "2026-10-24T13:53:12.815744+00:00"
     },
     {
       "id": "5afa27afeb69de8aedf81d2e049c6b84",
@@ -5714,7 +5975,7 @@
         "Menopausa",
         "Perimenopausa"
       ],
-      "fetched_at": "2026-10-23T14:42:53.040524+00:00"
+      "fetched_at": "2026-10-24T13:52:28.772363+00:00"
     },
     {
       "id": "a81834384dd54ad0ef3f91164b1ce38f",
@@ -5728,7 +5989,7 @@
         "Menopausa",
         "Perimenopausa"
       ],
-      "fetched_at": "2026-10-23T14:43:41.683323+00:00"
+      "fetched_at": "2026-10-24T13:53:18.657858+00:00"
     },
     {
       "id": "3da88e1adff058dbac03bc9fc772afe8",
@@ -5741,7 +6002,7 @@
       "topics": [
         "Menopausa"
       ],
-      "fetched_at": "2026-10-23T14:43:41.683323+00:00"
+      "fetched_at": "2026-10-24T13:53:18.657858+00:00"
     },
     {
       "id": "20822a2d8ab0ecfef9af3bf87936a7c7",
@@ -5754,7 +6015,7 @@
       "topics": [
         "Menopausa"
       ],
-      "fetched_at": "2026-10-23T14:43:41.683323+00:00"
+      "fetched_at": "2026-10-24T13:53:18.657858+00:00"
     },
     {
       "id": "0e4fecbb8f0659e8ee7ab6d4992c3f70",
@@ -5767,7 +6028,7 @@
       "topics": [
         "Menopausa"
       ],
-      "fetched_at": "2026-10-23T14:43:41.683323+00:00"
+      "fetched_at": "2026-10-24T13:53:18.657858+00:00"
     },
     {
       "id": "2881c5e688ad9c64481fe0de4541d973",
@@ -5819,7 +6080,7 @@
       "topics": [
         "Menopausa"
       ],
-      "fetched_at": "2026-10-23T14:43:41.683323+00:00"
+      "fetched_at": "2026-10-24T13:53:18.657858+00:00"
     },
     {
       "id": "fc5fcb5ae3420888c28615e817940b6f",
@@ -5885,7 +6146,7 @@
         "Menopausa",
         "Perimenopausa"
       ],
-      "fetched_at": "2026-10-23T14:42:51.522225+00:00"
+      "fetched_at": "2026-10-24T13:52:27.215263+00:00"
     },
     {
       "id": "9adf8402fe947df9ee2cf7d83014f164",
@@ -5915,7 +6176,7 @@
         "Tirzepatida",
         "Perimenopausa"
       ],
-      "fetched_at": "2026-10-23T14:42:32.838691+00:00"
+      "fetched_at": "2026-10-24T13:52:07.369284+00:00"
     },
     {
       "id": "4f4e00b0c45c001868ac556720d72002",
@@ -6019,7 +6280,7 @@
       "topics": [
         "Lipedema"
       ],
-      "fetched_at": "2026-10-23T14:43:30.783410+00:00"
+      "fetched_at": "2026-10-24T13:53:09.001990+00:00"
     },
     {
       "id": "f4be3a6d9438313cdc22ddf36894988f",
@@ -6032,7 +6293,7 @@
       "topics": [
         "Estradiol"
       ],
-      "fetched_at": "2026-10-23T14:43:14.617908+00:00"
+      "fetched_at": "2026-10-24T13:52:50.492710+00:00"
     },
     {
       "id": "b2f3648f6ff28495e0a3a82651e19295",
@@ -6045,7 +6306,7 @@
       "topics": [
         "Terapia Hormonal"
       ],
-      "fetched_at": "2026-10-23T14:42:48.839117+00:00"
+      "fetched_at": "2026-10-24T13:52:24.369390+00:00"
     },
     {
       "id": "f9059fa0c4e39a2a31df62f14034362f",
@@ -6059,7 +6320,7 @@
         "Menopausa",
         "Perimenopausa"
       ],
-      "fetched_at": "2026-10-23T14:42:51.523822+00:00"
+      "fetched_at": "2026-10-24T13:52:27.216448+00:00"
     },
     {
       "id": "ef854b3f708bdfbef778d3f61190216f",
@@ -6072,7 +6333,7 @@
       "topics": [
         "Menopausa"
       ],
-      "fetched_at": "2026-10-23T14:42:59.882176+00:00"
+      "fetched_at": "2026-10-24T13:52:35.891049+00:00"
     },
     {
       "id": "7309443258d5ed3513a42e4705c28ca5",
@@ -6098,7 +6359,7 @@
       "topics": [
         "Adenomiose"
       ],
-      "fetched_at": "2026-10-23T14:42:35.899367+00:00"
+      "fetched_at": "2026-10-24T13:52:10.207210+00:00"
     },
     {
       "id": "281bba1570ed6b6b6b8d8d93f11571fc",
@@ -6164,7 +6425,7 @@
         "Menopausa",
         "Perimenopausa"
       ],
-      "fetched_at": "2026-10-23T14:42:51.522353+00:00"
+      "fetched_at": "2026-10-24T13:52:27.215352+00:00"
     },
     {
       "id": "8f33994c580d973dd117100712f8b74b",
@@ -6180,7 +6441,7 @@
         "Estradiol",
         "Testosterona"
       ],
-      "fetched_at": "2026-10-23T14:43:38.220153+00:00"
+      "fetched_at": "2026-10-24T13:53:15.223498+00:00"
     },
     {
       "id": "a8716295e2b5b6cf7a5e5e2007c1a094",
@@ -6206,7 +6467,7 @@
       "topics": [
         "Endometriose"
       ],
-      "fetched_at": "2026-10-23T14:43:29.742013+00:00"
+      "fetched_at": "2026-10-24T13:53:07.776626+00:00"
     },
     {
       "id": "d62ec505b08996dc666d15114c46c5ad",
@@ -6233,7 +6494,7 @@
         "Endometriose",
         "Menopausa"
       ],
-      "fetched_at": "2026-10-23T14:42:25.147410+00:00"
+      "fetched_at": "2026-10-24T13:51:58.273823+00:00"
     },
     {
       "id": "63a4e620b56bfbcd44f9d2822f978446",
@@ -6273,7 +6534,7 @@
       "topics": [
         "Endometriose"
       ],
-      "fetched_at": "2026-10-23T14:43:28.275123+00:00"
+      "fetched_at": "2026-10-24T13:53:06.346745+00:00"
     },
     {
       "id": "4c30986d63c680a0a52daf03ceb0931f",
@@ -6299,7 +6560,7 @@
       "topics": [
         "Cérebro Feminino"
       ],
-      "fetched_at": "2026-10-23T14:43:24.264568+00:00"
+      "fetched_at": "2026-10-24T13:53:01.593161+00:00"
     },
     {
       "id": "d34cc9f54f8fa85281fa0a403f2fadaa",
@@ -6339,7 +6600,7 @@
       "topics": [
         "Menopausa"
       ],
-      "fetched_at": "2026-10-23T14:43:08.289551+00:00"
+      "fetched_at": "2026-10-24T13:52:44.019055+00:00"
     },
     {
       "id": "a52fa6616f7dd79830f06e641192930a",
@@ -6353,7 +6614,7 @@
         "Menopausa",
         "Estradiol"
       ],
-      "fetched_at": "2026-10-23T14:43:38.219965+00:00"
+      "fetched_at": "2026-10-24T13:53:15.223325+00:00"
     },
     {
       "id": "deb377973efd4b228c99c170133c8288",
@@ -6366,7 +6627,7 @@
       "topics": [
         "Menopausa"
       ],
-      "fetched_at": "2026-10-23T14:43:08.293985+00:00"
+      "fetched_at": "2026-10-24T13:52:44.023216+00:00"
     },
     {
       "id": "158a710ff85c9df36285fc2cf043068c",
@@ -6379,7 +6640,7 @@
       "topics": [
         "Adenomiose"
       ],
-      "fetched_at": "2026-10-23T14:43:29.739721+00:00"
+      "fetched_at": "2026-10-24T13:53:07.774494+00:00"
     },
     {
       "id": "748a13a2cba4792459a7bd4b3125dfbb",
@@ -6405,7 +6666,7 @@
       "topics": [
         "Endometriose"
       ],
-      "fetched_at": "2026-10-23T14:43:45.044358+00:00"
+      "fetched_at": "2026-10-24T13:53:24.371853+00:00"
     },
     {
       "id": "64585e49dcf978d58404d03064367067",
@@ -6418,7 +6679,7 @@
       "topics": [
         "Progesterona"
       ],
-      "fetched_at": "2026-10-23T14:43:45.044358+00:00"
+      "fetched_at": "2026-10-24T13:53:24.371853+00:00"
     },
     {
       "id": "cc16b9c8910986b2bbec3ad1f27b6217",
@@ -6433,7 +6694,7 @@
         "Estradiol",
         "Perimenopausa"
       ],
-      "fetched_at": "2026-10-23T14:43:35.416372+00:00"
+      "fetched_at": "2026-10-24T13:53:12.817885+00:00"
     },
     {
       "id": "6b0c3a3cc268bb29a61467791612c2b4",
@@ -6472,7 +6733,7 @@
       "topics": [
         "Menopausa"
       ],
-      "fetched_at": "2026-10-23T14:42:53.040749+00:00"
+      "fetched_at": "2026-10-24T13:52:28.772562+00:00"
     },
     {
       "id": "f3cdee87473de61cebf57d5eefb55f2b",
@@ -6485,7 +6746,7 @@
       "topics": [
         "Tirzepatida"
       ],
-      "fetched_at": "2026-10-23T14:42:32.833580+00:00"
+      "fetched_at": "2026-10-24T13:52:07.364622+00:00"
     },
     {
       "id": "806b4bc0f5839bd4c205622719d22f91",
@@ -6499,7 +6760,7 @@
         "Terapia Hormonal",
         "Progesterona"
       ],
-      "fetched_at": "2026-10-23T14:43:58.945382+00:00"
+      "fetched_at": "2026-10-24T13:53:40.197507+00:00"
     },
     {
       "id": "768ed113610c0b127b2240b65679d903",
@@ -6513,7 +6774,7 @@
         "Menopausa",
         "Perimenopausa"
       ],
-      "fetched_at": "2026-10-23T14:42:51.523221+00:00"
+      "fetched_at": "2026-10-24T13:52:27.215988+00:00"
     },
     {
       "id": "6549e5c207774c25f16f72f1f73be7a7",
@@ -6553,7 +6814,7 @@
       "topics": [
         "Endometriose"
       ],
-      "fetched_at": "2026-10-23T14:42:51.523998+00:00"
+      "fetched_at": "2026-10-24T13:52:27.216575+00:00"
     },
     {
       "id": "91b46f18ce7d10b05d3d73f4f65a07de",
@@ -6566,7 +6827,21 @@
       "topics": [
         "Sono em Mulheres"
       ],
-      "fetched_at": "2026-10-23T14:43:27.104520+00:00"
+      "fetched_at": "2026-10-24T13:53:05.116579+00:00"
+    },
+    {
+      "id": "e7e0baa7beef9871af77ea604dba25cc",
+      "title": "Sex differences following cardiac arrest: a conceptual framework for mechanisms and translational targets",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42790856/",
+      "source": "PubMed",
+      "summary": "Biological sex is increasingly recognized as a fundamental variable in cardiovascular and cerebrovascular disease, yet its integration into our understanding of post-cardiac arrest brain injury (PCABI) pathophysiology remains limited. Although mortality following cardiac arrest remains universally high, males have a higher lifetime incidence while females experience disproportionately poor surviva",
+      "image": null,
+      "published": "2026-09-25T00:00:00+00:00",
+      "topics": [
+        "Menopausa",
+        "Cérebro Feminino"
+      ],
+      "fetched_at": "2026-10-24T13:52:38.727958+00:00"
     },
     {
       "id": "04be9e876c9748e03f8bad65f8f2003b",
@@ -6608,7 +6883,7 @@
         "Menopausa",
         "Perimenopausa"
       ],
-      "fetched_at": "2026-10-23T14:43:02.451346+00:00"
+      "fetched_at": "2026-10-24T13:52:38.721106+00:00"
     },
     {
       "id": "b529a15d8983eaaf333c2eb6017dc41b",
@@ -6687,7 +6962,7 @@
       "topics": [
         "Lipedema"
       ],
-      "fetched_at": "2026-10-23T14:43:30.783577+00:00"
+      "fetched_at": "2026-10-24T13:53:09.002126+00:00"
     },
     {
       "id": "206fe7aa66f21142c44f802242bbaef2",
@@ -6700,7 +6975,7 @@
       "topics": [
         "Sono em Mulheres"
       ],
-      "fetched_at": "2026-10-23T14:42:40.108119+00:00"
+      "fetched_at": "2026-10-24T13:52:13.972977+00:00"
     },
     {
       "id": "c0534ca222d7744e0fdbf1d22b292445",
@@ -6781,7 +7056,7 @@
         "Terapia Hormonal",
         "Sono em Mulheres"
       ],
-      "fetched_at": "2026-10-23T14:43:27.105762+00:00"
+      "fetched_at": "2026-10-24T13:53:05.117581+00:00"
     },
     {
       "id": "69a902b6a4ff58c93e341efa77e2556c",
@@ -6865,7 +7140,7 @@
       "topics": [
         "Menopausa"
       ],
-      "fetched_at": "2026-10-23T14:43:35.413947+00:00"
+      "fetched_at": "2026-10-24T13:53:12.815649+00:00"
     },
     {
       "id": "1d639827d71fc2b01e80d7719e68790c",
@@ -6904,7 +7179,7 @@
       "topics": [
         "Endometriose"
       ],
-      "fetched_at": "2026-10-23T14:43:28.275879+00:00"
+      "fetched_at": "2026-10-24T13:53:06.347449+00:00"
     },
     {
       "id": "d6b6aff7a2a238411bdb70b89bfe712a",
@@ -6930,7 +7205,7 @@
       "topics": [
         "Menopausa"
       ],
-      "fetched_at": "2026-10-23T14:43:09.701422+00:00"
+      "fetched_at": "2026-10-24T13:52:39.991851+00:00"
     },
     {
       "id": "1df173307d196ff4f0c61a71f38d8f08",
@@ -6944,7 +7219,7 @@
         "Menopausa",
         "Estradiol"
       ],
-      "fetched_at": "2026-10-23T14:43:35.409112+00:00"
+      "fetched_at": "2026-10-24T13:53:12.811233+00:00"
     },
     {
       "id": "55eadba6be36cd285da7f1b901ad1fd1",
@@ -6957,7 +7232,7 @@
       "topics": [
         "Cérebro Feminino"
       ],
-      "fetched_at": "2026-10-23T14:43:24.265419+00:00"
+      "fetched_at": "2026-10-24T13:53:01.594056+00:00"
     },
     {
       "id": "56e13edf661323a3d58d09948c3a03a3",
@@ -6973,6 +7248,19 @@
       "fetched_at": "2026-10-21T10:28:04.353742+00:00"
     },
     {
+      "id": "d7e9453be44ae22bd8ce360803f3e2ca",
+      "title": "Associations of Brain Structure and Neuropsychological Function With Artificial Intelligence Estimates of Biological Vascular Age",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42779540/",
+      "source": "PubMed",
+      "summary": "BackgroundAccelerated vascular aging, assessed as artificial intelligence-based vascular age (AIVA), is associated with small vessel disease that may impact brain structure and neuropsychological function.MethodsIn a cross-section of Framingham Heart Study participants, AIVA was estimated using a validated convolutional neural network trained to predict carotid-femoral pulse wave velocity from a n",
+      "image": null,
+      "published": "2026-09-24T00:00:00+00:00",
+      "topics": [
+        "Cérebro Feminino"
+      ],
+      "fetched_at": "2026-10-24T13:52:41.439139+00:00"
+    },
+    {
       "id": "673bc7228d36fa868ad10093d9a05d74",
       "title": "Arimoclomol-loaded Pluronic F127 nanomicelles in experimental endometriosis: drug incorporation, in vitro release, and early morphological and histological responses",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42778111/",
@@ -6984,7 +7272,7 @@
         "Endometriose",
         "Estradiol"
       ],
-      "fetched_at": "2026-10-23T14:43:29.742935+00:00"
+      "fetched_at": "2026-10-24T13:53:07.777513+00:00"
     },
     {
       "id": "64471e151930e44b6b89f72e27f25f1a",
@@ -7052,7 +7340,7 @@
       "topics": [
         "Lipedema"
       ],
-      "fetched_at": "2026-10-23T14:43:30.783636+00:00"
+      "fetched_at": "2026-10-24T13:53:09.002182+00:00"
     },
     {
       "id": "158f70c3e5dbbc40f9c0149a8d384cdf",
@@ -7066,7 +7354,7 @@
         "Menopausa",
         "Perimenopausa"
       ],
-      "fetched_at": "2026-10-23T14:43:06.234494+00:00"
+      "fetched_at": "2026-10-24T13:52:42.591632+00:00"
     },
     {
       "id": "b0c8d76cc5c8fc9e924923502e4ffc91",
@@ -7119,7 +7407,7 @@
         "Endometriose",
         "Estradiol"
       ],
-      "fetched_at": "2026-10-23T14:42:25.147040+00:00"
+      "fetched_at": "2026-10-24T13:51:58.273487+00:00"
     },
     {
       "id": "60297e1487afe1668e71084b9f31da5d",
@@ -7132,7 +7420,7 @@
       "topics": [
         "Endometriose"
       ],
-      "fetched_at": "2026-10-23T14:42:25.143488+00:00"
+      "fetched_at": "2026-10-24T13:51:58.270251+00:00"
     },
     {
       "id": "4890e494911dea5282081498ea853145",
@@ -7185,7 +7473,7 @@
       "topics": [
         "Menopausa"
       ],
-      "fetched_at": "2026-10-23T14:43:32.934690+00:00"
+      "fetched_at": "2026-10-24T13:53:11.400127+00:00"
     },
     {
       "id": "f91fc53ae8f3d341a44feaae9378eaa1",
@@ -7239,7 +7527,7 @@
         "Perimenopausa",
         "Brain Fog"
       ],
-      "fetched_at": "2026-10-23T14:43:41.683323+00:00"
+      "fetched_at": "2026-10-24T13:53:18.657858+00:00"
     },
     {
       "id": "4441ba910c123ddd5ea8255d752d1f9e",
@@ -7292,7 +7580,7 @@
         "Menopausa",
         "Sono em Mulheres"
       ],
-      "fetched_at": "2026-10-23T14:43:41.683323+00:00"
+      "fetched_at": "2026-10-24T13:53:18.657858+00:00"
     },
     {
       "id": "3cbb903440bfa788c1d885806f797358",
@@ -7307,7 +7595,7 @@
         "Estradiol",
         "Progesterona"
       ],
-      "fetched_at": "2026-10-23T14:43:13.516896+00:00"
+      "fetched_at": "2026-10-24T13:52:49.111210+00:00"
     },
     {
       "id": "f58d22c18bf3d44a02f7d443109620fd",
@@ -7321,7 +7609,7 @@
         "Menopausa",
         "Perimenopausa"
       ],
-      "fetched_at": "2026-10-23T14:43:41.683323+00:00"
+      "fetched_at": "2026-10-24T13:53:18.657858+00:00"
     },
     {
       "id": "dc8db3edf775ca4a0b5b7f5e51c734d9",
@@ -7335,7 +7623,7 @@
         "Menopausa",
         "Perimenopausa"
       ],
-      "fetched_at": "2026-10-23T14:43:41.683323+00:00"
+      "fetched_at": "2026-10-24T13:53:18.657858+00:00"
     },
     {
       "id": "b93ea6ce80239130de6d84b74caa05ca",
@@ -7375,7 +7663,7 @@
       "topics": [
         "Menopausa"
       ],
-      "fetched_at": "2026-10-23T14:43:32.934994+00:00"
+      "fetched_at": "2026-10-24T13:53:11.400414+00:00"
     },
     {
       "id": "0da25ad1672a0d42fb93ab3afc1ef7a6",
@@ -7388,7 +7676,7 @@
       "topics": [
         "Menopausa"
       ],
-      "fetched_at": "2026-10-23T14:43:41.683323+00:00"
+      "fetched_at": "2026-10-24T13:53:18.657858+00:00"
     },
     {
       "id": "25fdde5cc3aa075235d81ccee7fa311d",
@@ -7401,7 +7689,7 @@
       "topics": [
         "Menopausa"
       ],
-      "fetched_at": "2026-10-23T14:43:41.683323+00:00"
+      "fetched_at": "2026-10-24T13:53:18.657858+00:00"
     },
     {
       "id": "98ebf2ef3644f10d24b9524e3911e80b",
@@ -7493,7 +7781,7 @@
       "topics": [
         "Estradiol"
       ],
-      "fetched_at": "2026-10-23T14:42:43.115485+00:00"
+      "fetched_at": "2026-10-24T13:52:17.605298+00:00"
     },
     {
       "id": "a12ef6d7599b9e57c2f5d7e722a4ae86",
@@ -7506,7 +7794,7 @@
       "topics": [
         "Endometriose"
       ],
-      "fetched_at": "2026-10-23T14:43:28.275978+00:00"
+      "fetched_at": "2026-10-24T13:53:06.347544+00:00"
     },
     {
       "id": "49cedc1003d1681ff372271a237d6384",
@@ -7519,7 +7807,7 @@
       "topics": [
         "Endometriose"
       ],
-      "fetched_at": "2026-10-23T14:43:29.747378+00:00"
+      "fetched_at": "2026-10-24T13:53:07.781763+00:00"
     },
     {
       "id": "20fd0aba26af074a0e6c7c2d4563ebeb",
@@ -7585,7 +7873,7 @@
         "Endometriose",
         "Adenomiose"
       ],
-      "fetched_at": "2026-10-23T14:42:35.896281+00:00"
+      "fetched_at": "2026-10-24T13:52:10.204772+00:00"
     },
     {
       "id": "411e7b99925377bed3d0d9028a739e72",
@@ -7691,7 +7979,7 @@
       "topics": [
         "Lipedema"
       ],
-      "fetched_at": "2026-10-23T14:43:30.783740+00:00"
+      "fetched_at": "2026-10-24T13:53:09.002278+00:00"
     },
     {
       "id": "11191f38da067e9ac53df461be5a2eef",
@@ -7718,7 +8006,7 @@
         "Terapia Hormonal",
         "Adenomiose"
       ],
-      "fetched_at": "2026-10-23T14:42:34.090756+00:00"
+      "fetched_at": "2026-10-24T13:52:08.549893+00:00"
     },
     {
       "id": "0bb2e91e46ce3995757957c0e2d4975b",
@@ -7759,7 +8047,7 @@
         "Endometriose",
         "Adenomiose"
       ],
-      "fetched_at": "2026-10-23T14:43:28.275368+00:00"
+      "fetched_at": "2026-10-24T13:53:06.346970+00:00"
     },
     {
       "id": "38baf19a997774c8074fdeaed4930447",
@@ -7773,7 +8061,7 @@
         "Endometriose",
         "Adenomiose"
       ],
-      "fetched_at": "2026-10-23T14:43:03.524829+00:00"
+      "fetched_at": "2026-10-24T13:52:39.991752+00:00"
     },
     {
       "id": "c8750ae9c9d83b8263b56fdfe700bd06",
@@ -7786,7 +8074,7 @@
       "topics": [
         "Cérebro Feminino"
       ],
-      "fetched_at": "2026-10-23T14:43:24.266012+00:00"
+      "fetched_at": "2026-10-24T13:53:01.594601+00:00"
     },
     {
       "id": "1b29a599161d08299798c445421a6dec",
@@ -7799,7 +8087,7 @@
       "topics": [
         "Lipedema"
       ],
-      "fetched_at": "2026-10-23T14:42:30.469229+00:00"
+      "fetched_at": "2026-10-24T13:52:04.425758+00:00"
     },
     {
       "id": "db9668193436f4a1728784981cc618a3",
@@ -7867,7 +8155,7 @@
         "Estradiol",
         "Progesterona"
       ],
-      "fetched_at": "2026-10-23T14:42:35.900528+00:00"
+      "fetched_at": "2026-10-24T13:52:10.208086+00:00"
     },
     {
       "id": "c3e669645fb6c5c5e804d375d484d227",
@@ -7881,7 +8169,7 @@
         "Menopausa",
         "Sono em Mulheres"
       ],
-      "fetched_at": "2026-10-23T14:43:27.105413+00:00"
+      "fetched_at": "2026-10-24T13:53:05.117260+00:00"
     },
     {
       "id": "0d67c0e5ffed8bf17ca5bcac655df471",
@@ -7895,7 +8183,7 @@
         "Estradiol",
         "Cérebro Feminino"
       ],
-      "fetched_at": "2026-10-23T14:43:24.266684+00:00"
+      "fetched_at": "2026-10-24T13:53:01.595235+00:00"
     },
     {
       "id": "881374bba45c15cc4c08dc8af7da6842",
@@ -7935,7 +8223,7 @@
         "Endometriose",
         "Estradiol"
       ],
-      "fetched_at": "2026-10-23T14:42:25.148195+00:00"
+      "fetched_at": "2026-10-24T13:51:58.274524+00:00"
     },
     {
       "id": "e69749d9c0ed3f464e2476d23c573ec9",
@@ -7948,7 +8236,7 @@
       "topics": [
         "Endometriose"
       ],
-      "fetched_at": "2026-10-23T14:43:29.740461+00:00"
+      "fetched_at": "2026-10-24T13:53:07.775225+00:00"
     },
     {
       "id": "467d9448ce7b1bf83969536bfb018fea",
@@ -7962,7 +8250,7 @@
         "Endometriose",
         "Estradiol"
       ],
-      "fetched_at": "2026-10-23T14:42:34.091096+00:00"
+      "fetched_at": "2026-10-24T13:52:08.550167+00:00"
     },
     {
       "id": "24ddb6c58a6616b8e22a22fe3bb16546",
@@ -7991,7 +8279,7 @@
         "Progesterona",
         "Sono em Mulheres"
       ],
-      "fetched_at": "2026-10-23T14:43:02.451835+00:00"
+      "fetched_at": "2026-10-24T13:52:38.721542+00:00"
     },
     {
       "id": "1b1b90c9bffe4c690e06e826b976149e",
@@ -8017,7 +8305,7 @@
       "topics": [
         "Menopausa"
       ],
-      "fetched_at": "2026-10-23T14:43:27.105219+00:00"
+      "fetched_at": "2026-10-24T13:53:05.117067+00:00"
     },
     {
       "id": "c1e3d8a45390b1feae7a35b2e7c01742",
@@ -8044,7 +8332,7 @@
       "topics": [
         "Menopausa"
       ],
-      "fetched_at": "2026-10-23T14:42:35.898057+00:00"
+      "fetched_at": "2026-10-24T13:52:10.206191+00:00"
     },
     {
       "id": "0d928f62569f922473892e4f98d4908c",
@@ -8070,7 +8358,7 @@
       "topics": [
         "Lipedema"
       ],
-      "fetched_at": "2026-10-23T14:43:31.867296+00:00"
+      "fetched_at": "2026-10-24T13:53:10.155030+00:00"
     },
     {
       "id": "963dd5993eb694ef00f6fe8d5483cf0f",
@@ -8176,7 +8464,7 @@
         "Menopausa",
         "Estradiol"
       ],
-      "fetched_at": "2026-10-23T14:43:38.222239+00:00"
+      "fetched_at": "2026-10-24T13:53:15.225406+00:00"
     },
     {
       "id": "6648faf63fc215235ee0bcab902261fb",
@@ -8202,7 +8490,7 @@
       "topics": [
         "Estradiol"
       ],
-      "fetched_at": "2026-10-23T14:43:05.181032+00:00"
+      "fetched_at": "2026-10-24T13:52:41.439486+00:00"
     },
     {
       "id": "c690939aaadaecb2ce7122f69a730665",
@@ -8215,7 +8503,7 @@
       "topics": [
         "Testosterona"
       ],
-      "fetched_at": "2026-10-23T14:43:15.956700+00:00"
+      "fetched_at": "2026-10-24T13:52:51.950421+00:00"
     },
     {
       "id": "e746cb5c6941f4b87e6f3bac0aa62df0",
@@ -8255,7 +8543,7 @@
       "topics": [
         "Menopausa"
       ],
-      "fetched_at": "2026-10-23T14:43:06.233344+00:00"
+      "fetched_at": "2026-10-24T13:52:42.590588+00:00"
     },
     {
       "id": "fa9181d6ba786a66a65a6af9b66d1d02",
@@ -8296,7 +8584,7 @@
       "topics": [
         "Estradiol"
       ],
-      "fetched_at": "2026-10-23T14:43:29.741131+00:00"
+      "fetched_at": "2026-10-24T13:53:07.775864+00:00"
     },
     {
       "id": "4982ae9b5fd75a1b726dd79b78d8d10d",
@@ -8323,7 +8611,7 @@
         "Menopausa",
         "Estradiol"
       ],
-      "fetched_at": "2026-10-23T14:42:43.115684+00:00"
+      "fetched_at": "2026-10-24T13:52:17.605464+00:00"
     },
     {
       "id": "95387db176da0f0a817f9a91ed8f6b56",
@@ -8336,7 +8624,7 @@
       "topics": [
         "Adenomiose"
       ],
-      "fetched_at": "2026-10-23T14:42:34.091210+00:00"
+      "fetched_at": "2026-10-24T13:52:08.550258+00:00"
     },
     {
       "id": "88980ec4a176cab283262104488a2d1f",
@@ -8455,7 +8743,7 @@
       "topics": [
         "Endometriose"
       ],
-      "fetched_at": "2026-10-23T14:42:59.882578+00:00"
+      "fetched_at": "2026-10-24T13:52:35.891398+00:00"
     },
     {
       "id": "ad0639b9fecf45d19d487c8b37b9145b",
@@ -8508,7 +8796,7 @@
       "topics": [
         "Endometriose"
       ],
-      "fetched_at": "2026-10-23T14:42:35.899864+00:00"
+      "fetched_at": "2026-10-24T13:52:10.207605+00:00"
     },
     {
       "id": "34095893a621577264a65fcd478c4ed8",
@@ -8534,7 +8822,7 @@
       "topics": [
         "Endometriose"
       ],
-      "fetched_at": "2026-10-23T14:43:14.617780+00:00"
+      "fetched_at": "2026-10-24T13:52:50.492592+00:00"
     },
     {
       "id": "e8be8a8050252d76d41593078093f0ea",
@@ -8547,7 +8835,7 @@
       "topics": [
         "Progesterona"
       ],
-      "fetched_at": "2026-10-23T14:43:13.518897+00:00"
+      "fetched_at": "2026-10-24T13:52:49.113041+00:00"
     },
     {
       "id": "d098da72494d0bfc1cf96800130dfca0",
@@ -8561,7 +8849,7 @@
         "Menopausa",
         "Terapia Hormonal"
       ],
-      "fetched_at": "2026-10-23T14:43:27.108243+00:00"
+      "fetched_at": "2026-10-24T13:53:05.119836+00:00"
     },
     {
       "id": "d5138cc97a47d8c8c608c334e3aee30f",
@@ -8587,7 +8875,7 @@
       "topics": [
         "Cérebro Feminino"
       ],
-      "fetched_at": "2026-10-23T14:43:24.268048+00:00"
+      "fetched_at": "2026-10-24T13:53:01.596486+00:00"
     },
     {
       "id": "98f30d29617784ca8676f0dfb42c3065",
@@ -8615,7 +8903,7 @@
         "Estradiol",
         "Perimenopausa"
       ],
-      "fetched_at": "2026-10-23T14:43:27.109405+00:00"
+      "fetched_at": "2026-10-24T13:53:05.120890+00:00"
     },
     {
       "id": "99f7fdc66a3c4124d66ab14cbf4353bb",
@@ -8710,7 +8998,7 @@
         "Estradiol",
         "Progesterona"
       ],
-      "fetched_at": "2026-10-23T14:42:55.062019+00:00"
+      "fetched_at": "2026-10-24T13:52:30.770988+00:00"
     },
     {
       "id": "ede3f17efc217117d7f36067ea51d268",
@@ -8737,7 +9025,7 @@
         "Menopausa",
         "Perimenopausa"
       ],
-      "fetched_at": "2026-10-23T14:43:27.109138+00:00"
+      "fetched_at": "2026-10-24T13:53:05.120646+00:00"
     },
     {
       "id": "abbebe8a3828647bb849ec1301c2d445",
@@ -8763,7 +9051,7 @@
       "topics": [
         "Menopausa"
       ],
-      "fetched_at": "2026-10-23T14:43:38.222007+00:00"
+      "fetched_at": "2026-10-24T13:53:15.225191+00:00"
     },
     {
       "id": "27b40b6fc7e02e055c13ceccdb7274d3",
@@ -8843,7 +9131,7 @@
       "topics": [
         "Menopausa"
       ],
-      "fetched_at": "2026-10-23T14:43:18.435908+00:00"
+      "fetched_at": "2026-10-24T13:52:55.293910+00:00"
     },
     {
       "id": "74f5d65cdb9051f0c8a6688f7626ff84",
@@ -8869,7 +9157,7 @@
       "topics": [
         "Endometriose"
       ],
-      "fetched_at": "2026-10-23T14:43:28.276201+00:00"
+      "fetched_at": "2026-10-24T13:53:06.347730+00:00"
     },
     {
       "id": "69197e5209d76d47000a06222f1830a3",
@@ -8908,7 +9196,7 @@
       "topics": [
         "Cérebro Feminino"
       ],
-      "fetched_at": "2026-10-23T14:42:59.885327+00:00"
+      "fetched_at": "2026-10-24T13:52:35.893808+00:00"
     },
     {
       "id": "5800ddc00616ddcc29b246802d013d2a",
@@ -8935,7 +9223,7 @@
         "Menopausa",
         "Estradiol"
       ],
-      "fetched_at": "2026-10-23T14:42:27.916299+00:00"
+      "fetched_at": "2026-10-24T13:52:01.383338+00:00"
     },
     {
       "id": "255cd9f4da93de7af28744114652d053",
@@ -8948,7 +9236,7 @@
       "topics": [
         "Menopausa"
       ],
-      "fetched_at": "2026-10-23T14:43:32.935352+00:00"
+      "fetched_at": "2026-10-24T13:53:11.400705+00:00"
     },
     {
       "id": "a52e0186ee837cc1facb193811c569e6",
@@ -8961,7 +9249,7 @@
       "topics": [
         "Terapia Hormonal"
       ],
-      "fetched_at": "2026-10-23T14:42:59.885568+00:00"
+      "fetched_at": "2026-10-24T13:52:35.894018+00:00"
     },
     {
       "id": "a3d7cbc7368a66365ee564a6138431f4",
@@ -8991,7 +9279,7 @@
       "topics": [
         "Menopausa"
       ],
-      "fetched_at": "2026-10-23T14:43:06.234554+00:00"
+      "fetched_at": "2026-10-24T13:52:42.591685+00:00"
     },
     {
       "id": "745eb6a5154e79a10792380bf58395dc",
@@ -9006,7 +9294,7 @@
         "Perimenopausa",
         "Sono em Mulheres"
       ],
-      "fetched_at": "2026-10-23T14:43:41.683323+00:00"
+      "fetched_at": "2026-10-24T13:53:18.657858+00:00"
     },
     {
       "id": "abbd438868798e3e675c98aad4977975",
@@ -9072,7 +9360,7 @@
         "Menopausa",
         "Sono em Mulheres"
       ],
-      "fetched_at": "2026-10-23T14:43:41.683323+00:00"
+      "fetched_at": "2026-10-24T13:53:18.657858+00:00"
     },
     {
       "id": "b2af10cdec5eec50c1a9ef3d69853626",
@@ -9085,7 +9373,7 @@
       "topics": [
         "Menopausa"
       ],
-      "fetched_at": "2026-10-23T14:43:41.683323+00:00"
+      "fetched_at": "2026-10-24T13:53:18.657858+00:00"
     },
     {
       "id": "0c4abaf1d27e1cd9554f410942e4ba84",
@@ -9099,7 +9387,7 @@
         "Estradiol",
         "Cérebro Feminino"
       ],
-      "fetched_at": "2026-10-23T14:43:35.414520+00:00"
+      "fetched_at": "2026-10-24T13:53:12.816174+00:00"
     },
     {
       "id": "265b7eaf31e6d667c055154ce8e6e725",
@@ -9125,7 +9413,7 @@
       "topics": [
         "Lipedema"
       ],
-      "fetched_at": "2026-10-23T14:43:30.783352+00:00"
+      "fetched_at": "2026-10-24T13:53:09.001937+00:00"
     },
     {
       "id": "851067be0e2bcad7bfa3e5066f07f586",
@@ -9151,7 +9439,7 @@
       "topics": [
         "Endometriose"
       ],
-      "fetched_at": "2026-10-23T14:43:28.274995+00:00"
+      "fetched_at": "2026-10-24T13:53:06.346631+00:00"
     },
     {
       "id": "bcf2bfe10ccffbf6faf24f7c20ecc0c2",
@@ -9165,7 +9453,7 @@
         "Menopausa",
         "Testosterona"
       ],
-      "fetched_at": "2026-10-23T14:43:14.616439+00:00"
+      "fetched_at": "2026-10-24T13:52:50.491828+00:00"
     },
     {
       "id": "ec14b49247721929ef6d75086dee1a7c",
@@ -9178,7 +9466,7 @@
       "topics": [
         "Adenomiose"
       ],
-      "fetched_at": "2026-10-23T14:42:34.091303+00:00"
+      "fetched_at": "2026-10-24T13:52:08.550334+00:00"
     },
     {
       "id": "12f90c91e47adef194bde8c5055ba820",
@@ -9204,7 +9492,7 @@
       "topics": [
         "Adenomiose"
       ],
-      "fetched_at": "2026-10-23T14:42:34.091506+00:00"
+      "fetched_at": "2026-10-24T13:52:08.550491+00:00"
     },
     {
       "id": "66c2884b073a48113187b1755704f17f",
@@ -9272,7 +9560,7 @@
       "topics": [
         "Menopausa"
       ],
-      "fetched_at": "2026-10-23T14:43:17.056854+00:00"
+      "fetched_at": "2026-10-24T13:52:53.323386+00:00"
     },
     {
       "id": "38069aa37931c850a25d7f762b747447",
@@ -9324,7 +9612,7 @@
       "topics": [
         "Adenomiose"
       ],
-      "fetched_at": "2026-10-23T14:42:34.090844+00:00"
+      "fetched_at": "2026-10-24T13:52:08.549960+00:00"
     },
     {
       "id": "a2481ab3e0a567184c7064744d5c72f2",
@@ -9350,7 +9638,7 @@
       "topics": [
         "Adenomiose"
       ],
-      "fetched_at": "2026-10-23T14:42:35.900215+00:00"
+      "fetched_at": "2026-10-24T13:52:10.207848+00:00"
     },
     {
       "id": "37d2ca5369f71ff6d8bfec7adebe6f54",
@@ -9378,7 +9666,7 @@
         "Estradiol",
         "Testosterona"
       ],
-      "fetched_at": "2026-10-23T14:43:11.389875+00:00"
+      "fetched_at": "2026-10-24T13:52:46.770995+00:00"
     },
     {
       "id": "26f39837e70184d7e40eb68074709f42",
@@ -9430,7 +9718,7 @@
       "topics": [
         "Lipedema"
       ],
-      "fetched_at": "2026-10-23T14:43:30.783856+00:00"
+      "fetched_at": "2026-10-24T13:53:09.002373+00:00"
     },
     {
       "id": "bc550d0163b1689e2fb3102acb02480a",
@@ -9444,7 +9732,7 @@
         "Menopausa",
         "Perimenopausa"
       ],
-      "fetched_at": "2026-10-23T14:43:32.935455+00:00"
+      "fetched_at": "2026-10-24T13:53:11.400788+00:00"
     },
     {
       "id": "4b2d0b4439d1ed2e450610cf75828b5d",
@@ -9473,7 +9761,7 @@
         "Perimenopausa",
         "Progesterona"
       ],
-      "fetched_at": "2026-10-23T14:42:59.878307+00:00"
+      "fetched_at": "2026-10-24T13:52:35.887724+00:00"
     },
     {
       "id": "3a0cb4fa09b12fb647491777bfe25512",
@@ -9486,7 +9774,7 @@
       "topics": [
         "Endometriose"
       ],
-      "fetched_at": "2026-10-23T14:42:25.142692+00:00"
+      "fetched_at": "2026-10-24T13:51:58.269524+00:00"
     },
     {
       "id": "b2b715a9cf41df5cb001ac8d2a46b24a",
@@ -9499,7 +9787,7 @@
       "topics": [
         "Endometriose"
       ],
-      "fetched_at": "2026-10-23T14:42:25.148629+00:00"
+      "fetched_at": "2026-10-24T13:51:58.274920+00:00"
     },
     {
       "id": "2d5c4f40e3fe56e8caad184c66568030",
@@ -9512,7 +9800,21 @@
       "topics": [
         "Endometriose"
       ],
-      "fetched_at": "2026-10-23T14:42:59.879142+00:00"
+      "fetched_at": "2026-10-24T13:52:35.888418+00:00"
+    },
+    {
+      "id": "0ab1b5b2765464182fc5537575fde781",
+      "title": "Cardiovascular Health in Women: Navigating Menopause and Beyond",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42907050/",
+      "source": "PubMed",
+      "summary": "Cardiovascular disease (CVD), specifically atherosclerotic CVD (ASCVD), remains the leading cause of death among women globally and persistent cardiovascular disparities exist for women compared to men. The menopausal transition represents a critical cardiometabolic inflection point during which women experience accelerated adverse changes in lipid profiles, body composition, vascular function, an",
+      "image": null,
+      "published": "2026-09-11T00:00:00+00:00",
+      "topics": [
+        "Menopausa",
+        "Perimenopausa"
+      ],
+      "fetched_at": "2026-10-24T13:52:44.018147+00:00"
     },
     {
       "id": "cc59129a8d2dac362fcbcee3fd68f82f",
@@ -9556,7 +9858,7 @@
         "Brain Fog",
         "Cérebro Feminino"
       ],
-      "fetched_at": "2026-10-23T14:42:39.010139+00:00"
+      "fetched_at": "2026-10-24T13:52:12.833658+00:00"
     },
     {
       "id": "efe7f7cc7740c4a0ff1493b2c375d914",
@@ -9569,7 +9871,7 @@
       "topics": [
         "Progesterona"
       ],
-      "fetched_at": "2026-10-23T14:42:44.906497+00:00"
+      "fetched_at": "2026-10-24T13:52:20.018823+00:00"
     },
     {
       "id": "4bef9d8745e6a1f51a4db1846b44a467",
@@ -9683,7 +9985,7 @@
         "Brain Fog",
         "Cérebro Feminino"
       ],
-      "fetched_at": "2026-10-23T14:43:35.415674+00:00"
+      "fetched_at": "2026-10-24T13:53:12.817236+00:00"
     },
     {
       "id": "b812638faae3cf58b487453161964a84",
@@ -9710,7 +10012,7 @@
         "Menopausa",
         "Perimenopausa"
       ],
-      "fetched_at": "2026-10-23T14:42:59.883310+00:00"
+      "fetched_at": "2026-10-24T13:52:35.892033+00:00"
     },
     {
       "id": "1ce098db9376a2d1ff076308d5daed10",
@@ -9736,7 +10038,7 @@
       "topics": [
         "Cérebro Feminino"
       ],
-      "fetched_at": "2026-10-23T14:43:21.065434+00:00"
+      "fetched_at": "2026-10-24T13:52:58.801369+00:00"
     },
     {
       "id": "06222a047092a4f76e6d4647bd68d504",
@@ -9777,7 +10079,7 @@
         "Tirzepatida",
         "Progesterona"
       ],
-      "fetched_at": "2026-10-23T14:42:31.453186+00:00"
+      "fetched_at": "2026-10-24T13:52:05.622339+00:00"
     },
     {
       "id": "829f0505bfccf0dcd394b42c61997c75",
@@ -9790,7 +10092,7 @@
       "topics": [
         "Lipedema"
       ],
-      "fetched_at": "2026-10-23T14:43:30.783949+00:00"
+      "fetched_at": "2026-10-24T13:53:09.002454+00:00"
     },
     {
       "id": "2a366222d953f0b10f90a081974a74ef",
@@ -9803,7 +10105,7 @@
       "topics": [
         "Estradiol"
       ],
-      "fetched_at": "2026-10-23T14:42:43.116492+00:00"
+      "fetched_at": "2026-10-24T13:52:17.606161+00:00"
     },
     {
       "id": "c5ca7f4b1d6756dd53172731cfbc3b2c",
@@ -9832,7 +10134,7 @@
         "Estradiol",
         "Progesterona"
       ],
-      "fetched_at": "2026-10-23T14:42:47.685858+00:00"
+      "fetched_at": "2026-10-24T13:52:23.090317+00:00"
     },
     {
       "id": "20ef21be43cc2f67b6704226004942f0",
@@ -9899,7 +10201,7 @@
       "topics": [
         "Menopausa"
       ],
-      "fetched_at": "2026-10-23T14:43:02.452609+00:00"
+      "fetched_at": "2026-10-24T13:52:38.722260+00:00"
     },
     {
       "id": "88c9dc584bf09558f1c21b66e8e370b7",
@@ -9913,7 +10215,7 @@
         "Menopausa",
         "Estradiol"
       ],
-      "fetched_at": "2026-10-23T14:43:38.221283+00:00"
+      "fetched_at": "2026-10-24T13:53:15.224542+00:00"
     },
     {
       "id": "0f9c2868c0caee2f4da6e233e1c083fd",
@@ -9952,7 +10254,7 @@
       "topics": [
         "Estradiol"
       ],
-      "fetched_at": "2026-10-23T14:43:38.220541+00:00"
+      "fetched_at": "2026-10-24T13:53:15.223856+00:00"
     },
     {
       "id": "fe911a54355ae84a821b3f4ac74182d7",
@@ -9979,7 +10281,7 @@
         "Menopausa",
         "Testosterona"
       ],
-      "fetched_at": "2026-10-23T14:43:15.957548+00:00"
+      "fetched_at": "2026-10-24T13:52:51.951208+00:00"
     },
     {
       "id": "a70ff3c8a9217540ef8d34ad0111f4a9",
@@ -10020,7 +10322,7 @@
         "Estradiol",
         "Adenomiose"
       ],
-      "fetched_at": "2026-10-23T14:43:29.742206+00:00"
+      "fetched_at": "2026-10-24T13:53:07.776810+00:00"
     },
     {
       "id": "c7b582a5276f6076682a75c6f272e83a",
@@ -10036,7 +10338,7 @@
         "Estradiol",
         "Progesterona"
       ],
-      "fetched_at": "2026-10-23T14:43:13.519281+00:00"
+      "fetched_at": "2026-10-24T13:52:49.113396+00:00"
     },
     {
       "id": "149730e7610ee7b6ecfae33169bdcc0e",
@@ -10063,7 +10365,7 @@
         "Menopausa",
         "Estradiol"
       ],
-      "fetched_at": "2026-10-23T14:43:38.223405+00:00"
+      "fetched_at": "2026-10-24T13:53:15.226476+00:00"
     },
     {
       "id": "f353893f5fea6be749d23960320df7c7",
@@ -10091,7 +10393,7 @@
         "Estradiol",
         "Brain Fog"
       ],
-      "fetched_at": "2026-10-23T14:43:35.409512+00:00"
+      "fetched_at": "2026-10-24T13:53:12.811583+00:00"
     },
     {
       "id": "2f35240b4425f2afec08f1d91d61d1f4",
@@ -10106,7 +10408,7 @@
         "Progesterona",
         "Sono em Mulheres"
       ],
-      "fetched_at": "2026-10-23T14:43:15.954909+00:00"
+      "fetched_at": "2026-10-24T13:52:51.948767+00:00"
     },
     {
       "id": "33297d7f7396c85e2cd75850721cec59",
@@ -10124,7 +10426,7 @@
         "Cérebro Feminino",
         "Sono em Mulheres"
       ],
-      "fetched_at": "2026-10-23T14:42:44.906653+00:00"
+      "fetched_at": "2026-10-24T13:52:20.018958+00:00"
     },
     {
       "id": "9b4741a6695c6168948b8b4cb27166ec",
@@ -10192,7 +10494,7 @@
       "topics": [
         "Endometriose"
       ],
-      "fetched_at": "2026-10-23T14:42:55.062201+00:00"
+      "fetched_at": "2026-10-24T13:52:30.771165+00:00"
     },
     {
       "id": "b59e2eada2a5463323f904afec451fde",
@@ -10219,7 +10521,7 @@
         "Estradiol",
         "Testosterona"
       ],
-      "fetched_at": "2026-10-23T14:43:44.169145+00:00"
+      "fetched_at": "2026-10-24T13:53:23.249680+00:00"
     },
     {
       "id": "2172c157f73d4697e1cb2b0da7d554be",
@@ -10247,7 +10549,7 @@
       "topics": [
         "Menopausa"
       ],
-      "fetched_at": "2026-10-23T14:43:11.393364+00:00"
+      "fetched_at": "2026-10-24T13:52:46.773966+00:00"
     },
     {
       "id": "05b886a3e781d25c9539650a9c5dcef5",
@@ -10288,7 +10590,7 @@
         "Menopausa",
         "Estradiol"
       ],
-      "fetched_at": "2026-10-23T14:43:38.226443+00:00"
+      "fetched_at": "2026-10-24T13:53:15.229087+00:00"
     },
     {
       "id": "656fe23f376abb280c2c544a140445e9",
@@ -10301,7 +10603,7 @@
       "topics": [
         "Testosterona"
       ],
-      "fetched_at": "2026-10-23T14:43:15.953478+00:00"
+      "fetched_at": "2026-10-24T13:52:51.947402+00:00"
     },
     {
       "id": "01c14118c336c5f0d830559a3f4035ba",
@@ -10315,7 +10617,7 @@
         "Menopausa",
         "Terapia Hormonal"
       ],
-      "fetched_at": "2026-10-23T14:43:02.449383+00:00"
+      "fetched_at": "2026-10-24T13:52:38.719473+00:00"
     },
     {
       "id": "812abfbe9e437b2ea79ff9f1bdc97ce4",
@@ -10328,7 +10630,7 @@
       "topics": [
         "Testosterona"
       ],
-      "fetched_at": "2026-10-23T14:43:15.953597+00:00"
+      "fetched_at": "2026-10-24T13:52:51.947515+00:00"
     },
     {
       "id": "399edeed2f46ba49f356aacea3b25378",
@@ -10341,7 +10643,7 @@
       "topics": [
         "Menopausa"
       ],
-      "fetched_at": "2026-10-23T14:43:08.288743+00:00"
+      "fetched_at": "2026-10-24T13:52:44.018349+00:00"
     },
     {
       "id": "36d57c79a976a99188306ab7bcfb08b6",
@@ -10367,7 +10669,7 @@
       "topics": [
         "Endometriose"
       ],
-      "fetched_at": "2026-10-23T14:43:29.741246+00:00"
+      "fetched_at": "2026-10-24T13:53:07.775974+00:00"
     },
     {
       "id": "0a5ac9accde97a41c629b3177582a907",
@@ -10380,7 +10682,7 @@
       "topics": [
         "Lipedema"
       ],
-      "fetched_at": "2026-10-23T14:43:30.783993+00:00"
+      "fetched_at": "2026-10-24T13:53:09.002494+00:00"
     },
     {
       "id": "1999d1153b586f6c6742ca0423b16998",
@@ -10394,7 +10696,7 @@
         "Endometriose",
         "Adenomiose"
       ],
-      "fetched_at": "2026-10-23T14:42:34.091571+00:00"
+      "fetched_at": "2026-10-24T13:52:08.550533+00:00"
     },
     {
       "id": "3206b12cea6184ec9d908d719505979b",
@@ -10407,7 +10709,7 @@
       "topics": [
         "Adenomiose"
       ],
-      "fetched_at": "2026-10-23T14:42:34.091685+00:00"
+      "fetched_at": "2026-10-24T13:52:08.550623+00:00"
     },
     {
       "id": "e6d63557a3fd4dcae0fce5653883ac70",
@@ -10420,7 +10722,7 @@
       "topics": [
         "Menopausa"
       ],
-      "fetched_at": "2026-10-23T14:43:32.935405+00:00"
+      "fetched_at": "2026-10-24T13:53:11.400746+00:00"
     },
     {
       "id": "dc490d6a548d150356c347f111b08d97",
@@ -10434,7 +10736,7 @@
         "Menopausa",
         "Sono em Mulheres"
       ],
-      "fetched_at": "2026-10-23T14:43:27.108946+00:00"
+      "fetched_at": "2026-10-24T13:53:05.120469+00:00"
     },
     {
       "id": "65514fbc2fe37a9adec1ba4ba3543d39",
@@ -10546,7 +10848,7 @@
       "topics": [
         "Menopausa"
       ],
-      "fetched_at": "2026-10-23T14:43:41.683323+00:00"
+      "fetched_at": "2026-10-24T13:53:18.657858+00:00"
     },
     {
       "id": "412716630ba2bce3e8421d7e5f22cc84",
@@ -10559,7 +10861,7 @@
       "topics": [
         "Menopausa"
       ],
-      "fetched_at": "2026-10-23T14:43:41.683323+00:00"
+      "fetched_at": "2026-10-24T13:53:18.657858+00:00"
     },
     {
       "id": "d93317d83226b7c3efb123395ce0de75",
@@ -10572,7 +10874,7 @@
       "topics": [
         "Menopausa"
       ],
-      "fetched_at": "2026-10-23T14:43:41.683323+00:00"
+      "fetched_at": "2026-10-24T13:53:18.657858+00:00"
     },
     {
       "id": "9ff9eddebda9d434432f391d21064d4b",
@@ -10585,7 +10887,7 @@
       "topics": [
         "Menopausa"
       ],
-      "fetched_at": "2026-10-23T14:43:41.683323+00:00"
+      "fetched_at": "2026-10-24T13:53:18.657858+00:00"
     },
     {
       "id": "ca1f9e11c6d3b7610c2442b95a5eaab5",
@@ -10598,7 +10900,7 @@
       "topics": [
         "Menopausa"
       ],
-      "fetched_at": "2026-10-23T14:42:53.041537+00:00"
+      "fetched_at": "2026-10-24T13:52:28.773268+00:00"
     },
     {
       "id": "623ec5a0ddcb8c6dea07fcd15f1ec286",
@@ -10624,7 +10926,7 @@
       "topics": [
         "Sono em Mulheres"
       ],
-      "fetched_at": "2026-10-23T14:42:41.922159+00:00"
+      "fetched_at": "2026-10-24T13:52:16.323026+00:00"
     },
     {
       "id": "f15a16a10a2f6689b88b13c5ea689732",
@@ -10637,7 +10939,7 @@
       "topics": [
         "Sono em Mulheres"
       ],
-      "fetched_at": "2026-10-23T14:42:41.921976+00:00"
+      "fetched_at": "2026-10-24T13:52:16.322856+00:00"
     },
     {
       "id": "7b86372ad951a7f174377c7c70fe2501",
@@ -10663,7 +10965,7 @@
       "topics": [
         "Menopausa"
       ],
-      "fetched_at": "2026-10-23T14:43:29.741595+00:00"
+      "fetched_at": "2026-10-24T13:53:07.776319+00:00"
     },
     {
       "id": "b9697eb053ec46c046739a77bf8bc4cd",
@@ -10690,7 +10992,7 @@
       "topics": [
         "Menopausa"
       ],
-      "fetched_at": "2026-10-23T14:42:39.010633+00:00"
+      "fetched_at": "2026-10-24T13:52:12.834084+00:00"
     },
     {
       "id": "995b5d82c6587920b3de273fdd99105d",
@@ -10703,7 +11005,7 @@
       "topics": [
         "Sono em Mulheres"
       ],
-      "fetched_at": "2026-10-23T14:43:27.106353+00:00"
+      "fetched_at": "2026-10-24T13:53:05.118112+00:00"
     },
     {
       "id": "f20b9efb1b3e3cef919459202aeae3eb",
@@ -10729,7 +11031,7 @@
       "topics": [
         "Menopausa"
       ],
-      "fetched_at": "2026-10-23T14:43:32.935503+00:00"
+      "fetched_at": "2026-10-24T13:53:11.400830+00:00"
     },
     {
       "id": "0a4d2c33fa5304033839b6bf68b0cacf",
@@ -10743,7 +11045,7 @@
         "Endometriose",
         "Estradiol"
       ],
-      "fetched_at": "2026-10-23T14:42:35.899593+00:00"
+      "fetched_at": "2026-10-24T13:52:10.207398+00:00"
     },
     {
       "id": "3e4efaff1e0239d05c3533c3ce9dde64",
@@ -10769,7 +11071,7 @@
       "topics": [
         "Lipedema"
       ],
-      "fetched_at": "2026-10-23T14:43:30.782621+00:00"
+      "fetched_at": "2026-10-24T13:53:09.001310+00:00"
     },
     {
       "id": "e7cbf0749ef7ff248ec7bb160af9ad16",
@@ -10783,7 +11085,7 @@
         "Testosterona",
         "Tirzepatida"
       ],
-      "fetched_at": "2026-10-23T14:43:15.953711+00:00"
+      "fetched_at": "2026-10-24T13:52:51.947622+00:00"
     },
     {
       "id": "3d74800aa1a8bb9be7bad8ef1c081b0d",
@@ -10796,7 +11098,7 @@
       "topics": [
         "Menopausa"
       ],
-      "fetched_at": "2026-10-23T14:43:02.455091+00:00"
+      "fetched_at": "2026-10-24T13:52:38.724499+00:00"
     },
     {
       "id": "ae0fd3c8a66479bc9a9a64da6f1e8bfa",
@@ -10835,7 +11137,7 @@
       "topics": [
         "Sono em Mulheres"
       ],
-      "fetched_at": "2026-10-23T14:42:41.921356+00:00"
+      "fetched_at": "2026-10-24T13:52:16.322299+00:00"
     },
     {
       "id": "fa32d078ee03655a34efa6081dbd647c",
@@ -10848,7 +11150,7 @@
       "topics": [
         "Progesterona"
       ],
-      "fetched_at": "2026-10-23T14:43:12.338341+00:00"
+      "fetched_at": "2026-10-24T13:52:47.832904+00:00"
     },
     {
       "id": "9d5f9ce924b1a8fa6f60adebcf828839",
@@ -10861,7 +11163,7 @@
       "topics": [
         "Progesterona"
       ],
-      "fetched_at": "2026-10-23T14:42:47.686713+00:00"
+      "fetched_at": "2026-10-24T13:52:23.091115+00:00"
     },
     {
       "id": "0c80de285310c4a83e66c38e6dda8441",
@@ -10874,7 +11176,7 @@
       "topics": [
         "Menopausa"
       ],
-      "fetched_at": "2026-10-23T14:42:48.839491+00:00"
+      "fetched_at": "2026-10-24T13:52:24.369729+00:00"
     },
     {
       "id": "e4a274f781ef22138292d15dfd4537d2",
@@ -10901,7 +11203,7 @@
       "topics": [
         "Menopausa"
       ],
-      "fetched_at": "2026-10-23T14:42:59.884712+00:00"
+      "fetched_at": "2026-10-24T13:52:35.893272+00:00"
     },
     {
       "id": "fa49fd85969536d7e27cffe56f1e2ae7",
@@ -10914,7 +11216,7 @@
       "topics": [
         "Menopausa"
       ],
-      "fetched_at": "2026-10-23T14:42:47.690464+00:00"
+      "fetched_at": "2026-10-24T13:52:23.094457+00:00"
     },
     {
       "id": "319c51293361b7f761b0fdd7197a248e",
@@ -10927,7 +11229,7 @@
       "topics": [
         "Endometriose"
       ],
-      "fetched_at": "2026-10-23T14:42:43.116110+00:00"
+      "fetched_at": "2026-10-24T13:52:17.605806+00:00"
     },
     {
       "id": "3f055cf8c39ab3450f29c3214e606101",
@@ -11020,7 +11322,7 @@
       "topics": [
         "Tirzepatida"
       ],
-      "fetched_at": "2026-10-23T14:42:31.453252+00:00"
+      "fetched_at": "2026-10-24T13:52:05.622400+00:00"
     },
     {
       "id": "b91d4c738e530bbdb465b4b680b0e205",
@@ -11048,7 +11350,7 @@
         "Perimenopausa",
         "Sono em Mulheres"
       ],
-      "fetched_at": "2026-10-23T14:43:27.102316+00:00"
+      "fetched_at": "2026-10-24T13:53:05.114557+00:00"
     },
     {
       "id": "f13ace12912b8a06c92f8225c077df80",
@@ -11061,7 +11363,7 @@
       "topics": [
         "Estradiol"
       ],
-      "fetched_at": "2026-10-23T14:42:59.881252+00:00"
+      "fetched_at": "2026-10-24T13:52:35.890248+00:00"
     },
     {
       "id": "3df85d96f1573c7faecbea99642074c4",
@@ -11074,7 +11376,7 @@
       "topics": [
         "Endometriose"
       ],
-      "fetched_at": "2026-10-23T14:42:48.839588+00:00"
+      "fetched_at": "2026-10-24T13:52:24.369814+00:00"
     },
     {
       "id": "d0c9261ee6fd4425e6e0c81565a270c6",
@@ -11102,7 +11404,7 @@
         "Menopausa",
         "Perimenopausa"
       ],
-      "fetched_at": "2026-10-23T14:43:32.935566+00:00"
+      "fetched_at": "2026-10-24T13:53:11.400885+00:00"
     },
     {
       "id": "ec438432ff26d43e3b68ce5a2036f93c",
@@ -11117,7 +11419,7 @@
         "Estradiol",
         "Progesterona"
       ],
-      "fetched_at": "2026-10-23T14:43:13.517054+00:00"
+      "fetched_at": "2026-10-24T13:52:49.111353+00:00"
     },
     {
       "id": "8aded0340a6c87c53cfa095cc3f64333",
@@ -11131,7 +11433,7 @@
         "Menopausa",
         "Sono em Mulheres"
       ],
-      "fetched_at": "2026-10-23T14:43:08.290295+00:00"
+      "fetched_at": "2026-10-24T13:52:44.019871+00:00"
     },
     {
       "id": "9035bd81fbf9e1d5ddc261a43df5acae",
@@ -11170,7 +11472,7 @@
       "topics": [
         "Sono em Mulheres"
       ],
-      "fetched_at": "2026-10-23T14:42:41.922402+00:00"
+      "fetched_at": "2026-10-24T13:52:16.323258+00:00"
     },
     {
       "id": "eb2c50d7c4698e286cbba55d022d2242",
@@ -11183,7 +11485,7 @@
       "topics": [
         "Menopausa"
       ],
-      "fetched_at": "2026-10-23T14:43:02.453809+00:00"
+      "fetched_at": "2026-10-24T13:52:38.723321+00:00"
     },
     {
       "id": "f831fc148c026b73e9042c620df63166",
@@ -11211,7 +11513,7 @@
         "Menopausa",
         "Estradiol"
       ],
-      "fetched_at": "2026-10-23T14:43:11.390182+00:00"
+      "fetched_at": "2026-10-24T13:52:46.771467+00:00"
     },
     {
       "id": "16e7e5f8bfd8b3842bd5e2a1b9d2ffc5",
@@ -11224,7 +11526,7 @@
       "topics": [
         "Menopausa"
       ],
-      "fetched_at": "2026-10-23T14:43:45.841313+00:00"
+      "fetched_at": "2026-10-24T13:53:25.514253+00:00"
     },
     {
       "id": "d686e466a25d3e32c74a8b3bb8f78557",
@@ -11237,7 +11539,7 @@
       "topics": [
         "Adenomiose"
       ],
-      "fetched_at": "2026-10-23T14:42:34.091158+00:00"
+      "fetched_at": "2026-10-24T13:52:08.550217+00:00"
     },
     {
       "id": "e2217689c4b734f63bf4ea0acbd58930",
@@ -11279,7 +11581,7 @@
         "Endometriose",
         "Estradiol"
       ],
-      "fetched_at": "2026-10-23T14:42:59.886135+00:00"
+      "fetched_at": "2026-10-24T13:52:35.894511+00:00"
     },
     {
       "id": "c9b18fe9f7e6d3711d03d785173a10c3",
@@ -11318,7 +11620,7 @@
       "topics": [
         "Progesterona"
       ],
-      "fetched_at": "2026-10-23T14:43:38.223680+00:00"
+      "fetched_at": "2026-10-24T13:53:15.226729+00:00"
     },
     {
       "id": "364bacdbe69032e145250cb0677e3fe2",
@@ -11346,7 +11648,7 @@
         "Testosterona",
         "Progesterona"
       ],
-      "fetched_at": "2026-10-23T14:43:18.431870+00:00"
+      "fetched_at": "2026-10-24T13:52:55.290159+00:00"
     },
     {
       "id": "14345bfc7e03f6d6ebb4d524517b967a",
@@ -11373,7 +11675,7 @@
         "Estradiol",
         "Progesterona"
       ],
-      "fetched_at": "2026-10-23T14:43:58.946308+00:00"
+      "fetched_at": "2026-10-24T13:53:40.198255+00:00"
     },
     {
       "id": "89eeee725c0890f0eca3bbec0d6fa5c5",
@@ -11402,7 +11704,7 @@
       "topics": [
         "Lipedema"
       ],
-      "fetched_at": "2026-10-23T14:43:30.783103+00:00"
+      "fetched_at": "2026-10-24T13:53:09.001715+00:00"
     },
     {
       "id": "54175132ede38c9120a12b571e1557fa",
@@ -11415,7 +11717,7 @@
       "topics": [
         "Adenomiose"
       ],
-      "fetched_at": "2026-10-23T14:42:34.091455+00:00"
+      "fetched_at": "2026-10-24T13:52:08.550452+00:00"
     },
     {
       "id": "3f84e94b56ee21f4b09e654710c500ff",
@@ -11442,7 +11744,7 @@
         "Menopausa",
         "Sono em Mulheres"
       ],
-      "fetched_at": "2026-10-23T14:43:35.409695+00:00"
+      "fetched_at": "2026-10-24T13:53:12.811745+00:00"
     },
     {
       "id": "9256977c01f488908f184cd0ff6ac242",
@@ -11455,7 +11757,7 @@
       "topics": [
         "Testosterona"
       ],
-      "fetched_at": "2026-10-23T14:42:48.839723+00:00"
+      "fetched_at": "2026-10-24T13:52:24.369934+00:00"
     },
     {
       "id": "4a97e34d68d388f8a809d90e522be8ed",
@@ -11469,7 +11771,7 @@
         "Estradiol",
         "Progesterona"
       ],
-      "fetched_at": "2026-10-23T14:43:15.955302+00:00"
+      "fetched_at": "2026-10-24T13:52:51.949141+00:00"
     },
     {
       "id": "03d5ffe984063f1602b431edde1e16a8",
@@ -11498,7 +11800,7 @@
         "Perimenopausa",
         "Sono em Mulheres"
       ],
-      "fetched_at": "2026-10-23T14:43:08.288963+00:00"
+      "fetched_at": "2026-10-24T13:52:44.018528+00:00"
     },
     {
       "id": "68906f41ecd079e46e37f3c897752aae",
@@ -11564,7 +11866,7 @@
       "topics": [
         "Lipedema"
       ],
-      "fetched_at": "2026-10-23T14:43:30.783460+00:00"
+      "fetched_at": "2026-10-24T13:53:09.002035+00:00"
     },
     {
       "id": "2f58c847a95b09eeab105e4d160d8117",
@@ -11592,7 +11894,7 @@
         "Testosterona",
         "Brain Fog"
       ],
-      "fetched_at": "2026-10-23T14:43:35.413672+00:00"
+      "fetched_at": "2026-10-24T13:53:12.815393+00:00"
     },
     {
       "id": "87bacb05c5431c16090e692e9848d50a",
@@ -11618,7 +11920,7 @@
       "topics": [
         "Lipedema"
       ],
-      "fetched_at": "2026-10-23T14:43:31.868400+00:00"
+      "fetched_at": "2026-10-24T13:53:10.156029+00:00"
     },
     {
       "id": "919d2817a78da4e8b7d5e831071212a0",
@@ -11631,7 +11933,7 @@
       "topics": [
         "Lipedema"
       ],
-      "fetched_at": "2026-10-23T14:43:31.868450+00:00"
+      "fetched_at": "2026-10-24T13:53:10.156074+00:00"
     },
     {
       "id": "2ba1efa57e23e9c690545b6609c28045",
@@ -11644,7 +11946,7 @@
       "topics": [
         "Menopausa"
       ],
-      "fetched_at": "2026-10-23T14:43:18.436447+00:00"
+      "fetched_at": "2026-10-24T13:52:55.294422+00:00"
     },
     {
       "id": "6f82db594fc675619dc87bc608c6508b",
@@ -11684,7 +11986,7 @@
         "Menopausa",
         "Brain Fog"
       ],
-      "fetched_at": "2026-10-23T14:43:32.935236+00:00"
+      "fetched_at": "2026-10-24T13:53:11.400627+00:00"
     },
     {
       "id": "ce29cc3b1a5dd745af9f0da0e25ba123",
@@ -11697,7 +11999,7 @@
       "topics": [
         "Lipedema"
       ],
-      "fetched_at": "2026-10-23T14:43:30.784405+00:00"
+      "fetched_at": "2026-10-24T13:53:09.002806+00:00"
     },
     {
       "id": "2c229ed32d0802381ef470ff4bc11a76",
@@ -11710,7 +12012,7 @@
       "topics": [
         "Lipedema"
       ],
-      "fetched_at": "2026-10-23T14:43:30.784449+00:00"
+      "fetched_at": "2026-10-24T13:53:09.002845+00:00"
     },
     {
       "id": "61e9a2ae7688a82be22eda794525dad8",
@@ -11723,7 +12025,7 @@
       "topics": [
         "Lipedema"
       ],
-      "fetched_at": "2026-10-23T14:43:30.784496+00:00"
+      "fetched_at": "2026-10-24T13:53:09.002886+00:00"
     },
     {
       "id": "007ec63872414f1e5ad38aaa92d1ad4c",
@@ -11736,7 +12038,7 @@
       "topics": [
         "Lipedema"
       ],
-      "fetched_at": "2026-10-23T14:43:30.784541+00:00"
+      "fetched_at": "2026-10-24T13:53:09.002925+00:00"
     },
     {
       "id": "5441b21e0f1f25f05099a723c18424df",
@@ -11858,7 +12160,7 @@
         "Brain Fog",
         "Cérebro Feminino"
       ],
-      "fetched_at": "2026-10-23T14:43:38.224080+00:00"
+      "fetched_at": "2026-10-24T13:53:15.227106+00:00"
     },
     {
       "id": "c4b5ee8fe4b1f8c3cf40adc3fccd55fb",
@@ -11872,20 +12174,25 @@
         "Menopausa",
         "Brain Fog"
       ],
-      "fetched_at": "2026-10-23T14:43:32.935763+00:00"
+      "fetched_at": "2026-10-24T13:53:11.401049+00:00"
     },
     {
       "id": "77b55b908ebf893849b5434239529fb8",
       "title": "Introduction to special issue: the influence of menopause and other hormonal changes on neuropsychological functioning",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42677871/",
       "source": "PubMed",
-      "summary": "Journal of clinical and experimental neuropsychology · Sullivan-Baca E, Ellison RL",
+      "summary": "BackgroundMenopause has historically been viewed through the lens of hormonal influences on sex organs and reproduction, despite evidence of widespread systemic hormonal effects. When seen through a neuropsychological perspective, it is critical to understand that many sex hormones, including estrogen, progesterone, testosterone, luteinizing hormone, and anti-Mullerian hormone, directly influence ",
       "image": null,
       "published": "2026-09-01T00:00:00+00:00",
       "topics": [
-        "Menopausa"
+        "Menopausa",
+        "Estradiol",
+        "Testosterona",
+        "Perimenopausa",
+        "Progesterona",
+        "Cérebro Feminino"
       ],
-      "fetched_at": "2026-10-23T14:43:32.935864+00:00"
+      "fetched_at": "2026-10-24T13:52:12.834976+00:00"
     },
     {
       "id": "b896671fd91b099bce83886528a29376",
@@ -11899,7 +12206,7 @@
         "Menopausa",
         "Estradiol"
       ],
-      "fetched_at": "2026-10-23T14:42:55.993597+00:00"
+      "fetched_at": "2026-10-24T13:52:31.958355+00:00"
     },
     {
       "id": "e35d2d012f04fe131bf14cd9b1c4cd1d",
@@ -11914,7 +12221,7 @@
         "Estradiol",
         "Perimenopausa"
       ],
-      "fetched_at": "2026-10-23T14:42:36.867052+00:00"
+      "fetched_at": "2026-10-24T13:52:11.246510+00:00"
     },
     {
       "id": "cf38c9c431042e1fe2824757004c394b",
@@ -11927,7 +12234,7 @@
       "topics": [
         "Menopausa"
       ],
-      "fetched_at": "2026-10-23T14:42:36.867115+00:00"
+      "fetched_at": "2026-10-24T13:52:11.246563+00:00"
     },
     {
       "id": "4f295edd6b2f3021b71d6a8cb5452212",
@@ -11941,7 +12248,7 @@
         "Menopausa",
         "Perimenopausa"
       ],
-      "fetched_at": "2026-10-23T14:42:55.993644+00:00"
+      "fetched_at": "2026-10-24T13:52:31.958398+00:00"
     },
     {
       "id": "4023a8e64cc26528b63750a001fd9c8a",
@@ -11954,7 +12261,7 @@
       "topics": [
         "Menopausa"
       ],
-      "fetched_at": "2026-10-23T14:42:55.993685+00:00"
+      "fetched_at": "2026-10-24T13:52:31.958436+00:00"
     },
     {
       "id": "9fc053104897d0a5e4f540d1d854b6c0",
@@ -11967,7 +12274,7 @@
       "topics": [
         "Menopausa"
       ],
-      "fetched_at": "2026-10-23T14:42:36.867266+00:00"
+      "fetched_at": "2026-10-24T13:52:11.246685+00:00"
     },
     {
       "id": "e3f8e43d9b409895ff0337e5ca85e3b6",
@@ -11980,7 +12287,7 @@
       "topics": [
         "Menopausa"
       ],
-      "fetched_at": "2026-10-23T14:42:36.867327+00:00"
+      "fetched_at": "2026-10-24T13:52:11.246733+00:00"
     },
     {
       "id": "ae3e42bc65e50213ae2950040c720c67",
@@ -11995,7 +12302,7 @@
         "Estradiol",
         "Perimenopausa"
       ],
-      "fetched_at": "2026-10-23T14:42:39.010864+00:00"
+      "fetched_at": "2026-10-24T13:52:12.834289+00:00"
     },
     {
       "id": "69e665fcf34ff4d338dc96cd71f18775",
@@ -12009,7 +12316,7 @@
         "Brain Fog",
         "Cérebro Feminino"
       ],
-      "fetched_at": "2026-10-23T14:42:39.012059+00:00"
+      "fetched_at": "2026-10-24T13:52:12.835314+00:00"
     },
     {
       "id": "d7a4c6142880ca5f732f96a64f5930cf",
@@ -12022,7 +12329,7 @@
       "topics": [
         "Cérebro Feminino"
       ],
-      "fetched_at": "2026-10-23T14:42:39.012255+00:00"
+      "fetched_at": "2026-10-24T13:52:12.835470+00:00"
     },
     {
       "id": "0d0307578ec60401f7ae1364a4b5ddc5",
@@ -12091,7 +12398,7 @@
         "Terapia Hormonal",
         "Estradiol"
       ],
-      "fetched_at": "2026-10-23T14:43:38.223118+00:00"
+      "fetched_at": "2026-10-24T13:53:15.226212+00:00"
     },
     {
       "id": "e0639a49e33526f9f09cd0f2bb0dad94",
@@ -12106,7 +12413,7 @@
         "Estradiol",
         "Brain Fog"
       ],
-      "fetched_at": "2026-10-23T14:43:41.683323+00:00"
+      "fetched_at": "2026-10-24T13:53:18.657858+00:00"
     },
     {
       "id": "0cb54b48fabf319d242729fd1e8434ad",
@@ -12120,7 +12427,7 @@
         "Menopausa",
         "Sono em Mulheres"
       ],
-      "fetched_at": "2026-10-23T14:42:58.275376+00:00"
+      "fetched_at": "2026-10-24T13:52:34.429065+00:00"
     },
     {
       "id": "1edde6e81019826278f69d7cbc5456c5",
@@ -12149,7 +12456,7 @@
         "Testosterona",
         "Progesterona"
       ],
-      "fetched_at": "2026-10-23T14:42:59.886687+00:00"
+      "fetched_at": "2026-10-24T13:52:35.894991+00:00"
     },
     {
       "id": "1e99f403ce8f857c6588f600de8599e7",
@@ -12230,7 +12537,7 @@
         "Menopausa",
         "Perimenopausa"
       ],
-      "fetched_at": "2026-10-23T14:43:41.683323+00:00"
+      "fetched_at": "2026-10-24T13:53:18.657858+00:00"
     },
     {
       "id": "9d7e8e53db77bfb08cbfd79577f230fc",
@@ -12257,7 +12564,7 @@
       "topics": [
         "Sono em Mulheres"
       ],
-      "fetched_at": "2026-10-23T14:42:59.886308+00:00"
+      "fetched_at": "2026-10-24T13:52:35.894659+00:00"
     },
     {
       "id": "c16484632c3eb384b3e9a982d85170d3",
@@ -12284,7 +12591,7 @@
       "topics": [
         "Menopausa"
       ],
-      "fetched_at": "2026-10-23T14:43:38.224217+00:00"
+      "fetched_at": "2026-10-24T13:53:15.227242+00:00"
     },
     {
       "id": "f3a21686ada3cf29fa52db343624bd02",
@@ -12338,7 +12645,7 @@
       "topics": [
         "Progesterona"
       ],
-      "fetched_at": "2026-10-23T14:42:59.887212+00:00"
+      "fetched_at": "2026-10-24T13:52:35.895449+00:00"
     },
     {
       "id": "29b6c6fcaf707e873913851e7e60a260",
@@ -12365,7 +12672,7 @@
         "Terapia Hormonal",
         "Testosterona"
       ],
-      "fetched_at": "2026-10-23T14:43:13.518096+00:00"
+      "fetched_at": "2026-10-24T13:52:49.112318+00:00"
     },
     {
       "id": "102d66807a0f3cf19cd92c76d61de5c1",
@@ -12405,7 +12712,7 @@
       "topics": [
         "Menopausa"
       ],
-      "fetched_at": "2026-10-23T14:43:27.106563+00:00"
+      "fetched_at": "2026-10-24T13:53:05.118301+00:00"
     },
     {
       "id": "5ea308f6ef41290e9483a280cbab9092",
@@ -12418,7 +12725,7 @@
       "topics": [
         "Progesterona"
       ],
-      "fetched_at": "2026-10-23T14:43:12.338620+00:00"
+      "fetched_at": "2026-10-24T13:52:47.833147+00:00"
     },
     {
       "id": "4d4bd2c8a8b691e3111e0ce3c64a8baf",
@@ -12431,7 +12738,7 @@
       "topics": [
         "Sono em Mulheres"
       ],
-      "fetched_at": "2026-10-23T14:43:25.538444+00:00"
+      "fetched_at": "2026-10-24T13:53:02.659912+00:00"
     },
     {
       "id": "dd68df9ad964d364da9d8e9d62949e8b",
@@ -12445,7 +12752,7 @@
         "Menopausa",
         "Perimenopausa"
       ],
-      "fetched_at": "2026-10-23T14:43:25.538607+00:00"
+      "fetched_at": "2026-10-24T13:53:02.660054+00:00"
     },
     {
       "id": "28b3b5ffc1577fb3b588409bf9db8e26",
@@ -12459,7 +12766,7 @@
         "Menopausa",
         "Cérebro Feminino"
       ],
-      "fetched_at": "2026-10-23T14:43:27.107081+00:00"
+      "fetched_at": "2026-10-24T13:53:05.118759+00:00"
     },
     {
       "id": "0aae9be26809f6c08ea037110a5e68ae",
@@ -12512,7 +12819,7 @@
       "topics": [
         "Menopausa"
       ],
-      "fetched_at": "2026-10-23T14:43:41.683323+00:00"
+      "fetched_at": "2026-10-24T13:53:18.657858+00:00"
     },
     {
       "id": "550a712ce4b4b3d06cf68cf5b7b71805",
@@ -12525,7 +12832,7 @@
       "topics": [
         "Menopausa"
       ],
-      "fetched_at": "2026-10-23T14:43:41.683323+00:00"
+      "fetched_at": "2026-10-24T13:53:18.657858+00:00"
     },
     {
       "id": "8e776091b1826372b3a9ff9d1de36feb",
@@ -12538,7 +12845,7 @@
       "topics": [
         "Menopausa"
       ],
-      "fetched_at": "2026-10-23T14:43:41.683323+00:00"
+      "fetched_at": "2026-10-24T13:53:18.657858+00:00"
     },
     {
       "id": "7f3f13b1156d1ee2b0d91752beec0d5f",
@@ -12564,7 +12871,7 @@
       "topics": [
         "Testosterona"
       ],
-      "fetched_at": "2026-10-23T14:43:42.493676+00:00"
+      "fetched_at": "2026-10-24T13:53:20.473717+00:00"
     },
     {
       "id": "497faa262c56631824072857f8b5b597",
@@ -12577,7 +12884,7 @@
       "topics": [
         "Menopausa"
       ],
-      "fetched_at": "2026-10-23T14:43:43.294397+00:00"
+      "fetched_at": "2026-10-24T13:53:22.008034+00:00"
     },
     {
       "id": "86296b62fc88ec020c39e07acd47721d",
@@ -12590,7 +12897,7 @@
       "topics": [
         "Menopausa"
       ],
-      "fetched_at": "2026-10-23T14:43:43.294397+00:00"
+      "fetched_at": "2026-10-24T13:53:22.008034+00:00"
     },
     {
       "id": "bd6cae75edafe435935ef3b77eda56ba",
@@ -12603,7 +12910,7 @@
       "topics": [
         "Menopausa"
       ],
-      "fetched_at": "2026-10-23T14:43:43.294397+00:00"
+      "fetched_at": "2026-10-24T13:53:22.008034+00:00"
     },
     {
       "id": "a4bf951fe8b0bb29ad04db258a28ebef",
@@ -12616,7 +12923,7 @@
       "topics": [
         "Menopausa"
       ],
-      "fetched_at": "2026-10-23T14:43:43.294397+00:00"
+      "fetched_at": "2026-10-24T13:53:22.008034+00:00"
     },
     {
       "id": "bb487939b963dba61138141d7ecd9620",
@@ -12629,7 +12936,7 @@
       "topics": [
         "Menopausa"
       ],
-      "fetched_at": "2026-10-23T14:43:43.294397+00:00"
+      "fetched_at": "2026-10-24T13:53:22.008034+00:00"
     },
     {
       "id": "62dce90d615861517e96bd7afb90b000",
@@ -12643,7 +12950,7 @@
         "Menopausa",
         "Progesterona"
       ],
-      "fetched_at": "2026-10-23T14:43:43.294397+00:00"
+      "fetched_at": "2026-10-24T13:53:22.008034+00:00"
     },
     {
       "id": "77f64ef487225def38d9afa20973e270",
@@ -12656,7 +12963,7 @@
       "topics": [
         "Lipedema"
       ],
-      "fetched_at": "2026-10-23T14:43:30.783508+00:00"
+      "fetched_at": "2026-10-24T13:53:09.002077+00:00"
     },
     {
       "id": "c10132d09ff834f1a877601c05d6b490",
@@ -12683,7 +12990,7 @@
         "Endometriose",
         "Tirzepatida"
       ],
-      "fetched_at": "2026-10-22T14:54:17.486779+00:00"
+      "fetched_at": "2026-10-24T13:52:07.371551+00:00"
     },
     {
       "id": "3ec090e3001febbbe493ff156ff359fe",
@@ -12709,7 +13016,7 @@
       "topics": [
         "Menopausa"
       ],
-      "fetched_at": "2026-10-23T14:43:27.105590+00:00"
+      "fetched_at": "2026-10-24T13:53:05.117424+00:00"
     },
     {
       "id": "8405031dcd7dd29f7c6fe23bebe0f1fe",
@@ -12722,7 +13029,7 @@
       "topics": [
         "Estradiol"
       ],
-      "fetched_at": "2026-10-23T14:43:38.220850+00:00"
+      "fetched_at": "2026-10-24T13:53:15.224142+00:00"
     },
     {
       "id": "34d048cfb011d1b8d464cd3f01e588bb",
@@ -12748,7 +13055,7 @@
       "topics": [
         "Menopausa"
       ],
-      "fetched_at": "2026-10-23T14:42:36.866958+00:00"
+      "fetched_at": "2026-10-24T13:52:11.246428+00:00"
     },
     {
       "id": "331d08185049997e1713775f2d25a0dc",
@@ -12761,7 +13068,7 @@
       "topics": [
         "Lipedema"
       ],
-      "fetched_at": "2026-10-23T14:43:30.784249+00:00"
+      "fetched_at": "2026-10-24T13:53:09.002673+00:00"
     },
     {
       "id": "6de1d56d6b6b441bab4f578c72952eea",
@@ -12774,7 +13081,7 @@
       "topics": [
         "Lipedema"
       ],
-      "fetched_at": "2026-10-23T14:43:30.784298+00:00"
+      "fetched_at": "2026-10-24T13:53:09.002712+00:00"
     },
     {
       "id": "3da500c4e8dcfb6182eedf86c2edd896",
@@ -12787,7 +13094,7 @@
       "topics": [
         "Brain Fog"
       ],
-      "fetched_at": "2026-10-23T14:43:35.416813+00:00"
+      "fetched_at": "2026-10-24T13:53:12.818294+00:00"
     },
     {
       "id": "86d5dd29e1a2aadbf76926cd841b96a6",
@@ -12800,7 +13107,7 @@
       "topics": [
         "Lipedema"
       ],
-      "fetched_at": "2026-10-23T14:43:31.868140+00:00"
+      "fetched_at": "2026-10-24T13:53:10.155784+00:00"
     },
     {
       "id": "e091e733c3c8199ae9c6b2e242f07656",
@@ -12839,7 +13146,7 @@
       "topics": [
         "Menopausa"
       ],
-      "fetched_at": "2026-10-23T14:43:43.294397+00:00"
+      "fetched_at": "2026-10-24T13:53:22.008034+00:00"
     },
     {
       "id": "dc2b328d6dd8458478dec8b932e3ca7c",
@@ -12905,7 +13212,7 @@
       "topics": [
         "Cérebro Feminino"
       ],
-      "fetched_at": "2026-10-23T14:43:35.412434+00:00"
+      "fetched_at": "2026-10-24T13:53:12.814261+00:00"
     },
     {
       "id": "fb048b96cc8918b5796e09282dd56d27",
@@ -12931,7 +13238,7 @@
       "topics": [
         "Menopausa"
       ],
-      "fetched_at": "2026-10-23T14:42:36.866895+00:00"
+      "fetched_at": "2026-10-24T13:52:11.246372+00:00"
     },
     {
       "id": "b84ab3061efa20d7382a80dc5190e56a",
@@ -12944,7 +13251,7 @@
       "topics": [
         "Endometriose"
       ],
-      "fetched_at": "2026-10-23T14:43:42.493676+00:00"
+      "fetched_at": "2026-10-24T13:53:20.473717+00:00"
     },
     {
       "id": "a6ce5306135836af5d23215251e22dff",
@@ -12957,7 +13264,7 @@
       "topics": [
         "Menopausa"
       ],
-      "fetched_at": "2026-10-23T14:43:01.064428+00:00"
+      "fetched_at": "2026-10-24T13:52:37.328811+00:00"
     },
     {
       "id": "855d9e0c2cc5ff4592b14801d83088d1",
@@ -12972,7 +13279,7 @@
         "Estradiol",
         "Cérebro Feminino"
       ],
-      "fetched_at": "2026-10-23T14:43:38.224657+00:00"
+      "fetched_at": "2026-10-24T13:53:15.227660+00:00"
     },
     {
       "id": "7d09b348023b6cbd469d67394f5aaca8",
@@ -12985,7 +13292,7 @@
       "topics": [
         "Lipedema"
       ],
-      "fetched_at": "2026-10-23T14:43:30.783905+00:00"
+      "fetched_at": "2026-10-24T13:53:09.002416+00:00"
     },
     {
       "id": "82a3d62a5e248258d9f338df3101991a",
@@ -13025,7 +13332,7 @@
       "topics": [
         "Progesterona"
       ],
-      "fetched_at": "2026-10-23T14:43:13.518528+00:00"
+      "fetched_at": "2026-10-24T13:52:49.112709+00:00"
     },
     {
       "id": "83fe9e25b3846de0ba9faa3a14a93b1e",
@@ -13065,7 +13372,7 @@
       "topics": [
         "Brain Fog"
       ],
-      "fetched_at": "2026-10-23T14:43:44.169145+00:00"
+      "fetched_at": "2026-10-24T13:53:23.249680+00:00"
     },
     {
       "id": "ac7b7dafcab550224548de3a1710fbe4",
@@ -13078,7 +13385,7 @@
       "topics": [
         "Endometriose"
       ],
-      "fetched_at": "2026-10-23T14:43:45.044358+00:00"
+      "fetched_at": "2026-10-24T13:53:24.371853+00:00"
     },
     {
       "id": "a74cf55056b4fb813cfb0d6cd5f01c74",
@@ -13091,7 +13398,7 @@
       "topics": [
         "Cérebro Feminino"
       ],
-      "fetched_at": "2026-10-23T14:43:27.106740+00:00"
+      "fetched_at": "2026-10-24T13:53:05.118456+00:00"
     },
     {
       "id": "8d080432eb2309ee4589249368e7e3ab",
@@ -13130,7 +13437,7 @@
       "topics": [
         "Adenomiose"
       ],
-      "fetched_at": "2026-10-23T14:42:34.091408+00:00"
+      "fetched_at": "2026-10-24T13:52:08.550411+00:00"
     },
     {
       "id": "268110239777d4b5906e6348683857e4",
@@ -13158,301 +13465,6 @@
         "Perimenopausa"
       ],
       "fetched_at": "2026-10-01T10:14:41.712416+00:00"
-    },
-    {
-      "id": "1b0ca2af76de18ab2cc210786f9f73d4",
-      "title": "The Silent Vascular Shift: Endothelial Dysfunction and Cardiovascular Risk in Menopausal Women",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42708272/",
-      "source": "PubMed",
-      "summary": "Cardiovascular & hematological disorders drug targets · Saini A, Verma I, Bhatia R",
-      "image": null,
-      "published": "2026-08-29T00:00:00+00:00",
-      "topics": [
-        "Menopausa"
-      ],
-      "fetched_at": "2026-09-29T10:14:27.767331+00:00"
-    },
-    {
-      "id": "cda6d884654050fbc004b86674f1d780",
-      "title": "Vaginal high-intensity focused ultrasound in women with genitourinary syndrome of menopause: a prospective exploratory study",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42667009/",
-      "source": "PubMed",
-      "summary": "IntroductionEnergy-based therapies for genitourinary syndrome of menopause (GSM) remain controversial, and evidence for vaginal high-intensity focused ultrasound (HIFU) is limited. The aim of this study was to evaluate the safety and exploratory efficacy of vaginal HIFU in women with GSM.MethodsIn this prospective, single-arm, exploratory study, women with GSM underwent vaginal HIFU and were follo",
-      "image": null,
-      "published": "2026-08-28T00:00:00+00:00",
-      "topics": [
-        "Menopausa"
-      ],
-      "fetched_at": "2026-10-16T10:26:02.057968+00:00"
-    },
-    {
-      "id": "cd66d7cdc52e3d4247b0c219c2eb4084",
-      "title": "Evidence-based recommendations for advancing the chronic pelvic pain syndrome management by the paradigm change from reactive symptom suppression to proactive 3PM-guided patient-centered care",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42682645/",
-      "source": "PubMed",
-      "summary": "Chronic pelvic pain syndrome (CPPS) encompasses a heterogeneous group of debilitating conditions including interstitial cystitis/bladder pain syndrome (IC/BPS), chronic abacterial prostatitis, endometriosis, and pelvic congestion syndrome, among others. Despite advances in symptomatic management, CPPS remains challenging due to its multifactorial etiology, complex phenotypes, and poor response to ",
-      "image": null,
-      "published": "2026-08-28T00:00:00+00:00",
-      "topics": [
-        "Endometriose"
-      ],
-      "fetched_at": "2026-10-23T14:43:38.223919+00:00"
-    },
-    {
-      "id": "9a14212a7af33dd0fb8f672ccf8a70a0",
-      "title": "Vaginal Oestrogen Therapy for Postmenopausal Women Undergoing Prolapse Surgery: A Multicentre Double-Blind Randomised Placebo-Controlled Clinical Trial",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42663275/",
-      "source": "PubMed",
-      "summary": "ObjectiveTo determine whether vaginal oestrogen therapy improves outcomes after prolapse surgery in postmenopausal women.DesignDouble-blind, randomised, placebo-controlled trial with 12 month follow-up.SettingMulticentre, 22 hospitals in the Netherlands.PopulationPostmenopausal women with POP-Q stage ≥ 2 scheduled for primary native-tissue prolapse repair.MethodsWomen were randomised (1:1) to vagi",
-      "image": null,
-      "published": "2026-08-28T00:00:00+00:00",
-      "topics": [
-        "Menopausa",
-        "Estradiol"
-      ],
-      "fetched_at": "2026-10-23T14:43:38.225057+00:00"
-    },
-    {
-      "id": "de950b581b3f10a89bc0658de052ccf4",
-      "title": "Monitoring ovarian reserve dynamics via a high-sensitivity anti-Müllerian hormone assay in premenopausal breast cancer patients undergoing chemotherapy",
-      "url": "https://doi.org/10.1093/humrep/deag136",
-      "source": "Human Reproduction",
-      "summary": "STUDY QUESTION Does an ultra-sensitive anti-Müllerian hormone (UD-AMH) assay enhance the accuracy of ovarian dysfunction assessment in premenopausal women with breast cancer (PBC) during and after chemotherapy? SUMMARY ANSWER Low AMH levels at pre-treatment and end-of-chemotherapy, measured by the UD-AMH assay, are strong predictors for the development of premature ovarian insufficiency (POI) at 1",
-      "image": null,
-      "published": "2026-08-28T00:00:00+00:00",
-      "topics": [
-        "Menopausa"
-      ],
-      "fetched_at": "2026-10-23T14:43:45.044358+00:00"
-    },
-    {
-      "id": "c765308b5bda950382ec2a58ec5733f3",
-      "title": "Body mass index outperforms the Rotterdam criteria in defining phenotypic heterogeneity in polycystic ovary syndrome: a multicenter study from the Italian PCOS registry (PCOSOUTCOME.net)",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42663864/",
-      "source": "PubMed",
-      "summary": "PurposePolycystic ovary syndrome (PCOS) is a common and highly heterogeneous endocrine-metabolic disorder. The Rotterdam criteria identify four diagnostic phenotypes; however, it remains unclear whether these phenotypes or body mass index (BMI) better predict metabolic risk. The PCOSOUTCOME.net registry collects data from multiple Italian centers and provides an opportunity to compare the effectiv",
-      "image": null,
-      "published": "2026-08-28T00:00:00+00:00",
-      "topics": [
-        "Testosterona"
-      ],
-      "fetched_at": "2026-10-23T14:42:44.907218+00:00"
-    },
-    {
-      "id": "505cd2f3a5ecb164e3c9f23cc6963543",
-      "title": "Evaluation of a COX-2 fluorescent probe for adjunctive quantitative assessment of BV-associated inflammatory severity",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42729164/",
-      "source": "PubMed",
-      "summary": "Background and objectiveBacterial vaginosis (BV) is a prevalent lower genital tract infection linked to significant reproductive health complications. Current diagnostics are subjective or non-quantitative for clinical use. This study aims to evaluate a novel cyclooxygenase-2 (COX-2)-targeting fluorescent probe as an adjunctive quantitative tool for assessing BV-associated inflammatory severity wi",
-      "image": null,
-      "published": "2026-08-28T00:00:00+00:00",
-      "topics": [
-        "Estradiol"
-      ],
-      "fetched_at": "2026-10-23T14:43:38.227197+00:00"
-    },
-    {
-      "id": "8c3e9117ebd7915d630bdf56490b9c0b",
-      "title": "Managing Perimenopausal Bone Loss: The Role of Bisphosphonate Treatment",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42907051/",
-      "source": "PubMed",
-      "summary": "Preventing the rapid loss of bone density and structure that occurs during the perimenopause is a unique opportunity to prevent the development of postmenopausal osteoporosis and high fracture risk. For women who are not candidates for estrogen therapy, low-dose bisphosphonate therapy for 3 to 5 years can prevent perimenopausal bone loss, after which intermittent bisphosphonate therapy can maintai",
-      "image": null,
-      "published": "2026-08-28T00:00:00+00:00",
-      "topics": [
-        "Menopausa",
-        "Estradiol",
-        "Perimenopausa"
-      ],
-      "fetched_at": "2026-10-23T14:43:11.390276+00:00"
-    },
-    {
-      "id": "0052c47f799b5345199e064eea765de5",
-      "title": "A Multiparametric Ultrasound Diagnostic Model for Adenomyosis by Integrating Cervical Ultra-Microangiography and Shear Wave Elastography: A Prospective Study",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42660707/",
-      "source": "PubMed",
-      "summary": "ObjectiveTo develop and validate a multiparametric diagnostic model for adenomyosis utilizing standardized cervical anatomical landmarks. By integrating cervical shear wave elastography (SWE) and ultra-microangiography (UMA), this study aims to provide an objective and quantitative tool to complement conventional corpus-based ultrasound assessments.MethodsThis prospective study enrolled 422 women ",
-      "image": null,
-      "published": "2026-08-27T00:00:00+00:00",
-      "topics": [
-        "Adenomiose"
-      ],
-      "fetched_at": "2026-10-23T14:42:35.891532+00:00"
-    },
-    {
-      "id": "8378ff98c41027151efaadd2dfef5efa",
-      "title": "Incidental discovery of neglected 11β-hydroxylase deficiency causing 46,XX disorder of sex development in a 35-year-old adult: A radiologically driven diagnosis",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42707067/",
-      "source": "PubMed",
-      "summary": "11β-hydroxylase deficiency (11β-OHD) is the second most common form of congenital adrenal hyperplasia (CAH), characterized by androgen excess, mineralocorticoid-driven hypertension, and hypokalemia. We report a 35-year-old individual with a 46,XX karyotype, registered and raised male since birth, in whom a disorder of sexual development (DSD) had remained unrecognized. Abdominal MRI performed for ",
-      "image": null,
-      "published": "2026-08-27T00:00:00+00:00",
-      "topics": [
-        "Testosterona",
-        "Adenomiose"
-      ],
-      "fetched_at": "2026-10-23T14:43:29.743257+00:00"
-    },
-    {
-      "id": "3cc7efb75f68b2d368fd00a138c8980b",
-      "title": "A multiancestry polygenic risk score for Alzheimer's disease is associated with cognitive decline and neuropathological hallmarks in diverse populations",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42661068/",
-      "source": "PubMed",
-      "summary": "Previously derived polygenic risk scores (PRSs) for Alzheimer's disease (AD) perform inconsistently across diverse ancestries. We developed an APOE-independent multiancestry AD PRS using genome-wide association study summary statistics applied to European ancestry, African American, Caribbean Hispanic and East Asian cohorts. PRS performance was evaluated in a large independent multiancestry datase",
-      "image": null,
-      "published": "2026-08-27T00:00:00+00:00",
-      "topics": [
-        "Brain Fog"
-      ],
-      "fetched_at": "2026-10-21T10:27:23.135771+00:00"
-    },
-    {
-      "id": "6659cd9dc45492397bd15dc412227b20",
-      "title": "Physiology of menopause and the role of hormone therapy",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42661457/",
-      "source": "PubMed",
-      "summary": "Natural menopause, a biological transition in women, is often underrepresented in medical education, leading to knowledge gaps among health care professionals. This Staying Current article aims to provide physiology educators with an updated, comprehensive overview of menopause, including its physiological basis, symptomatic manifestations, and systemic effects and the current controversies and be",
-      "image": null,
-      "published": "2026-08-27T00:00:00+00:00",
-      "topics": [
-        "Menopausa",
-        "Terapia Hormonal",
-        "Perimenopausa",
-        "Sono em Mulheres"
-      ],
-      "fetched_at": "2026-10-23T14:43:11.395848+00:00"
-    },
-    {
-      "id": "f8772d221d98a8288090d39eb8934296",
-      "title": "Distinct Systemic Inflammatory Signatures in Women with Endometriosis and Infertility Without Endometriosis: Implications for Assisted Reproduction",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42796248/",
-      "source": "PubMed",
-      "summary": "Medicina (Kaunas, Lithuania) · Ghilea Seleș L, Maghiar L, Murvai VR et al.",
-      "image": null,
-      "published": "2026-08-27T00:00:00+00:00",
-      "topics": [
-        "Endometriose"
-      ],
-      "fetched_at": "2026-10-07T10:13:44.191427+00:00"
-    },
-    {
-      "id": "46bd8ef41a627088c8df1ded57613fce",
-      "title": "The Influence of Statin Therapy on Markers of Endothelial Dysfunction, Endocan and Endoglin, in Postmenopausal Women-A Prospective Study",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42792663/",
-      "source": "PubMed",
-      "summary": "Biomedicines · Šojat D, Pirić M, Lukić M et al.",
-      "image": null,
-      "published": "2026-08-27T00:00:00+00:00",
-      "topics": [
-        "Menopausa"
-      ],
-      "fetched_at": "2026-10-01T10:15:14.819973+00:00"
-    },
-    {
-      "id": "ca43bb18b94d4323012cf63f4a133ecd",
-      "title": "Sex differences in the gut microbiome and related metabolites: role in cardiometabolic disease",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42647164/",
-      "source": "PubMed",
-      "summary": "Sex differences in major cardiometabolic diseases (CMD), such as type 2 diabetes, metabolic dysfunction-associated steatotic liver disease, and cardiovascular disease, have been increasingly recognized across the life course. During the reproductive stage, women generally have a more favorable cardiometabolic risk profile than men, but their risk of experiencing CMD significantly increases after m",
-      "image": null,
-      "published": "2026-08-26T00:00:00+00:00",
-      "topics": [
-        "Menopausa"
-      ],
-      "fetched_at": "2026-10-23T14:43:15.955507+00:00"
-    },
-    {
-      "id": "32de4e409d5846386af0126c8f71030f",
-      "title": "Clinical outcomes of uterine artery embolization in different Kishi classification types of adenomyosis",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42718555/",
-      "source": "PubMed",
-      "summary": "Frontiers in medicine · Wei WJ, Chen S, Tian ZF et al.",
-      "image": null,
-      "published": "2026-08-26T00:00:00+00:00",
-      "topics": [
-        "Adenomiose"
-      ],
-      "fetched_at": "2026-10-23T14:42:34.091634+00:00"
-    },
-    {
-      "id": "0f86efd1548bd8c47d2b589a4d71a15b",
-      "title": "MRI-based radiomics for non-invasive prediction of histopathological and immunohistochemical features in ductal carcinoma in situ: Implications for risk stratification",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42647601/",
-      "source": "PubMed",
-      "summary": "BackgroundDifferentiating the immunohistochemical and histopathological features of ductal carcinoma in situ (DCIS) lesions is critical to potentially enable future tailored treatment options and de-escalation strategies.PurposeTo investigate the potential of magnetic resonance imaging (MRI) radiomics for the non-invasive prediction of estrogen receptor (ER), progesterone receptor (PR), grade, mic",
-      "image": null,
-      "published": "2026-08-26T00:00:00+00:00",
-      "topics": [
-        "Estradiol",
-        "Progesterona"
-      ],
-      "fetched_at": "2026-10-01T10:14:51.118203+00:00"
-    },
-    {
-      "id": "1aa645816bb2938a2b7397630f8b0f61",
-      "title": "Psychometric properties of the Chinese version of the Meno-D in perimenopausal women",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42687172/",
-      "source": "PubMed",
-      "summary": "BMC women's health · Li N, Tian X, Wang J et al.",
-      "image": null,
-      "published": "2026-08-26T00:00:00+00:00",
-      "topics": [
-        "Menopausa",
-        "Perimenopausa"
-      ],
-      "fetched_at": "2026-10-23T14:43:32.935626+00:00"
-    },
-    {
-      "id": "6c673dbdc063e00e7368669bc4213f1e",
-      "title": "Performance and safety of a moisturising hyaluronic acid-based ovule in alleviating vaginal dryness and dyspareunia: a prospective multicentre study",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42643155/",
-      "source": "PubMed",
-      "summary": "BackgroundVulvovaginal dryness affects women of all ages and is particularly prevalent after menopause. Hyaluronic Acid (HA)-containing products may improve hydration and lubrication of the vulvovaginal mucosa.ObjectivesTo assess the performance and safety of HA-based vaginal ovule (MucoGYNE), in relieving symptoms of vaginal dryness and dyspareunia.MethodsThis prospective, multicentre, open-label",
-      "image": null,
-      "published": "2026-08-26T00:00:00+00:00",
-      "topics": [
-        "Menopausa"
-      ],
-      "fetched_at": "2026-10-23T14:43:02.455967+00:00"
-    },
-    {
-      "id": "74d42ee8cb896f0cea082027e55a6923",
-      "title": "Dietary exposures and age at natural menopause: Evidence from the Canadian Longitudinal Study on Aging",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42667891/",
-      "source": "PubMed",
-      "summary": "ObjectiveTo examine whether ultra-processed food (UPF) intake and adherence to the Prospective Urban Rural Epidemiological (PURE) Healthy Diet Score are associated with age at natural menopause (ANM) among Canadian participants.MethodsThis longitudinal cohort study used data from 1972 biological females aged ≥45 years who were premenopausal at baseline in the Canadian Longitudinal Study on Aging (",
-      "image": null,
-      "published": "2026-08-26T00:00:00+00:00",
-      "topics": [
-        "Menopausa"
-      ],
-      "fetched_at": "2026-09-27T21:29:45.863820+00:00"
-    },
-    {
-      "id": "e3abc49d75c433a099e80ae19ff3c15a",
-      "title": "Earlier bedtime misalignment is associated with increased severity of chemotherapy-induced hot flashes in premenopausal women with breast cancer",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42644304/",
-      "source": "PubMed",
-      "summary": "Chronobiology international · Lee SH, Jung S, Won GH et al.",
-      "image": null,
-      "published": "2026-08-26T00:00:00+00:00",
-      "topics": [
-        "Menopausa"
-      ],
-      "fetched_at": "2026-09-25T21:26:30.056926+00:00"
-    },
-    {
-      "id": "2e31508aa29b1497e2d6b7fb459094af",
-      "title": "Formulation Screening and Characterization of PLGA-Based Injectable In Situ Gel Loaded with Progesterone",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42797393/",
-      "source": "PubMed",
-      "summary": "Objective: Conventional progesterone (P4) formulations suffer from low bioavailability, severe local irritation, and poor patient adherence due to P4's poor aqueous solubility. This work aimed to develop and screen a biodegradable PLGA/NMP (Poly(lactic-co-glycolic acid)/N-methyl-2-pyrrolidone) injectable in situ gel for sustained P4 delivery to overcome these clinical limitations. Significance: Co",
-      "image": null,
-      "published": "2026-08-26T00:00:00+00:00",
-      "topics": [
-        "Progesterona"
-      ],
-      "fetched_at": "2026-10-23T14:43:13.518364+00:00"
     }
   ]
 }
